@@ -122,3 +122,7 @@ Algorithm
 - [___글 읽기 - 코드포스 오렌지~레드 이상이 되기 위해선 어떤 공부 방식이 도움이 많이 될까요?___](https://www.acmicpc.net/board/view/19849)
 - [AoPS Community](https://artofproblemsolving.com/community) (Art of Problem Solving)
 - [Being good competitive programmer correlates negatively with being good on the job? What do you think? - Codeforces](https://codeforces.com/blog/entry/17302)
+
+
+<br/><br/>
+
