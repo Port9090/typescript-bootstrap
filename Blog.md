@@ -62,3 +62,65 @@ Developer Blogs
 - [[정보통신기술용어해설]](http://www.ktword.co.kr/word/index.php) (차재복)
 - [ — Sungjoo Ha](http://www.shurain.net/) (하성주)
 - [사만다의 브런치](https://brunch.co.kr/@samantha89) (이수경, 카카오 브레인 content creator)
+- [limyoungjoo](https://limyoungjoo.com/) (임영주)  <br/><br/>
+- [ - Lucy Park](https://www.lucypark.kr/)
+    - [Presentations by Lucy Park - Speaker Deck](https://speakerdeck.com/e9t)
+- [Yoonseok Pyo](http://robotpilot.net/) (표윤석, robotics)
+- [IT 기술 따라잡기 :: IT 기술 따라잡기](https://coronasdk.tistory.com/)
+- [Blog · Jinyong](http://jinyongjeong.github.io/) (Jinyong Jeong)
+- [martinfowler.com](https://martinfowler.com/) (refactoring)
+- [Logic's home](http://simpleai.co.kr/)
+- [개발자 이상현 :: 개발자 이상현](https://pgmrlsh.tistory.com/)
+    - [개발자 이상현 :: 문맹 청각장애인을 위한 AI 수화 번역 어플리케이션](https://pgmrlsh.tistory.com/21)
+- [딥러닝 논문 요약, 명상 : 네이버 블로그](https://blog.naver.com/sogangori) (Park Chunduck)
+- [DevBoard](https://pw486.github.io/) (임동건, Donggeon Lim)  <br/><br/>
+- [Mimul - Software Engineer, Blogger, Biker](https://www.mimul.com/) (하호진)
+    - [CTO는 무엇을 해야하나? | Mimul Tech log](https://www.mimul.com/blog/what-does-a-cto-do/)
+- [Greg Brockman's Home Page](https://gregbrockman.com/)
+    - [___#define CTO___](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
+- [Amr A. Awadallah](http://www.awadallah.com/)
+    - [What does a CTO do? » Amr Awadallah Blog](http://www.awadallah.com/blog/2013/03/05/what-does-a-cto-do-2/)
+- [Live or Leave](https://seokjun.kim/) (김석준)
+    - [회사는 어떻게 운영해야 할까?](https://seokjun.kim/how-to-run-a-company/)
+- [home | Yogicat Frontend developer from Seoul](https://yogicat.dev/) (오다혜)
+- [로토의 블로그](https://blog.roto.codes/) (김태희)  <br/><br/>
+- [devpools blog](http://www.devpools.kr/) (개발 바보들의 놀이터)
+- [city7310 (PlanB)](https://velog.io/@city7310) (조민규, ab180)
+- [Engineer Man - YouTube](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/videos) 
+- [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/) (The Art of Computer Programming)
+- [Joseph (Jay) B. Kadane](http://www.stat.cmu.edu/~kadane/)
+- [Bakwi's PlayGround](http://bakwi.io/) (안병욱)
+- [Jisu Jeong – Medium](https://medium.com/@harry_41860)
+    - [___볼 영화 추천해줄게 - Jisu Jeong - Medium___](https://medium.com/@harry_41860/%EB%B3%BC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%84%EA%B2%8C-b33a4878aa3e)
+- [dorian-dev — Steemit](https://steemit.com/@dorian-dev)
+- [강진우의 브런치](https://brunch.co.kr/@alden#articles) (beNX)  <br/><br/>
+- [룰루랄라코딩 ](https://blog.lulab.net/)
+- [줌코딩의 코딩일기](https://zoomkoding.github.io/)
+    - [(리눅스 시스템 프로그래밍) OS Multithread Programming + C 예제코드](https://zoomkoding.github.io/os/linux/2019/04/08/os-thread.html)
+    - [(리눅스 시스템 프로그래밍) OS Socket Programming + C예제코드](https://zoomkoding.github.io/os/linux/2019/04/07/os-socket.html)
+    - [Codeforces Round 600 (Div. 2) 후기 및 문제 풀이 (블루 등극!!!!)](https://zoomkoding.github.io/codeforces/2019/11/17/codeforces-600.html)
+    - [나의 비효율적이지만 효율적인 알고리즘 공부법 (코딩테스트를 준비하는 이들에게)](https://zoomkoding.github.io/%ED%9A%8C%EA%B3%A0/2019/12/05/how-to-algo.html)
+- ['목록' 카테고리의 글 목록 :: HwanShell](https://hwan-shell.tistory.com/category)
+- [PinkWink :: PinkWink](https://pinkwink.kr/) (Robotics)
+- [Jesang Yoon – Medium](https://medium.com/@yoonjs2) (Jesang Yoon, Co-Founder & CTO of HBSmith, Software Developer)
+- [All Things Distributed - All Things Distributed](https://www.allthingsdistributed.com/) (___Werner Vogels, CTO - Amazon.com___)  <br/><br/>
+- [Swear not by the wiki, the fickle wiki, the inconstant wiki](https://www.crummy.com/) (Leonard Richardson)
+    - [Beautiful Soup: We called him Tortoise because he taught us.](https://www.crummy.com/software/BeautifulSoup/)
+- [Beomi's Tech blog](https://beomi.github.io/)
+- [___Overreacted — A blog by Dan Abramov___](https://overreacted.io/)
+    - [diagram of modern React lifecycle methods](https://twitter.com/dan_abramov/status/981712092611989509)
+- [Hanumoka, IT Blog](https://www.hanumoka.net/)
+- [Paul Irish](https://www.paulirish.com/) (Google Chrome)
+- [Ryan Lee](https://shlee1353.github.io/)
+- [Dev Ed - YouTube](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/)
+- [갈아먹는 머신러닝](https://yeomko.tistory.com/)  <br/><br/>
+- [Jason Turner - YouTube](https://www.youtube.com/c/JasonTurner-lefticus/featured) (C++ Weekly)
+- [desowin's mainsite](https://desowin.org/)
+- [기린 블로그](https://fishpoint.tistory.com/)
+- [Adam Geitgey](https://www.adamgeitgey.com/)
+
+
+ <br/><br/>
+ 
+ 
+ 
