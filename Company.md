@@ -136,3 +136,14 @@ Company sites for Developers
 - [WATCHA – Medium](https://medium.com/watcha)
     - [왓챠에서 R&D연구원이 하는 일 - WATCHA - Medium](https://medium.com/watcha/%EC%99%93%EC%B1%A0%EC%97%90%EC%84%9C-r-d%EC%97%B0%EA%B5%AC%EC%9B%90%EC%9D%B4-%ED%95%98%EB%8A%94-%EC%9D%BC-2100ad6f8c4f)
 - [NC 공식 블로그](https://blog.ncsoft.com/)
+- [XEHub – Medium](https://medium.com/xehub)
+- [핑퐁팀 블로그](https://blog.pingpong.us/) (Scatter Lab, PINGPONG AI RESEARCH)
+- [당근마켓 팀블로그 – Medium](https://medium.com/daangn)
+- [ZUM 기술 블로그](https://zuminternet.github.io/)
+- [Blog - 리디주식회사 RIDI Corporation](https://www.ridicorp.com/blog/)
+- [컬리 기술 블로그](https://helloworld.kurly.com/)  <br/><br/>
+- [How we build MyRealTrip – Medium](https://medium.com/myrealtrip-product)
+
+
+ <br/><br/>
+
