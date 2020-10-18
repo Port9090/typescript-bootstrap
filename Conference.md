@@ -9,4 +9,5 @@ Conference & Contest
  <br/><br/><br/>
 - [파이콘 한국 2019](https://www.pycon.kr/)
 - [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
-- [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.na
+- [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.naver.com/) 
+- [Home - DevGround](http://devground.hanbit.co.kr/
