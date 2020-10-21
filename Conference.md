@@ -11,4 +11,4 @@ Conference & Contest
 - [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
 - [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.naver.com/) 
 - [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
-- 
+- [UDC 2019](https://udc.upbit.com/) (Upbit Developer 
