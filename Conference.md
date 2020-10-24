@@ -13,3 +13,5 @@ Conference & Contest
 - [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
 - [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  
 - [Agile Korea Conference 2019](https://agilekorea.kr/index.html) (Agile, Culture, Human : Be The Change - 2019. 10. 18 FRI
+COEX Grand Ballroom)
+- [CppCon | The C++ Conference]
