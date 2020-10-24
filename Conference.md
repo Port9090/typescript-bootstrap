@@ -14,4 +14,4 @@ Conference & Contest
 - [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  
 - [Agile Korea Conference 2019](https://agilekorea.kr/index.html) (Agile, Culture, Human : Be The Change - 2019. 10. 18 FRI
 COEX Grand Ballroom)
-- [CppCon | The C++ Conference]
+- [CppCon | The C++ Conference](https://cppcon.org/) (September 15~20 2019 Aurora, Colo
