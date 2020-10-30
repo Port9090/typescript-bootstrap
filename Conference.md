@@ -17,4 +17,5 @@ COEX Grand Ballroom)
 - [CppCon | The C++ Conference](https://cppcon.org/) (September 15~20 2019 Aurora, Colorado, USA)
 - [MODERN GROWTH STACK 2019](https://mgs-2019.splashthat.com/) (AB180)
 - [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
-- [DEVIEW 2019](https://deview.kr/2019)  
+- [DEVIEW 2019](https://deview.kr/2019)  <br/><br/>
+- [AI WorldCup](http://aiworldcup.org/) (AI World Cup 2019 No
