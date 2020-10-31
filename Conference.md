@@ -19,4 +19,5 @@ COEX Grand Ballroom)
 - [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
 - [DEVIEW 2019](https://deview.kr/2019)  <br/><br/>
 - [AI WorldCup](http://aiworldcup.org/) (AI World Cup 2019 Nov 1 ~ Nov 3, 2019 KAIST, Korea)
-- [AI 서밋 2019 서울 | AI Summit 201
+- [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
+- [CCN 2019 • Home • 2019 Confer
