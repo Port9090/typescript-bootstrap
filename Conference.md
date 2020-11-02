@@ -20,4 +20,5 @@ COEX Grand Ballroom)
 - [DEVIEW 2019](https://deview.kr/2019)  <br/><br/>
 - [AI WorldCup](http://aiworldcup.org/) (AI World Cup 2019 Nov 1 ~ Nov 3, 2019 KAIST, Korea)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
-- [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2
+- [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
+- [WWDC19 - 
