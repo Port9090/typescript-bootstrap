@@ -22,4 +22,4 @@ COEX Grand Ballroom)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 - [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
 - [WWDC19 - Apple Developer](https://developer.apple.com/wwdc19/) (Apple Worldwide Developers Conference : Write code. Blow minds.)
-- [.NET Conf 2019](
+- [.NET Conf 2019](https://www.dotnetconf.net/) (September 23
