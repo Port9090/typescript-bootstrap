@@ -24,4 +24,4 @@ COEX Grand Ballroom)
 - [WWDC19 - Apple Developer](https://developer.apple.com/wwdc19/) (Apple Worldwide Developers Conference : Write code. Blow minds.)
 - [.NET Conf 2019](https://www.dotnetconf.net/) (September 23 — 25, 2019)
 - [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
-- [ICCV 
+- [ICCV 2019](http://iccv2019.thecvf.com/) (International Conference on Comp
