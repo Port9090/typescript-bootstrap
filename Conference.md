@@ -25,4 +25,5 @@ COEX Grand Ballroom)
 - [.NET Conf 2019](https://www.dotnetconf.net/) (September 23 — 25, 2019)
 - [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 - [ICCV 2019](http://iccv2019.thecvf.com/) (International Conference on Computer Vision 2019)
-- [2019 로보월드 | 스마트인더스트리, 스마트라이프!](http://www.robo
+- [2019 로보월드 | 스마트인더스트리, 스마트라이프!](http://www.robotworld.or.kr/wp/)
+- [Amathon 2019 | Cloud to Infinity](https://a
