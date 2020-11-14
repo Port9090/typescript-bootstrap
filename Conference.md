@@ -27,4 +27,4 @@ COEX Grand Ballroom)
 - [ICCV 2019](http://iccv2019.thecvf.com/) (International Conference on Computer Vision 2019)
 - [2019 로보월드 | 스마트인더스트리, 스마트라이프!](http://www.robotworld.or.kr/wp/)
 - [Amathon 2019 | Cloud to Infinity](https://amathon.ga/) (2019 8월 31일(토) ~ 9월 1일(일))  <br/><br/>
-- [2019 Conference]
+- [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural I
