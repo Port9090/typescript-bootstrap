@@ -29,3 +29,4 @@ COEX Grand Ballroom)
 - [Amathon 2019 | Cloud to Infinity](https://amathon.ga/) (2019 8월 31일(토) ~ 9월 1일(일))  <br/><br/>
 - [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural Information Processing Systems)
 - [2019 제1회 한국인 감정인식 경진대회](https://sites.google.com/view/kerc2019/home?authuser=0)
+- [2019 해커톤 SPEECH](https://campaign.naver.com/aihackathon_speech/) (세번
