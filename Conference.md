@@ -30,4 +30,5 @@ COEX Grand Ballroom)
 - [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural Information Processing Systems)
 - [2019 제1회 한국인 감정인식 경진대회](https://sites.google.com/view/kerc2019/home?authuser=0)
 - [2019 해커톤 SPEECH](https://campaign.naver.com/aihackathon_speech/) (세번째 네이버 AI 해커톤, AI Speech)
-- [AWSome Day 온라인 컨퍼런스 ](https://aws.am
+- [AWSome Day 온라인 컨퍼런스 ](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)
+- [삼성 오픈소스 컨퍼런스](h
