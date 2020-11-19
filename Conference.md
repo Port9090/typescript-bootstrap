@@ -32,4 +32,5 @@ COEX Grand Ballroom)
 - [2019 해커톤 SPEECH](https://campaign.naver.com/aihackathon_speech/) (세번째 네이버 AI 해커톤, AI Speech)
 - [AWSome Day 온라인 컨퍼런스 ](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)
 - [삼성 오픈소스 컨퍼런스](https://www.soscon.net/)
-- [삼성SDS Techtonic 2019](https://www.samsung
+- [삼성SDS Techtonic 2019](https://www.samsungsds.com/global/ko/about/event/techtonic2019.html#p)
+- [S
