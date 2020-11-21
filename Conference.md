@@ -33,4 +33,4 @@ COEX Grand Ballroom)
 - [AWSome Day 온라인 컨퍼런스 ](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)
 - [삼성 오픈소스 컨퍼런스](https://www.soscon.net/)
 - [삼성SDS Techtonic 2019](https://www.samsungsds.com/global/ko/about/event/techtonic2019.html#p)
-- [S
+- [SDF2019 - 변화의 시작 : 이게 정말 내 생각일까?](http://www.sdf.or.kr/20
