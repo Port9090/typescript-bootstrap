@@ -35,4 +35,5 @@ COEX Grand Ballroom)
 - [삼성SDS Techtonic 2019](https://www.samsungsds.com/global/ko/about/event/techtonic2019.html#p)
 - [SDF2019 - 변화의 시작 : 이게 정말 내 생각일까?](http://www.sdf.or.kr/2019/?lang=kr)
 - [NHN FORWARD 2019](https://forward.nhn.com/)
-- [Microsoft Ignite The Tour 2019-
+- [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
+- [A
