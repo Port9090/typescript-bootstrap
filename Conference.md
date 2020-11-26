@@ -37,4 +37,5 @@ COEX Grand Ballroom)
 - [NHN FORWARD 2019](https://forward.nhn.com/)
 - [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
 - [AI PLUS 2019](http://conf.est.ai/2019/)  <br><br>
-- [NAVER CONNECT 2020](http
+- [NAVER CONNECT 2020](https://saedu.naver.com/conf2020/intro.nhn)
+- [IBM Developer Day 2019에 참여해주셔서 감사
