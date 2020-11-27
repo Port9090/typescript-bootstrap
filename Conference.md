@@ -39,4 +39,4 @@ COEX Grand Ballroom)
 - [AI PLUS 2019](http://conf.est.ai/2019/)  <br><br>
 - [NAVER CONNECT 2020](https://saedu.naver.com/conf2020/intro.nhn)
 - [IBM Developer Day 2019에 참여해주셔서 감사합니다 - IBM Developer](https://developer.ibm.com/kr/devday2019/)
-- [DevF
+- [DevFest on Campus 2019 | Festa!](https://festa.io/events/6
