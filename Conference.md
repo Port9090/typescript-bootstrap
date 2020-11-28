@@ -40,4 +40,5 @@ COEX Grand Ballroom)
 - [NAVER CONNECT 2020](https://saedu.naver.com/conf2020/intro.nhn)
 - [IBM Developer Day 2019에 참여해주셔서 감사합니다 - IBM Developer](https://developer.ibm.com/kr/devday2019/)
 - [DevFest on Campus 2019 | Festa!](https://festa.io/events/654)
-- [Google Cloud Summit 2019](https://inthecloud.withgoogle.com/summit
+- [Google Cloud Summit 2019](https://inthecloud.withgoogle.com/summit-sel-19/home.html)
+- [GitHub Universe · Nov 13 - 14, 2019 · San Franc
