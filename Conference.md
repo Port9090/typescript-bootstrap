@@ -44,4 +44,4 @@ COEX Grand Ballroom)
 - [GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA | Join a community connected by code and turn ideas into innovations.](https://githubuniverse.com/)
 - [Post Event - Samsung Developer Conference 2019](https://www.samsungdeveloperconference.com/)
     - [Samsung Developers - YouTube](https://www.youtube.com/user/SMInnov8/videos)
-- [Bixby Developer Portal - Newsroom](ht
+- [Bixby Developer Portal - Newsroom](https://bixby.developer.samsung.com/events/ko-kr/Bixby-Developer-Da
