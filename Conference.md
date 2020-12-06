@@ -45,4 +45,5 @@ COEX Grand Ballroom)
 - [Post Event - Samsung Developer Conference 2019](https://www.samsungdeveloperconference.com/)
     - [Samsung Developers - YouTube](https://www.youtube.com/user/SMInnov8/videos)
 - [Bixby Developer Portal - Newsroom](https://bixby.developer.samsung.com/events/ko-kr/Bixby-Developer-Day-2019%EC%97%90-%EC%B4%88%EB%8C%80%ED%95%A9%EB%8B%88%EB%8B%A4) (Bixby Developer Day 2019)
-- [Kubernetes Forum Seoul 2019 - Linux Foundation Events](https://events19.linuxfoundation.org/events/k
+- [Kubernetes Forum Seoul 2019 - Linux Foundation Events](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/)
+- [AWS Community Day](https:/
