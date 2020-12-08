@@ -48,4 +48,5 @@ COEX Grand Ballroom)
 - [Kubernetes Forum Seoul 2019 - Linux Foundation Events](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/)
 - [AWS Community Day](https://aws.amazon.com/events/community-day/)   <br><br>
 - [IROS 2019 - Macau](https://www.iros2019.org/)
-- [Google I/O 2019](https://events.go
+- [Google I/O 2019](https://events.google.com/io/)
+- [Facebook Developer Conference. April 3
