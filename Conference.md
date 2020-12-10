@@ -49,4 +49,5 @@ COEX Grand Ballroom)
 - [AWS Community Day](https://aws.amazon.com/events/community-day/)   <br><br>
 - [IROS 2019 - Macau](https://www.iros2019.org/)
 - [Google I/O 2019](https://events.google.com/io/)
-- [Facebook Developer Conference. April 3
+- [Facebook Developer Conference. April 30 - May 1, 2019.San Jose, CA.](https://www.f8.com/)
+- [NVIDIA AI Conference
