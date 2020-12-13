@@ -52,4 +52,4 @@ COEX Grand Ballroom)
 - [Facebook Developer Conference. April 30 - May 1, 2019.San Jose, CA.](https://www.f8.com/)
 - [NVIDIA AI Conference 공식 홈페이지](https://www.nvidia.com/ko-kr/ai-conference/)
 - [NVIDIA DEEP LEARNING INSTITUTE 참가 안내](https://www.nvidia.co.kr/content/apac/event/kr/nvidia-deep-learning-institute-september/)
-- [DIGITAL ECONOM
+- [DIGITAL ECONOMY FORUM](http://def.or.kr/) (Unicorn Startup and Innovative growth in 
