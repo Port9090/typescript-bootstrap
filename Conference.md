@@ -54,4 +54,5 @@ COEX Grand Ballroom)
 - [NVIDIA DEEP LEARNING INSTITUTE 참가 안내](https://www.nvidia.co.kr/content/apac/event/kr/nvidia-deep-learning-institute-september/)
 - [DIGITAL ECONOMY FORUM](http://def.or.kr/) (Unicorn Startup and Innovative growth in the Digital Economy era)
 - [Wanted HR Social 2019  : New Perspectives of Work](https://www.wanted.co.kr/events/hrsocial2019)
-- [TXGX 2019 - Tec
+- [TXGX 2019 - Tech Forum By Ground X 2019](https://txgx.io/) (블록체인 기술 포럼)
+- [ZER01
