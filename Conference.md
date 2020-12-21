@@ -56,4 +56,5 @@ COEX Grand Ballroom)
 - [Wanted HR Social 2019  : New Perspectives of Work](https://www.wanted.co.kr/events/hrsocial2019)
 - [TXGX 2019 - Tech Forum By Ground X 2019](https://txgx.io/) (블록체인 기술 포럼)
 - [ZER01NE DAY 2019](http://zer01neday.com/)
-- [LINE DEVELOPER DAY 2019](https://
+- [LINE DEVELOPER DAY 2019](https://linedevday.linecorp.com/jp/2019/)  <br><br>
+- [2019 re:Invent Page](https://aws.
