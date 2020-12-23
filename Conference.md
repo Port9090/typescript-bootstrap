@@ -59,4 +59,4 @@ COEX Grand Ballroom)
 - [LINE DEVELOPER DAY 2019](https://linedevday.linecorp.com/jp/2019/)  <br><br>
 - [2019 re:Invent Page](https://aws.amazon.com/new/reinvent/) (AWS)
 - [AWS Community Day - re:Invent 특집](https://aws.amazon.com/events/community-day/)
-- [Git Merge 2020 | March 4th
+- [Git Merge 2020 | March 4th | The Majestic Downtown, Los Angeles | Home](https://gi
