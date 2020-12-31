@@ -186,3 +186,20 @@ Data Science : AI & ML & DL & RL
     - [개발자 이상현 :: [6] YOLO 데이터(이미지) 학습](https://pgmrlsh.tistory.com/6)
     - [(YOLO) You Only Look Once: Unifed, Real-Time Object Detection - Convolutional Neural Network / Object Detection - OpenResearch.ai](http://openresearch.ai/t/yolo-you-only-look-once-unifed-real-time-object-detection/67)
     - [[object detection] YOLO 모델의 원리](https://wdprogrammer.tistory.com/50)
+    - [___[분석] YOLO___](https://curt-park.github.io/2017-03-26/yolo/)
+    - [YOLO, Object Detection Network   : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220993971883)
+    - [[논문 요약12] You Only Look Once: Unified, Real-Time Object Detection](https://arclab.tistory.com/167)
+    - [[Deeplearning] YOLO!, You Only Look Once : Unified, Real-Time object Detection :: Martin](https://dhhwang89.tistory.com/51)  <br><br>
+
+
+ <br><br>
+
+
+### News
+- [Teachable Machine 2.0 makes AI easier for everyone](https://blog.google/technology/ai/teachable-machine)
+- [Neural network reconstructs human thoughts from brain waves in real time](https://techxplore.com/news/2019-10-neural-network-reconstructs-human-thoughts.html)
+
+
+ <br><br>
+
+
