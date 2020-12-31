@@ -112,3 +112,77 @@ Data Science : AI & ML & DL & RL
 - [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com/)
 - [Machine Learning ](https://bkshin.tistory.com/category/Machine%20Learning) (귀퉁이 서재, Baek Kyun Shin)
 - [___OpenCV___](https://opencv.org/) (Open Source Computer Vision)
+    - [OpenCV 튜토리얼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1Hu5LDe0_8zDwik4OdK6AYX_5DasiFd281ZHAWo-oMJI/)
+    - [Welcome to OpenCV-Python Tutorials’s documentation! — OpenCV-Python Tutorials 1 documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
+        - [Template Matching — OpenCV-Python Tutorials 1 documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html)
+- [OpenResearch.ai](http://openresearch.ai/)
+- [TensorFlow: Data and Deployment | Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+- [‍김성범[ 교수 / 산업경영공학부 ] - YouTube](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos) ([핵심 머신러닝])  <br><br>
+- [모두를 위한 컨벡스 최적화 (Convex Optimization For All) - WikiDocs](https://wikidocs.net/book/1896)
+- [WildML – Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com/)
+- [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
+- [Python, Keras and TensorFlow with Applications of Deep Neural Networks. Washington University](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
+- [Reinforcement Learning: Actor-Critic Networks | Oracle AI and Data Science Blog](https://blogs.oracle.com/datascience/reinforcement-learning%3a-actor-critic-networks)
+
+ <br><br>
+
+
+### Study
+- [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+- [AI For Filmmaking](https://rsomani95.github.io/ai-film-1.html)
+- [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
+- [Multi-Agent Hide and Seek - YouTube](https://www.youtube.com/watch?v=kopoLzvh5jY&feature=youtu.be)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-gpt2/)
+- [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/)
+- [Machine Learning for Trading | Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501) (Artificial Intelligence for Trading by WorldQuant)
+- [What is the relationship between PyTorch and Torch? - Stack Overflow](https://stackoverflow.com/questions/44371560/what-is-the-relationship-between-pytorch-and-torch)
+- [RethNet: Object-by-Object Learning for Detecting Facial Skin Problems](https://www.notion.so/RethNet-Object-by-Object-Learning-for-Detecting-Facial-Skin-Problems-da466d39dfe04450b98fdb6d932df52a)
+- [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/tensorflow-js/)  <br><br>
+- [57 Summaries of Machine Learning and NLP Research - Marek Rei](http://www.marekrei.com/blog/paper-summaries/)
+- [74 Summaries of Machine Learning and NLP Research - Marek Rei](http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/)
+- [GLUE Explained: Understanding BERT Through Benchmarks · Chris McCormick](https://mccormickml.com/2019/11/05/GLUE/)
+    - [GLUE: 벤치마크를 통해 BERT 이해하기 - Programador | Huffon Blog](https://huffon.github.io/2019/11/16/glue/)
+- [RL](https://norman3.github.io/rl/) (RL을 시작하기 전에 미리 알아야 하는 내용들)
+- [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
+- [Tombone's Computer Vision Blog: Computer Vision and Visual SLAM vs. AI Agents](http://www.computervisionblog.com/2019/11/computer-vision-and-visual-slam-vs-ai.html)
+- [[A-GIST R&V] Does Computer Vision Matter for Action? - YouTube](https://www.youtube.com/watch?v=e6q76OdIQ5U)
+    - [20191210_Does Compter Vision Matter for Action_yongyilee.pdf - Google 드라이브](https://drive.google.com/file/d/184Cs0no5484D9REvInEx4nCt0oUOnzBi/view)
+- [Getting Started with Markov Decision Processes: Reinforcement Learning](https://towardsdatascience.com/getting-started-with-markov-decision-processes-reinforcement-learning-ada7b4572ffb)
+- [Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+    - [인공지능/케라스창시자에게 배우는 딥러닝](https://ssungkang.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/%EC%BC%80%EB%9D%BC%EC%8A%A4%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D) (수학과의 좌충우돌 프로그래밍)
+    - [케라스 창시자에게 배우는 딥러닝 - Subinium의 코딩일지](https://subinium.github.io/Keras/)  <br><br>
+- [DeepOverwatch — combining TensorFlow.js, Overwatch, Computer Vision, and Music.](https://medium.com/@farzatv/deepoverwatch-combining-tensorflow-js-overwatch-computer-vision-and-music-1a84d4598bc0?)
+- [Estimating Body Mass Index from Face Images Using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
+- [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies)
+- [Large Scale Deep Learning with TensorFlow - YouTube](https://www.youtube.com/watch?v=XYwIDn00PAo) (Jeff Dean, Google)
+- [TensorFlow World 2019 - YouTube](https://www.youtube.com/playlist?list=PL055Epbe6d5YvrTKLuepaKb49BLfEnd5N)
+    - [Opening keynote - Jeff Dean - YouTube](https://www.youtube.com/watch?v=ZHoNF28Nj98)
+- [Reinforcement Learning Course | DeepMind & UCL - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+- [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+- [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
+
+
+ <br><br>
+
+
+### Papers
+- [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) 
+- [[1902.09843] Adaptive Gradient Methods with Dynamic Bound of Learning Rate](https://arxiv.org/abs/1902.09843)
+- [[1909.05379v1] Specifying Object Attributes and Relations in Interactive Scene Generation](https://arxiv.org/abs/1909.05379v1)
+    - [Specifying Object Attributes and Relations in Interactive Scene Generation - YouTube](https://www.youtube.com/watch?v=V2v0qEPsjr0)
+- [[1812.03664] Learning Embedding Adaptation for Few-Shot Learning](https://arxiv.org/abs/1812.03664)
+- [[1908.03265] On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
+- [[1708.00909] Machine learning for neural decoding](https://arxiv.org/abs/1708.00909)
+- [[1911.04252] Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
+- [[1911.08265] Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
+- [[1911.09070] EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
+    - [“EfficientDet ： Scalable and Efficient Object Detection Review”](https://hoya012.github.io/blog/EfficientDet-Review/) 
+ <br><br>
+- [[1912.02807] Combining Q-Learning and Search with Amortized Value Estimates](https://arxiv.org/abs/1912.02807)
+- [___[1506.02640] You Only Look Once: Unified, Real-Time Object Detection___](https://arxiv.org/abs/1506.02640)
+    - [[1612.08242] YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
+    - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+    - [이미지 Detection 문제와 딥러닝: YOLOv2로 얼굴인식하기](http://research.sualab.com/practice/2018/05/14/image-detection-deep-learning.html)
+    - [개발자 이상현 :: [6] YOLO 데이터(이미지) 학습](https://pgmrlsh.tistory.com/6)
+    - [(YOLO) You Only Look Once: Unifed, Real-Time Object Detection - Convolutional Neural Network / Object Detection - OpenResearch.ai](http://openresearch.ai/t/yolo-you-only-look-once-unifed-real-time-object-detection/67)
+    - [[object detection] YOLO 모델의 원리](https://wdprogrammer.tistory.com/50)
