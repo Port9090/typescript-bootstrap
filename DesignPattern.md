@@ -14,4 +14,5 @@ Design Pattern
  <br/><br/>
 
 
-### De
+### Design Pattern
+- [Decorator pattern - Wikipedia](https://en.wikipedi
