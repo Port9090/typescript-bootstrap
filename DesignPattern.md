@@ -15,4 +15,5 @@ Design Pattern
 
 
 ### Design Pattern
-- [Decorator pattern - Wikipedia](https://en.wikipedi
+- [Decorator pattern - Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
+- [Singleton pattern - Wikipedia](htt
