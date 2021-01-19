@@ -14,4 +14,11 @@ All about Food Tech
 
 ### News
 - [국내 푸드 스타트업을 리뷰하다-국내 푸드 스타트업 지형도 | Vertical Platform](https://verticalplatform.kr/archives/5029)
-- [https://www.youtube.com/watch?v=tlUm8eSDfaY](https://w
+- [https://www.youtube.com/watch?v=tlUm8eSDfaY](https://www.youtube.com/watch?v=tlUm8eSDfaY)
+
+
+ <br/><br/>
+
+
+### Conference
+- [
