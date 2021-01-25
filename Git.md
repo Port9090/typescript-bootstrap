@@ -75,3 +75,62 @@ How to Git & Github
 - [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) (git stash / git stash pop stash@{n} / git stash list / git stash drop stash@{n})
 - [git 도구 - stashing 과 cleaning · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/05/16/git-07-stashing-cleaning/) (git stash drop stash@{n})
 - [git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 : TOAST Meetup](https://meetup.toast.com/posts/45)
+- [git 명령어 : git cherry-pick :: 삐멜 소프트웨어 엔지니어](https://imasoftwareengineer.tistory.com/7) (git cherry-pick \<ref1\> \<ref2\> \<ref3\> ... )
+- [Git push/fetch 내부 동작 정리 | 기록하기](https://hongsii.github.io/2018/11/08/git-push-fetch/)
+- [Git - git-reflog Documentation](https://git-scm.com/docs/git-reflog)
+- [[git] REFLOG - REBASE 취소하기](https://americanopeople.tistory.com/206)
+- [shaking blog :: [GIT] reset 한거 취소하는 방법](https://88240.tistory.com/284) (git reflog / git reset --hard HEAD@{n})
+- [#git reflog - HEAD 변경 이력을 볼 수 있다. 커밋은 어디 안 간다.](http://ohyecloudy.com/pnotes/archives/1994/)
+- [Git을 잘 써보자- 12. git 복구 - git reflog | Suwoni-Codelab](https://suwoni-codelab.com/git/2018/04/07/Git-reflog/)  <br/><br/>
+- [Display your Resume/CV PDF in website using GitHub - Kekayan - Medium](https://medium.com/@kekayan/display-your-resume-cv-pdf-in-website-using-github-73a088ac961d)
+- [[Git] 커밋 히스토리 수정하기 :: PlanB의 백엔드 엔지니어링](https://planbs.tistory.com/entry/Git-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0) (git rebase -i HEAD~n)
+- [깃(git) - 특정 커밋의 수정 내용 확인하기](https://awesometic.tistory.com/179) (git show \<ref\>)
+- [git reflog | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
+- [Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) (trailing whitespace)
+- [git - How to change the commit author for one specific commit? - Stack Overflow](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit)
+- [git commit author 변경 (커밋 작성자 변경하기) - MadPlay's MadLife.](https://madplay.github.io/post/change-git-author-name)
+- [망원동똑똑이 :: [Git] Changes not staged for commit (modified content, untracked content) 깃 서브모듈 인식 문제](https://secjong.tistory.com/2) (하위 .git 폴더 모두 삭제하기)
+    - [하위 .git 폴더 모두 제거 - 제타위키](https://zetawiki.com/wiki/%ED%95%98%EC%9C%84_.git_%ED%8F%B4%EB%8D%94_%EB%AA%A8%EB%91%90_%EC%A0%9C%EA%B1%B0)
+    - [git submodules - How to fix "modified content, untracked content" in git? - Stack Overflow](https://stackoverflow.com/questions/50167969/how-to-fix-modified-content-untracked-content-in-git/52722775)  <br/><br/>
+- [Git - git Documentation](https://git-scm.com/docs/git#_reset_restore_and_revert) (Reset, restore and revert)
+- [Git - git-restore Documentation](https://git-scm.com/docs/git-restore)
+- [ Git 사용 중 자주 만나는 이슈 정리 ](https://parksb.github.io/article/28.html)
+- [Git - ___Credential Storage___](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
+    - [Git - git-credential-store Documentation](https://git-scm.com/docs/git-credential-store)
+    - [Git - git-credential-cache Documentation](https://git-scm.com/docs/git-credential-cache)
+    - [Github push 시 권한 에러 (___403 error___) · Jinyong](http://jinyongjeong.github.io/2019/10/27/github_403error/)
+    - [[Cookbook] Git, 이럴 때 이렇게 한다.](https://pinedance.github.io/blog/2019/05/28/Git-Cookbook)
+- [Git remote branch deleted, but still it appears in 'branch -a' - Stack Overflow](https://stackoverflow.com/questions/5094293/git-remote-branch-deleted-but-still-it-appears-in-branch-a) (___git branch -d -r \<remote name\>/\<branch name\>___)
+    - [Git - git-branch Documentation](https://git-scm.com/docs/git-branch) (Use -r together with -d to delete remote-tracking branches)  <br/><br/>
+- [[git] .gitignore 변경 반영하기. 왜 지워지지 않는거야! | by Kwoncheol Shin | Medium](https://medium.com/@kwoncharles/git-gitignore-%EB%B3%80%EA%B2%BD-%EB%B0%98%EC%98%81%ED%95%98%EA%B8%B0-3f0559947c2b)
+- [___Git subtree를 활용한 코드 공유 | blog.rhostem.com___](https://blog.rhostem.com/posts/2020-01-03-code-sharing-with-git-subtree)
+    - [Git Subtree 사용법 - 하나의 저장소에서 여러 저장소를 관리하기 | Seongho's Dev Story](https://iseongho.github.io/posts/git-subtree/)
+    - [[Git] Subtree 사용법 - ThreeSnakes의 개발 삽질 기록장 및 다이어리](https://www.three-snakes.com/git/git-subtree)
+
+
+ <br/><br/>
+  
+
+### Github
+- [SJ 아카이브 [깃허브 친해지기 2탄] 깃허브에 폴더별로 commit 다르게 설정해서 업로드하기](https://sojungarchive0414.blogspot.com/2018/03/2-commit.html)
+- [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
+- [안경잡이 개발자 :: 아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법](https://ndb796.tistory.com/51)
+- [아톰(atom) 에디터 깃(git) 연동 :: 깃(git) 편하게 사용하자 !!](http://blog.naver.com/PostView.nhn?blogId=wlgh325&logNo=221443819508&categoryNo=46&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search) 
+- [Github Tutorial : What is Pull Request?](https://www.youtube.com/watch?v=e3bjQX9jIBk)
+- [git 초보를 위한 풀리퀘스트(pull request) 방법 · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+- [github - git - remote add origin vs remote set-url origin - Stack Overflow](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin/42830632)
+- [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다.](https://thdev.tech/android/git/2018/01/21/Git-Branch/)
+- [요기요 Android 개발 Git Branch와 Release Planning -- RGP Tech Blog](https://rgpkorea.github.io/posts/ygy-android-release-planning/)
+- [Solved: Clone private repo - GitHub Community Forum](https://github.community/t5/How-to-use-Git-and-GitHub/Clone-private-repo/td-p/12616) (git clone https://(github ID):(github PWD)@github.com/(github ID)/(repository name).git) <br/><br/>
+- [git - What do you do with your branch after a pull request on GitHub? - Stack Overflow](https://stackoverflow.com/questions/7904038/what-do-you-do-with-your-branch-after-a-pull-request-on-github)
+- [Git Pull | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/syncing/git-pull) (git pull vs git pull --rebase)
+- [Difference between git pull and git pull --rebase - Stack Overflow](https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase)
+- [github - Git Desktop error " ! [remote rejected] master -> master (permission denied)" - Stack Overflow](https://stackoverflow.com/questions/51976794/git-desktop-error-remote-rejected-master-master-permission-denied)
+- [Innovative Thinking IT :: git push, pull (fatal: refusing to merge unrelated histories) 에러](https://jobc.tistory.com/177)
+- [How do I delete a Git branch locally and remotely? - Stack Overflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) (git push <remote_name> --delete <branch_name>)
+- [git - I deleted a branch in remote, how do I synchronize in local? - Stack Overflow](https://stackoverflow.com/questions/46156118/i-deleted-a-branch-in-remote-how-do-i-synchronize-in-local) (git remote prune origin)
+- [Message 'src refspec master does not match any' when pushing commits in Git - Stack Overflow](https://stackoverflow.com/questions/4181861/message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git) (git show-ref)
+- [Differences between git remote update and fetch? - Stack Overflow](https://stackoverflow.com/questions/1856499/differences-between-git-remote-update-and-fetch) (특정 remote만 fetch하기 : git fetch <remote> <remote branch>, update는 branch 단위로는 안되고 remote 단위로만 가능한 듯)
+  - [branch - How to fetch all Git branches - Stack Overflow](https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches) (git fetch --all)
+- [Remote Git branches not visible - Stack Overflow](https://stackoverflow.com/questions/41406903/remote-git-branches-not-visible) (git branch -r / git branch -a / ___git remote show \<remote\>___ : remote repo의 branch 상태를 local repo와 비교해서 각각 확인할 수 있음) <br/><br/>
+- [Can git permanently ignore a remote branch? - Stack Overflow](https://stackoverflow.com/questions/16842426/can-git-permanently-ignore-a-remote-branch) (remote branch를 log에서 삭제하고 싶다면 ***local directory에서 git이 저장하고 있는 reference 자체를 삭제***하는 방법이 가능 : rm .git/refs/remotes/\<remote\>/\<branch\>)
