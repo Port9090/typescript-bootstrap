@@ -134,3 +134,33 @@ How to Git & Github
   - [branch - How to fetch all Git branches - Stack Overflow](https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches) (git fetch --all)
 - [Remote Git branches not visible - Stack Overflow](https://stackoverflow.com/questions/41406903/remote-git-branches-not-visible) (git branch -r / git branch -a / ___git remote show \<remote\>___ : remote repo의 branch 상태를 local repo와 비교해서 각각 확인할 수 있음) <br/><br/>
 - [Can git permanently ignore a remote branch? - Stack Overflow](https://stackoverflow.com/questions/16842426/can-git-permanently-ignore-a-remote-branch) (remote branch를 log에서 삭제하고 싶다면 ***local directory에서 git이 저장하고 있는 reference 자체를 삭제***하는 방법이 가능 : rm .git/refs/remotes/\<remote\>/\<branch\>)
+- [Git Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows) (<Centralized/ Feature Branch/ Gitflow/ Forking> Workflow)
+- [Git, 가장 쉽게 사용하기 - (2) commit, branch 전략 잘 짜는 법 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220763012361&redirect=Dlog)
+- [How do I delete a Git branch locally and remotely? - Stack Overflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) (___git push --delete <remote_name> <branch_name>___)
+- [Renaming a remote - GitHub Help](https://help.github.com/en/articles/renaming-a-remote) (Change remote name from 'origin' to 'destination' : git remote rename \<origin> \<destination>)
+- [Solved: re-opening pull request - GitHub Community Forum](https://github.community/t5/How-to-use-Git-and-GitHub/re-opening-pull-request/td-p/12154)
+- [Reverting a pull request - GitHub Help](https://help.github.com/en/articles/reverting-a-pull-request)
+- [Changing the base branch of a pull request - GitHub Help](https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request)
+- [git pull --rebase 를 쓰자](https://jusths.tistory.com/60)
+- [리모트 저장소 이름변경 및 삭제 · Git, 분산버전 관리시스템](https://mylko72.gitbooks.io/git/content/remote/remove.html) (git remote rename \<current name\> \<new name\>)  <br/><br/>
+- [git the requested URL returend error : 403 해결방법](https://cheonjoosung.github.io/git/2017/07/10/it_git_permissionerror.html)
+- [[Error][Github] git push Permission denied (publickey).](https://withhamit.tistory.com/177) (git push https://\<username\>:\<password\>@github.com/\<repositoryName\>.git)
+- [MAC ) git 문제 Permission denied (publickey).](https://zeddios.tistory.com/120)
+- [[GITHUB] Slack 연동](https://withhamit.tistory.com/72?category=779255)
+- [Creating a repository from a template - GitHub Help](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+- [Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.](https://git-lfs.github.com/)
+    - [Conditions for large files - GitHub Help](https://help.github.com/en/github/managing-large-files/conditions-for-large-files)
+    - [Github에 100MB 이상의 파일을 올리는 방법 - Lim JongHyuck - Medium](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
+    - [Git LFS (Large File Storage) - 100MB 이상의 파일을 깃허브에 올리기::코딩하는 매직 독](https://dobby-the-house-elf.tistory.com/75)
+- [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
+- [Duplicating a repository - GitHub Help](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)  <br/><br/>
+- [How to write a great README for your GitHub project – dbader.org](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
+- [github - What do raw.githubusercontent.com URLs represent? - Stack Overflow](https://stackoverflow.com/questions/39065921/what-do-raw-githubusercontent-com-urls-represent)
+- [Connecting to GitHub with SSH - GitHub Docs](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+- [What happens to forks when a repository is deleted or changes visibility? - GitHub Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility)
+    - [Deleting a repository - GitHub Docs](https://docs.github.com/en/github/administering-a-repository/deleting-a-repository)
+- [version control - Set up git to pull and push all branches - Stack Overflow](https://stackoverflow.com/questions/1914579/set-up-git-to-pull-and-push-all-branches) (git push --all origin)
+
+
+ <br/><br/>
+
