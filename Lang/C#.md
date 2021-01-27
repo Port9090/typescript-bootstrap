@@ -118,3 +118,27 @@ C# Study
     - [ComboBox 의 SelectedValue 와 SelectedItem 의 성능적 차이 :: isfry's blog](https://isfry.tistory.com/113)
     - [c# - How to change WPF ComboBox SelectedText BackGround Color? - Stack Overflow](https://stackoverflow.com/questions/9905919/how-to-change-wpf-combobox-selectedtext-background-color)
     - [wpf - Change color of combobox(title box of combo box in which arrow button is displayed) - Stack Overflow](https://stackoverflow.com/questions/22653295/change-color-of-comboboxtitle-box-of-combo-box-in-which-arrow-button-is-display)
+    - [c# - WPF Combobox DefaultValue (Please Select) - Stack Overflow](https://stackoverflow.com/questions/23130763/wpf-combobox-defaultvalue-please-select)
+    - [c# - Setting a Default value in XAML in combobox - Stack Overflow](https://stackoverflow.com/questions/21023698/setting-a-default-value-in-xaml-in-combobox/21023798)
+    - [WPF: Change ComboBox arrow button color in XAML - Stack Overflow](https://stackoverflow.com/questions/31320913/wpf-change-combobox-arrow-button-color-in-xaml)
+    - [c# - Set default value in WPF ComboBox - Stack Overflow](https://stackoverflow.com/questions/21535747/set-default-value-in-wpf-combobox)
+    - [WPF Change ComboBox Button Color](https://social.msdn.microsoft.com/Forums/vstudio/en-US/80d80223-ecff-47e3-b152-8fcffaee09da/wpf-change-combobox-button-color?forum=wpf)
+- [[WPF] x:Name 과 Name 의 차이 - 신동화의 블로그](https://springisover.tistory.com/14)
+- [INotifyPropertyChanged Interface (System.ComponentModel) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.inotifypropertychanged?view=netframework-4.8) (Notifies clients that a property value has changed.)
+    - [INotifyPropertyChanged 구현체를 간단히 사용하기 - 문제 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=vactorman&logNo=220486213754)
+    - [C# WPF\] INotifyPropertyChanged 인터페이스를 이용한 데이터 바인딩 방법 :: 이프의 개발노트 & 일상](https://itpro.tistory.com/87)
+    - [(c#학원)WPF Command 패턴, 데이터.. : 네이버블로그](https://blog.naver.com/julymorning4/221424213905)
+- [ListBox Class (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.listbox?view=netframework-4.8) (Contains a list of selectable items.)
+- [ItemsControl.ItemsPanel Property (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.itemscontrol.itemspanel?view=netframework-4.8)
+- [xaml - Let TextBox stretch to fill width in StackPanel - Stack Overflow](https://stackoverflow.com/questions/11137884/let-textbox-stretch-to-fill-width-in-stackpanel)
+- [xaml - How can you bind an Indexed property to a control in WPF - Stack Overflow](https://stackoverflow.com/questions/1671376/how-can-you-bind-an-indexed-property-to-a-control-in-wpf)
+- [Selector.SelectedIndex Property (System.Windows.Controls.Primitives) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.primitives.selector.selectedindex?view=netframework-4.8)
+- [c# - PropertyChanged for indexer property - Stack Overflow](https://stackoverflow.com/questions/657675/propertychanged-for-indexer-property)
+- [Binding to Indexers – I really don't think, but I think I'm right](https://blogs.msdn.microsoft.com/xtof/2007/09/28/binding-to-indexers/)
+- [c# - WPF INotifyPropertyChanged not updating on an array property? - Stack Overflow](https://stackoverflow.com/questions/1602090/wpf-inotifypropertychanged-not-updating-on-an-array-property)
+- [Binding to a 2D-array in WPF | Nico Schertler](https://nicoschertler.wordpress.com/2014/05/22/binding-to-a-2d-array-in-wpf/)
+
+
+ <br/><br/>
+ 
+ 
