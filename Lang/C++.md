@@ -7,4 +7,5 @@ C++ Study
 
 ### References
 - [Standard C++](https://isocpp.org/)
-    - [___C++ Cor
+    - [___C++ Core Guidelines___](http://isocpp.github.io/CppCoreGuidelines/)
+- [Google C++
