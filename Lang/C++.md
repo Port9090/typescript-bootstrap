@@ -9,4 +9,4 @@ C++ Study
 - [Standard C++](https://isocpp.org/)
     - [___C++ Core Guidelines___](http://isocpp.github.io/CppCoreGuidelines/)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [C++
+- [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.
