@@ -13,4 +13,6 @@ C++ Study
 - [cppreference.com](https://en.cppreference.com/w/)
 - [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
 - [C++ Team Blog](https://devblogs.microsoft.com/cppblog/)
-- [씹어먹는 C++ 강좌 계획](https://modoocode.co
+- [씹어먹는 C++ 강좌 계획](https://modoocode.com/135)
+- [Learn C++](https://www.learncpp.com/)
+- [Learn C and C++
