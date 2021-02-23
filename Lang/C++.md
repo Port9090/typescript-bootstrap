@@ -16,4 +16,5 @@ C++ Study
 - [씹어먹는 C++ 강좌 계획](https://modoocode.com/135)
 - [Learn C++](https://www.learncpp.com/)
 - [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) (C/C++ Graphics Game Algorithms)  <br/><br/>
-- [스터디메이크 :: C++
+- [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
+- [나는 개발자다](https
