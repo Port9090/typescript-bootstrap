@@ -15,4 +15,5 @@ C++ Study
 - [C++ Team Blog](https://devblogs.microsoft.com/cppblog/)
 - [씹어먹는 C++ 강좌 계획](https://modoocode.com/135)
 - [Learn C++](https://www.learncpp.com/)
-- [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) 
+- [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) (C/C++ Graphics Game Algorithms)  <br/><br/>
+- [스터디메이크 :: C++
