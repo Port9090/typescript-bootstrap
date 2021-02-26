@@ -25,4 +25,4 @@ C++ Study
 
 
 ### General
-- [Open 
+- [Open Sourcing MSVC's STL | C++ Team Blog](https://devblogs.mic
