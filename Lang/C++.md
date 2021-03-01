@@ -26,4 +26,4 @@ C++ Study
 
 ### General
 - [Open Sourcing MSVC's STL | C++ Team Blog](https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/)
-- [Power Function i
+- [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-f
