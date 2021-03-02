@@ -26,4 +26,5 @@ C++ Study
 
 ### General
 - [Open Sourcing MSVC's STL | C++ Team Blog](https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/)
-- [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-function-cc/) (add 0.5 to the result and then typecast to i
+- [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-function-cc/) (add 0.5 to the result and then typecast to int)
+- [floating point - C: i got different results with p
