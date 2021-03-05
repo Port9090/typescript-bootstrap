@@ -28,4 +28,5 @@ C++ Study
 - [Open Sourcing MSVC's STL | C++ Team Blog](https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/)
 - [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-function-cc/) (add 0.5 to the result and then typecast to int)
 - [floating point - C: i got different results with pow(10,2) and pow(10,j), j=2; - Stack Overflow](https://stackoverflow.com/questions/19126809/c-i-got-different-results-with-pow10-2-and-pow10-j-j-2)
-- [[C++] 함수 앞에 쓰이는 const 키워드는 어떤 의미인가요? | KLDP](https://kld
+- [[C++] 함수 앞에 쓰이는 const 키워드는 어떤 의미인가요? | KLDP](https://kldp.org/node/71134) (리턴값은 r-value이기 때문에 수정이 불가능)
+    - [[C++ 
