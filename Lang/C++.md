@@ -32,4 +32,5 @@ C++ Study
     - [[C++ 강좌] 029 - 함수에서 const의 사용 (2) - const가 붙은 멤버 함수 : 네이버블로그](https://blog.naver.com/kks227/60205418298) (___const로 선언된 object에서의 호출을 가능하게 함___ -> 전체 코드의 안정성을 높임)
 - [C++ Rvalue References Explained](http://thbecker.net/articles/rvalue_references/section_01.html) (Thomas Becker)
 - [C++ named requirements: LegacyRandomAccessIterator - cppreference.com](https://en.cppreference.com/w/cpp/named_req/RandomAccessIterator)
-    - [Iterators in C++ STL - GeeksforGeeks](https:/
+    - [Iterators in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/iterators-c-stl/)
+- [소년코딩 - C++ 07.20 - 이중 포인터ᄋ
