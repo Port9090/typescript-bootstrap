@@ -33,4 +33,4 @@ C++ Study
 - [C++ Rvalue References Explained](http://thbecker.net/articles/rvalue_references/section_01.html) (Thomas Becker)
 - [C++ named requirements: LegacyRandomAccessIterator - cppreference.com](https://en.cppreference.com/w/cpp/named_req/RandomAccessIterator)
     - [Iterators in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/iterators-c-stl/)
-- [소년코딩 - C++ 07.20 - 이중 포인터ᄋ
+- [소년코딩 - C++ 07.20 - 이중 포인터와 동적 다차원 배열 (Pointers to pointers and dynamic mu
