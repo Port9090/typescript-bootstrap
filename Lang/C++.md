@@ -35,4 +35,4 @@ C++ Study
     - [Iterators in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/iterators-c-stl/)
 - [소년코딩 - C++ 07.20 - 이중 포인터와 동적 다차원 배열 (Pointers to pointers and dynamic multidimensional arrays)](https://boycoding.tistory.com/212)
     - [[오늘, 행복하자!] [C++] 2차원 배열 동적 할당, 해제하기](https://felixblog.tistory.com/72)
-    - [How do I declare a 2d array in C++ using new? - St
+    - [How do I declare a 2d array in C++ using new? - Stack Overflow](https://stackoverflow.com/questions/93
