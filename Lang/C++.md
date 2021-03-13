@@ -37,4 +37,5 @@ C++ Study
     - [[오늘, 행복하자!] [C++] 2차원 배열 동적 할당, 해제하기](https://felixblog.tistory.com/72)
     - [How do I declare a 2d array in C++ using new? - Stack Overflow](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)  <br/><br/>
 - [c - Correct format specifier for double in printf - Stack Overflow](https://stackoverflow.com/questions/4264127/correct-format-specifier-for-double-in-printf)
-- [___c - Is an array name a pointer? - Stack Overflow___](https://stackoverflow
+- [___c - Is an array name a pointer? - Stack Overflow___](https://stackoverflow.com/questions/1641957/is-an-array-name-a-pointer)
+  
