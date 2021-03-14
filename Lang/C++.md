@@ -39,4 +39,4 @@ C++ Study
 - [c - Correct format specifier for double in printf - Stack Overflow](https://stackoverflow.com/questions/4264127/correct-format-specifier-for-double-in-printf)
 - [___c - Is an array name a pointer? - Stack Overflow___](https://stackoverflow.com/questions/1641957/is-an-array-name-a-pointer)
     - [씹어먹는 C 언어 - <12 - 2. 포인터는 영희이다! (포인터)>](https://modoocode.com/24) (___배열은 배열이고 포인터는 포인터다___, 배열 이름은 포인터가 아니다)
-    - [씹어먹는 C 언어 - 
+    - [씹어먹는 C 언어 - <12 - 3. 포인터는 영희이다! (포인터)>](https://modoocode.com/25) (___배열 이름의 주소값, 배열과
