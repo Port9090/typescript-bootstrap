@@ -41,4 +41,4 @@ C++ Study
     - [씹어먹는 C 언어 - <12 - 2. 포인터는 영희이다! (포인터)>](https://modoocode.com/24) (___배열은 배열이고 포인터는 포인터다___, 배열 이름은 포인터가 아니다)
     - [씹어먹는 C 언어 - <12 - 3. 포인터는 영희이다! (포인터)>](https://modoocode.com/25) (___배열 이름의 주소값, 배열과 포인터의 관계___, 1차원 배열에서 배열의 이름은 첫 번째 원소를 가리키는 포인터로 타입 변환, 2차원 배열에서 배열의 이름은 첫 번째 행(이 역시나 배열)을 가리키는 포인터로 타입 변환)
 - [std::qsort - cppreference.com](https://en.cppreference.com/w/cpp/algorithm/qsort)
-    - [___C q
+    - [___C qsort() vs C++ sort()___ - GeeksforGeeks](https://www.geeksforgeeks.org/
