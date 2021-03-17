@@ -44,4 +44,4 @@ C++ Study
     - [___C qsort() vs C++ sort()___ - GeeksforGeeks](https://www.geeksforgeeks.org/c-qsort-vs-c-sort/)
     - [C qsort 함수 vs C++ sort 함수 (작성중)](https://adaid.tistory.com/64)
     - [gshscs :: [C++ STL] Header <algorithm> – 1. Sort 파헤치기 (1)](https://gshscs.tistory.com/11)
-- [Difference between Header file and Library - GeeksforGeeks](h
+- [Difference between Header file and Library - GeeksforGeeks](https://www.geeksforgeeks.org/difference-header-file-library/)
