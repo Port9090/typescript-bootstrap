@@ -47,4 +47,5 @@ C++ Study
 - [Difference between Header file and Library - GeeksforGeeks](https://www.geeksforgeeks.org/difference-header-file-library/)
     - [[C++] C++ 헤더파일의 명명 – Qaupot's blog](http://www.qaupot.com/wordpress/?p=2206)  <br/><br/>
 - [___Array of Vectors___ in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/array-of-vectors-in-c-stl/) (___vector <data_type> V[size]___)
-- [우주의 중심 :: [C++] String과 char 배열 비교](https://mk28.tistory.com/entry/C-String%EA%B3%BC-char-%EB%B0%
+- [우주의 중심 :: [C++] String과 char 배열 비교](https://mk28.tistory.com/entry/C-String%EA%B3%BC-char-%EB%B0%B0%EC%97%B4-%EB%B9%84%EA%B5%90)
+- [MultiThread Life - C++ 객체생성 두가지 
