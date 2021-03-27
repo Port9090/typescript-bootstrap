@@ -66,4 +66,5 @@ C++ Study
  
 
 ### pair, tuple
-- [pair::pair - C++ Reference](http:/
+- [pair::pair - C++ Reference](http://www.cplusplus.com/reference/utility/pair/pair/)
+- [[C++/STL]pair, 
