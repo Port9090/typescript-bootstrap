@@ -67,4 +67,10 @@ C++ Study
 
 ### pair, tuple
 - [pair::pair - C++ Reference](http://www.cplusplus.com/reference/utility/pair/pair/)
-- [[C++/STL]pair, 
+- [[C++/STL]pair, vector](https://sarah950716.tistory.com/4)
+
+ <br/><br/>
+
+
+### list, deque 
+-
