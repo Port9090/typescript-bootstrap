@@ -81,4 +81,4 @@ C++ Study
  
 
 ### vector
-- [C++ - I
+- [C++ - Initializing a std::vector | c++ Tutorial](https://riptutoria
