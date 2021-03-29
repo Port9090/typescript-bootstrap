@@ -73,4 +73,5 @@ C++ Study
 
 
 ### list, deque 
-- [[C++] list container 정리 및 사용법 :: 개발자 지망생](https://blockdmask.tist
+- [[C++] list container 정리 및 사용법 :: 개발자 지망생](https://blockdmask.tistory.com/76)
+- [개발이 하고 싶어요 :: [STL] list 정리 및 예제](https://hyeo
