@@ -81,4 +81,5 @@ C++ Study
  
 
 ### vector
-- [C++ - Initializing a std::vector | c++ Tutorial](https://riptutorial.com/en/cplusplus/example/1676/std----vector-%EC%B4%88%EA%B8%B0%
+- [C++ - Initializing a std::vector | c++ Tutorial](https://riptutorial.com/en/cplusplus/example/1676/std----vector-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0)
+- [In what scenarios should I use emplac
