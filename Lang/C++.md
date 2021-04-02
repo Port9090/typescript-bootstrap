@@ -83,4 +83,5 @@ C++ Study
 ### vector
 - [C++ - Initializing a std::vector | c++ Tutorial](https://riptutorial.com/en/cplusplus/example/1676/std----vector-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0)
 - [In what scenarios should I use emplace_back, instead of push_back, in C++? - Quora](https://www.quora.com/In-what-scenarios-should-I-use-emplace_back-instead-of-push_back-in-C++)
-- [[C++ STL] std
+- [[C++ STL] std::vector - emplace_back](https://shaeod.tistory.com/630)
+- [std::vector embrace_back 과 pu
