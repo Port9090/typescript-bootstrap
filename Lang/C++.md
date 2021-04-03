@@ -86,4 +86,5 @@ C++ Study
 - [[C++ STL] std::vector - emplace_back](https://shaeod.tistory.com/630)
 - [std::vector embrace_back 과 push_back의 차이 (The difference between emplace_back and push_back in a std::vector container)](https://blog.naver.com/sorkelf/220825930008)
 - [나만의 연습장 :: emplace_back 과 push_back 의 차이](https://openmynotepad.tistory.com/10)
-- [[C++] vector container 정리 및 사용법 :: 개발자 지망생](
+- [[C++] vector container 정리 및 사용법 :: 개발자 지망생](https://blockdmask.tistory.com/70)
+- [DEV & PS :: C++ STL 1. vector(벡터)](h
