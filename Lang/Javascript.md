@@ -10,4 +10,5 @@ JavaScript Study
 - [JavaScript 클로저(Closure) | DailyEngineering](https://hyunseob.github.io/2016/08/30/javascript-closure/)
 - [클로저 - 생활코딩](https://opentutorials.org/course/743/6544)
 - [자바스크립트 클로저](https://brunch.co.kr/@kd4/10)
-- [[JS] 클로저(Clouser)](h
+- [[JS] 클로저(Clouser)](https://victorydntmd.tistory.com/m/44)
+- [자바스크립트의 스코프와 
