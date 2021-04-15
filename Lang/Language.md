@@ -6,4 +6,11 @@ Programming Languages
 
 
 ### References
-- [GitHut - Programming Languages and GitHub](https://githut.
+- [GitHut - Programming Languages and GitHub](https://githut.info/)
+
+
+ <br/><br/>
+
+
+### Langs
+- [The Scala Programming Language](
