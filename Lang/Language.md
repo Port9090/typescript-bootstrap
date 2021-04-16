@@ -13,4 +13,5 @@ Programming Languages
 
 
 ### Langs
-- [The Scala Programming Language](
+- [The Scala Programming Language](https://www.scala-lang.org/)
+    - [Scala School](https://twitter.github.io/sca
