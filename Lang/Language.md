@@ -15,4 +15,5 @@ Programming Languages
 ### Langs
 - [The Scala Programming Language](https://www.scala-lang.org/)
     - [Scala School](https://twitter.github.io/scala_school/) (Twitter)
-    - [S-99: Ninety-Nine Scala Problems](http://
+    - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+- [Elixir](https://elixir-
