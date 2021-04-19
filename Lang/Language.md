@@ -20,4 +20,5 @@ Programming Languages
     - [(3) Elixir Forum - Elixir Forum - for Elixir programming language enthusiasts!](https://elixirforum.com/)
     - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/elixir/index.htm)
     - [Elixir School](https://elixirschool.com/en/)
-- [Ha
+- [Haml](http://haml.info/)
+- [Rust Programming Language](https://www.r
