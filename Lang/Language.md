@@ -21,4 +21,5 @@ Programming Languages
     - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/elixir/index.htm)
     - [Elixir School](https://elixirschool.com/en/)
 - [Haml](http://haml.info/)
-- [Rust Programming Language](https://www.r
+- [Rust Programming Language](https://www.rust-lang.org/)
+- [Elm - A delightful language for reliable webapps](htt
