@@ -18,4 +18,6 @@ Programming Languages
     - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [Elixir](https://elixir-lang.org/)
     - [(3) Elixir Forum - Elixir Forum - for Elixir programming language enthusiasts!](https://elixirforum.com/)
-    - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/e
+    - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/elixir/index.htm)
+    - [Elixir School](https://elixirschool.com/en/)
+- [Ha
