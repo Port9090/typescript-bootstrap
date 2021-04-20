@@ -23,4 +23,5 @@ Programming Languages
 - [Haml](http://haml.info/)
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [Elm - A delightful language for reliable webapps](https://elm-lang.org/)
-    - [Introduction · An Introduction to El
+    - [Introduction · An Introduction to Elm](https://guide.elm-lang.org/)
+    - [Elm](https://github.com/elm
