@@ -25,4 +25,5 @@ Programming Languages
 - [Elm - A delightful language for reliable webapps](https://elm-lang.org/)
     - [Introduction · An Introduction to Elm](https://guide.elm-lang.org/)
     - [Elm](https://github.com/elm) (Github : Official organization for developing Elm's compiler and core tools)  <br/><br/>
-- [Kotlin Programming Language](https://kotlinlang.or
+- [Kotlin Programming Language](https://kotlinlang.org/)
+- [TypeScript - JavaScript that scales.](https://www.typescriptl
