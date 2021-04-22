@@ -27,4 +27,5 @@ Programming Languages
     - [Elm](https://github.com/elm) (Github : Official organization for developing Elm's compiler and core tools)  <br/><br/>
 - [Kotlin Programming Language](https://kotlinlang.org/)
 - [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
-- [Ruby Programming Language](https://www.ruby-lang.org
+- [Ruby Programming Language](https://www.ruby-lang.org/en/)
+    - [RubyMonk - Interactive Ruby tutorials](https://ru
