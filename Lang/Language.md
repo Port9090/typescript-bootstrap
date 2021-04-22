@@ -28,4 +28,5 @@ Programming Languages
 - [Kotlin Programming Language](https://kotlinlang.org/)
 - [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
 - [Ruby Programming Language](https://www.ruby-lang.org/en/)
-    - [RubyMonk - Interactive Ruby tutorials](https://ru
+    - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+- [Shell Style Guide](https://google.githu
