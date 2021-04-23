@@ -29,4 +29,5 @@ Programming Languages
 - [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
 - [Ruby Programming Language](https://www.ruby-lang.org/en/)
     - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
-- [Shell Style Guide](https://google.githu
+- [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)
+- [The Programming Language L
