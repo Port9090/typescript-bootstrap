@@ -33,4 +33,5 @@ Programming Languages
 - [The Programming Language Lua](http://www.lua.org/)
     - [Luvit.io](https://luvit.io/)
 - [OCaml – OCaml](https://ocaml.org/)
-    - [The Caml language: Home](https://ca
+    - [The Caml language: Home](https://caml.inria.fr/)
+- [Haskell Language](https://facebook.github.io)  <br/
