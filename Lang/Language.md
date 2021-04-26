@@ -38,4 +38,4 @@ Programming Languages
 - [F# Software Foundation](https://fsharp.org/)
     - [Try F#](https://try.fsharp.org/)
 - [Hello! | reason](https://facebook.github.io/reason/)
-    - [Reason · Reason let
+    - [Reason · Reason lets you write simple, fast and quality type safe code while leveraging both 
