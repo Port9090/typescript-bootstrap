@@ -36,4 +36,5 @@ Programming Languages
     - [The Caml language: Home](https://caml.inria.fr/)
 - [Haskell Language](https://facebook.github.io)  <br/><br/>
 - [F# Software Foundation](https://fsharp.org/)
-    
+    - [Try F#](https://try.fsharp.org/)
+- [Hello! | reason](htt
