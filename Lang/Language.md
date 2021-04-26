@@ -34,4 +34,6 @@ Programming Languages
     - [Luvit.io](https://luvit.io/)
 - [OCaml – OCaml](https://ocaml.org/)
     - [The Caml language: Home](https://caml.inria.fr/)
-- [Haskell Language](https://facebook.github.io)  <br/
+- [Haskell Language](https://facebook.github.io)  <br/><br/>
+- [F# Software Foundation](https://fsharp.org/)
+    
