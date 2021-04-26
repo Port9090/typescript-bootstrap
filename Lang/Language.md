@@ -37,4 +37,5 @@ Programming Languages
 - [Haskell Language](https://facebook.github.io)  <br/><br/>
 - [F# Software Foundation](https://fsharp.org/)
     - [Try F#](https://try.fsharp.org/)
-- [Hello! | reason](htt
+- [Hello! | reason](https://facebook.github.io/reason/)
+    - [Reason · Reason let
