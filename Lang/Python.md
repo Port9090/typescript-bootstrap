@@ -15,4 +15,4 @@ Python Study
     - [Weak Reference Objects — Python 3.7.4rc2 documentation](https://docs.python.org/3/c-api/weakref.html)
     - [json — JSON encoder and decoder — Python 3.7.4 documentation](https://docs.python.org/3/library/json.html)
     - [threading — Thread-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/threading.html#lock-objects)
-    - [mul
+    - [multiprocessing — Process-based parallelism — Python 3.7.4 documentation](
