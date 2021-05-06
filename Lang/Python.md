@@ -17,4 +17,4 @@ Python Study
     - [threading — Thread-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/threading.html#lock-objects)
     - [multiprocessing — Process-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/multiprocessing.html)
     - [socket — Low-level networking interface — Python 3.7.4 documentation](https://docs.python.org/3/library/socket.html#socket.socket.setblocking)
-    - [s
+    - [select — Waiting for I/O completion — Python 3.7.4 documentatio
