@@ -19,4 +19,4 @@ Python Study
     - [socket — Low-level networking interface — Python 3.7.4 documentation](https://docs.python.org/3/library/socket.html#socket.socket.setblocking)
     - [select — Waiting for I/O completion — Python 3.7.4 documentation](https://docs.python.org/3/library/select.html)  <br/><br/>
     - [Glossary — Python 3.7.4 documentation](https://docs.python.org/3/glossary.html#term-global-interpreter-lock) (global interpreter lock)
-    - [8. Err
+    - [8. Errors and Exceptions — Python 3.7.4 documentation](https://doc
