@@ -20,4 +20,4 @@ Python Study
     - [select — Waiting for I/O completion — Python 3.7.4 documentation](https://docs.python.org/3/library/select.html)  <br/><br/>
     - [Glossary — Python 3.7.4 documentation](https://docs.python.org/3/glossary.html#term-global-interpreter-lock) (global interpreter lock)
     - [8. Errors and Exceptions — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/errors.html)
-    - [3. Data model — 
+    - [3. Data model — Python 3.7.4 documentation](https://docs.python.org/3/reference/da
