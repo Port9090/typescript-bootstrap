@@ -25,4 +25,5 @@ Python Study
     - [Built-in Types — Python 3.7.4 documentation](https://docs.python.org/3/library/stdtypes.html#truth-value-testing) (Truth Value Testing)
     - [3. Data model — Python 3.7.4 documentation](https://docs.python.org/3/reference/datamodel.html#special-method-names) (Special method names)
     - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)
-    - [7. Input and Output — Python 3.7.4 documentation](https://doc
+    - [7. Input and Output — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/inputoutput.html)
+    - [ast — Abstract Synt
