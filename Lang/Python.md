@@ -24,4 +24,5 @@ Python Study
     - [Built-in Types — Python 3.7.4 documentation](https://docs.python.org/3/library/stdtypes.html#typecontextmanager) (Context Manager Types : \_\_enter__() / \_\_exit__() method)
     - [Built-in Types — Python 3.7.4 documentation](https://docs.python.org/3/library/stdtypes.html#truth-value-testing) (Truth Value Testing)
     - [3. Data model — Python 3.7.4 documentation](https://docs.python.org/3/reference/datamodel.html#special-method-names) (Special method names)
-    - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function defini
+    - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)
+    - [7. Input and Output — Python 3.7.4 documentation](https://doc
