@@ -28,4 +28,4 @@ Python Study
     - [7. Input and Output — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/inputoutput.html)
     - [ast — Abstract Syntax Trees — Python 3.7.4 documentation](https://docs.python.org/3/library/ast.html) (literal_eval() method)
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
-- [LINK: Laborator
+- [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.kore
