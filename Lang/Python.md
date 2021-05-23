@@ -31,4 +31,5 @@ Python Study
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 - [python index | Awesome python](https://python.awesome-programming.com/)
-- [Tutorials, Python Courses: Online and On Si
+- [Tutorials, Python Courses: Online and On Site](https://www.python-course.eu/index.php)
+- [PEP 8 -- Style Guide for Pyth
