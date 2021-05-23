@@ -30,4 +30,5 @@ Python Study
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
-- [python index | Awesome python](https://python.awesome-pr
+- [python index | Awesome python](https://python.awesome-programming.com/)
+- [Tutorials, Python Courses: Online and On Si
