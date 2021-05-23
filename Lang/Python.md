@@ -32,4 +32,4 @@ Python Study
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 - [python index | Awesome python](https://python.awesome-programming.com/)
 - [Tutorials, Python Courses: Online and On Site](https://www.python-course.eu/index.php)
-- [PEP 8 -- Style Guide for Pyth
+- [PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/)
