@@ -33,4 +33,5 @@ Python Study
 - [python index | Awesome python](https://python.awesome-programming.com/)
 - [Tutorials, Python Courses: Online and On Site](https://www.python-course.eu/index.php)
 - [PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/)
-- [Parallel Python - Home](https://www.parallelpython.com
+- [Parallel Python - Home](https://www.parallelpython.com/)
+- [A Byte of Python](byteofpython-korean.sourceforge.net/byte_of_py
