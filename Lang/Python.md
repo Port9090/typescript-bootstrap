@@ -35,4 +35,5 @@ Python Study
 - [PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/)
 - [Parallel Python - Home](https://www.parallelpython.com/)
 - [A Byte of Python](byteofpython-korean.sourceforge.net/byte_of_python.html)
-- [Choose a language · Django Girls Tutorial](ht
+- [Choose a language · Django Girls Tutorial](https://tutorial.djangogirls.org/)
+- [Intermediate Python — Python T
