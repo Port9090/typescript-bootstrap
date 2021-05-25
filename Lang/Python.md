@@ -37,4 +37,5 @@ Python Study
 - [A Byte of Python](byteofpython-korean.sourceforge.net/byte_of_python.html)
 - [Choose a language · Django Girls Tutorial](https://tutorial.djangogirls.org/)
 - [Intermediate Python — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/index.html) (Yasoob)  <br/><br/>
-- [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?i
+- [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
+- [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide 
