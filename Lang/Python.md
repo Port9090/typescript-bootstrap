@@ -41,4 +41,5 @@ Python Study
 - [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽 안내서](https://jythonbook-ko.readthedocs.io/en/latest/index.html#)
 - [Python HOWTOs — Python 3.7.4 documentation](https://docs.python.org/3/howto/index.html)
-- [Azure for Python developers - Tutorials, API Reference | Mi
+- [Azure for Python developers - Tutorials, API Reference | Microsoft Docs](https://docs.microsoft.com/en-us/azure/python/)
+- [목
