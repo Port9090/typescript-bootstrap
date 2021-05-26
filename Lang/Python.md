@@ -39,4 +39,5 @@ Python Study
 - [Intermediate Python — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/index.html) (Yasoob)  <br/><br/>
 - [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 - [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
-- [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽
+- [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽 안내서](https://jythonbook-ko.readthedocs.io/en/latest/index.html#)
+- [Python HOWT
