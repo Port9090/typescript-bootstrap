@@ -42,4 +42,4 @@ Python Study
 - [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽 안내서](https://jythonbook-ko.readthedocs.io/en/latest/index.html#)
 - [Python HOWTOs — Python 3.7.4 documentation](https://docs.python.org/3/howto/index.html)
 - [Azure for Python developers - Tutorials, API Reference | Microsoft Docs](https://docs.microsoft.com/en-us/azure/python/)
-- [목
+- [목차 | 파이썬 프로그래밍 입문서 (가제)](https://python.bakyeono.net/) (bakyeono - 파이썬 프로
