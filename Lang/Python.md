@@ -47,4 +47,5 @@ Python Study
 - [tkinter — Python interface to Tcl/Tk — Python 3.8.0 documentation](https://docs.python.org/3/library/tkinter.html) (standard Python interface to the Tk GUI toolkit)
      - [Korea Tcl/Tk Community | Tcl radically simple.](http://tcltk.co.kr/)
      - [Tcl Developer Site](https://www.tcl.tk/)
-- [SciPy.org — Sc
+- [SciPy.org — SciPy.org](https://www.scipy.org/)  <br/><br/>
+- [Learn Python Programming |
