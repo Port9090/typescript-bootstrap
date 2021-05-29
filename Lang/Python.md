@@ -48,4 +48,10 @@ Python Study
      - [Korea Tcl/Tk Community | Tcl radically simple.](http://tcltk.co.kr/)
      - [Tcl Developer Site](https://www.tcl.tk/)
 - [SciPy.org — SciPy.org](https://www.scipy.org/)  <br/><br/>
-- [Learn Python Programming |
+- [Learn Python Programming | Python Tutorial](https://pythonbasics.org/)
+
+
+ <br/><br/>
+ 
+
+### P
