@@ -57,4 +57,4 @@ Python Study
 ### Python
 - [27. 함수 인자(Arguments) - 파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/16053) (positional/keyword argument packing & unpacking)
 - [3) packing, unpacking - 제대로 파이썬](https://wikidocs.net/22801)
-- [Python method-wrap
+- [Python method-wrapper type? - Stack Overflow](https://stackoverflow.com/questions/10
