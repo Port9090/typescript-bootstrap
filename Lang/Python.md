@@ -55,4 +55,5 @@ Python Study
  
 
 ### Python
-- [27. 함수 인자(Arguments) - 파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/
+- [27. 함수 인자(Arguments) - 파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/16053) (positional/keyword argument packing & unpacking)
+- [3) packing, 
