@@ -60,4 +60,5 @@ Python Study
 - [Python method-wrapper type? - Stack Overflow](https://stackoverflow.com/questions/10401935/python-method-wrapper-type)
 - [파이썬 언더스코어(_)에 대하여 · mingrammer's note](https://mingrammer.com/underscore-in-python/)
 - [[오늘, 행복하자!] [Python] Functional Programming HOWTO 요약](https://felixblog.tistory.com/120) (iterator, generator, lambda)
-- [Python Fundamentals Tutorial: Functional Programming](https://www.protechtraining.com/content/python_fundamentals_tutorial-functional_programming) (Higher-Order Function, closure, lexical scoping,
+- [Python Fundamentals Tutorial: Functional Programming](https://www.protechtraining.com/content/python_fundamentals_tutorial-functional_programming) (Higher-Order Function, closure, lexical scoping, Decorator)
+- [[python] closure (클로저) | 코딩장이](https://itho
