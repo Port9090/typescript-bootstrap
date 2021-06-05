@@ -62,4 +62,4 @@ Python Study
 - [[오늘, 행복하자!] [Python] Functional Programming HOWTO 요약](https://felixblog.tistory.com/120) (iterator, generator, lambda)
 - [Python Fundamentals Tutorial: Functional Programming](https://www.protechtraining.com/content/python_fundamentals_tutorial-functional_programming) (Higher-Order Function, closure, lexical scoping, Decorator)
 - [[python] closure (클로저) | 코딩장이](https://itholic.github.io/python-closure/)
-- [functional programming - Can you explain closures (as they relate to Python)? - Stack Ove
+- [functional programming - Can you explain closures (as they relate to Python)? - Stack Overflow](https://stackoverflow.com/questions/13857/can-you-exp
