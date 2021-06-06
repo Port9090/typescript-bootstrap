@@ -63,4 +63,5 @@ Python Study
 - [Python Fundamentals Tutorial: Functional Programming](https://www.protechtraining.com/content/python_fundamentals_tutorial-functional_programming) (Higher-Order Function, closure, lexical scoping, Decorator)
 - [[python] closure (클로저) | 코딩장이](https://itholic.github.io/python-closure/)
 - [functional programming - Can you explain closures (as they relate to Python)? - Stack Overflow](https://stackoverflow.com/questions/13857/can-you-explain-closures-as-they-relate-to-python)
-- [[파이썬] 클로져(Cl
+- [[파이썬] 클로져(Closure) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/112)
+- [[Python 문법] 
