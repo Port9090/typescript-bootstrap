@@ -65,4 +65,4 @@ Python Study
 - [functional programming - Can you explain closures (as they relate to Python)? - Stack Overflow](https://stackoverflow.com/questions/13857/can-you-explain-closures-as-they-relate-to-python)
 - [[파이썬] 클로져(Closure) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/112)
 - [[Python 문법] 클로저 (Closure) – Che1's Blog](https://nachwon.github.io/closure/)
-- [py
+- [python - 파이썬 클로저 문법 질문..  | Hashcode](https://hashcode.co.kr/que
