@@ -65,4 +65,5 @@ Python Study
 - [functional programming - Can you explain closures (as they relate to Python)? - Stack Overflow](https://stackoverflow.com/questions/13857/can-you-explain-closures-as-they-relate-to-python)
 - [[파이썬] 클로져(Closure) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/112)
 - [[Python 문법] 클로저 (Closure) – Che1's Blog](https://nachwon.github.io/closure/)
-- [python - 파이썬 클로저 문법 질문..  | Hashcode](https://hashcode.co.kr/questions/8100/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-%EB%
+- [python - 파이썬 클로저 문법 질문..  | Hashcode](https://hashcode.co.kr/questions/8100/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-%EB%AC%B8%EB%B2%95-%EC%A7%88%EB%AC%B8)
+- [[파이썬] 리스트 컴프리헨션(list comprehension)의 이
