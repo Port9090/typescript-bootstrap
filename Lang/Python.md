@@ -70,4 +70,5 @@ Python Study
 - [SchoolofWeb :: 파이썬 - 퍼스트클래스 함수 (First Class Function)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8D%BC%EC%8A%A4%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%95%A8%EC%88%98-first-class-function/)
 - [SchoolofWeb :: 파이썬 - 클로저 (Closure)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-closure/)
 - [SchoolofWeb :: 파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
-- 
+- [python iterable과 iterator의 의미](https://bluese05.tistory.com/55)
+- [pytho
