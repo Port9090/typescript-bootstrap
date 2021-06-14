@@ -71,4 +71,6 @@ Python Study
 - [SchoolofWeb :: 파이썬 - 클로저 (Closure)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-closure/)
 - [SchoolofWeb :: 파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
 - [python iterable과 iterator의 의미](https://bluese05.tistory.com/55)
-- [python generator(제너레이터) 란 무엇인가](https://bluese05.tistory.com/56
+- [python generator(제너레이터) 란 무엇인가](https://bluese05.tistory.com/56)
+- [파이썬(python) 파일 읽기, 쓰기 :: C언어 예술가](https://thrillfighter.tistory.com/310)
+- [Python
