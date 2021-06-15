@@ -73,4 +73,4 @@ Python Study
 - [python iterable과 iterator의 의미](https://bluese05.tistory.com/55)
 - [python generator(제너레이터) 란 무엇인가](https://bluese05.tistory.com/56)
 - [파이썬(python) 파일 읽기, 쓰기 :: C언어 예술가](https://thrillfighter.tistory.com/310)
-- [Python
+- [Python에서 현재 함수의 이름과 상위 함수의 이름 출력하기 – Splash!](https://terzeron.com/wp/?p=771) (sys._
