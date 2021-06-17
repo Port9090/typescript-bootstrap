@@ -76,4 +76,5 @@ Python Study
 - [Python에서 현재 함수의 이름과 상위 함수의 이름 출력하기 – Splash!](https://terzeron.com/wp/?p=771) (sys._getframe(n).f_code.co_name)
 - [python - How to make a chain of function decorators? - Stack Overflow](https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators)
 - [python - Decorator execution order - Stack Overflow](https://stackoverflow.com/questions/27342149/decorator-execution-order)
-- [python - What does functools.wraps do? - Stack Overflow](https://stackoverflow.com/question
+- [python - What does functools.wraps do? - Stack Overflow](https://stackoverflow.com/questions/308999/what-does-functools-wraps-do) <br/><br/>
+- [[번역] 이터레
