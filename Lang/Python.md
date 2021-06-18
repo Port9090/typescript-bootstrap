@@ -77,4 +77,5 @@ Python Study
 - [python - How to make a chain of function decorators? - Stack Overflow](https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators)
 - [python - Decorator execution order - Stack Overflow](https://stackoverflow.com/questions/27342149/decorator-execution-order)
 - [python - What does functools.wraps do? - Stack Overflow](https://stackoverflow.com/questions/308999/what-does-functools-wraps-do) <br/><br/>
-- [[번역] 이터레이터와 제너레이터 · mingrammer's note](https://mingrammer.com/translation-iterators-vs
+- [[번역] 이터레이터와 제너레이터 · mingrammer's note](https://mingrammer.com/translation-iterators-vs-generators/)
+- [땅뚱 창고 :: [Python] str() 과 repr() 의 차이](https://pinocc.
