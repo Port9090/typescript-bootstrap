@@ -81,4 +81,4 @@ Python Study
 - [땅뚱 창고 :: [Python] str() 과 repr() 의 차이](https://pinocc.tistory.com/168)
 - [(파이썬) 약한 참조 사용하기 · Wireframe](https://soooprmx.com/archives/5074)
 - [[python] 참조 및 발생자 -약한 참조, 반복자(iterator), 발생자(generator) :: To Data Engineer](https://ecycle.tistory.com/27)
-- [Under the C: PyObject](https://blog.hanle
+- [Under the C: PyObject](https://blog.hanlee.io/2018/under-the-c-2/) (python object, reference counting, garbage c
