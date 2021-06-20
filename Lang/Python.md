@@ -82,4 +82,5 @@ Python Study
 - [(파이썬) 약한 참조 사용하기 · Wireframe](https://soooprmx.com/archives/5074)
 - [[python] 참조 및 발생자 -약한 참조, 반복자(iterator), 발생자(generator) :: To Data Engineer](https://ecycle.tistory.com/27)
 - [Under the C: PyObject](https://blog.hanlee.io/2018/under-the-c-2/) (python object, reference counting, garbage collection, weak reference)
-- [Python, module weakref [약
+- [Python, module weakref [약한참조] : 네이버블로그](https://soooprmx.com/archives/5074)
+- [[파이썬] 데코레이터(Deco
