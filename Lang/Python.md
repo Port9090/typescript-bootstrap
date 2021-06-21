@@ -83,4 +83,5 @@ Python Study
 - [[python] 참조 및 발생자 -약한 참조, 반복자(iterator), 발생자(generator) :: To Data Engineer](https://ecycle.tistory.com/27)
 - [Under the C: PyObject](https://blog.hanlee.io/2018/under-the-c-2/) (python object, reference counting, garbage collection, weak reference)
 - [Python, module weakref [약한참조] : 네이버블로그](https://soooprmx.com/archives/5074)
-- [[파이썬] 데코레이터(Decorator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistor
+- [[파이썬] 데코레이터(Decorator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/113?category=761276)
+- [[파이썬] 제너레이터(Generator) 이해하기 :: 게임회사에서 살아남기](http
