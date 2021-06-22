@@ -84,4 +84,5 @@ Python Study
 - [Under the C: PyObject](https://blog.hanlee.io/2018/under-the-c-2/) (python object, reference counting, garbage collection, weak reference)
 - [Python, module weakref [약한참조] : 네이버블로그](https://soooprmx.com/archives/5074)
 - [[파이썬] 데코레이터(Decorator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/113?category=761276)
-- [[파이썬] 제너레이터(Generator) 이해하기 :: 게임회사에서 살아남기](http
+- [[파이썬] 제너레이터(Generator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/114?category=761276)
+- [python deco
