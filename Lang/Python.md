@@ -86,4 +86,5 @@ Python Study
 - [[파이썬] 데코레이터(Decorator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/113?category=761276)
 - [[파이썬] 제너레이터(Generator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/114?category=761276)
 - [python decorator (데코레이터) 어렵지 않아요](https://bluese05.tistory.com/30)
-- [ :: Python Higher-order function](https://pylab.tistory.com/entry/Highero
+- [ :: Python Higher-order function](https://pylab.tistory.com/entry/Higherorder-function)  <br/><br/>
+- [[Python] Tip - 클로저가 변수 스코프와
