@@ -88,4 +88,4 @@ Python Study
 - [python decorator (데코레이터) 어렵지 않아요](https://bluese05.tistory.com/30)
 - [ :: Python Higher-order function](https://pylab.tistory.com/entry/Higherorder-function)  <br/><br/>
 - [[Python] Tip - 클로저가 변수 스코프와 상호 작용하는 방법 알기 :: 개인적인공간](https://brownbears.tistory.com/128)
-- [Python 클로
+- [Python 클로저(closure) 와 변수 참조 범위(scope) 이해하기 : 네이버블로그](http
