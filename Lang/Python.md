@@ -92,4 +92,4 @@ Python Study
 - [파이썬 동시성 프로그래밍 - (9) 제네레이터 & 코루틴 & asyncio & async/await](https://hamait.tistory.com/830) (generator, coroutine, native coroutine - async & await)
 - [Python(파이썬) 기본 - 43. class 정리 - 정적메소드 @classmethod와 @staticmethod의 정리 | Suwoni-Codelab](https://suwoni-codelab.com/python%20%EA%B8%B0%EB%B3%B8/2018/03/11/Python-Basic-class-staticmethod/)
 - [파이썬의 함정 - 2  (@classmethod 와  @staticmethod 의 차이)](https://hamait.tistory.com/635)  
-- [파
+- [파이썬의 함정 - 1  (클래스변수 와 객체 변수)](https://hamait.tistory.com/63
