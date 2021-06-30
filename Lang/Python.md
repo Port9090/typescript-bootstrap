@@ -94,4 +94,5 @@ Python Study
 - [파이썬의 함정 - 2  (@classmethod 와  @staticmethod 의 차이)](https://hamait.tistory.com/635)  
 - [파이썬의 함정 - 1  (클래스변수 와 객체 변수)](https://hamait.tistory.com/634)
 - [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
-- [[Effective Python] WAY 27. 공개 속성보다는 비공개 속성을 사용하자](https://hcnoh.github.io/2018-10-08-effective-python-wa
+- [[Effective Python] WAY 27. 공개 속성보다는 비공개 속성을 사용하자](https://hcnoh.github.io/2018-10-08-effective-python-way27)
+- [[Python] Tip - 공개 속성보다는 비공개 속성을 사용 :: 개인적인공간](https://brownbea
