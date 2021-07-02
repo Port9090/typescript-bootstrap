@@ -97,4 +97,4 @@ Python Study
 - [[Effective Python] WAY 27. 공개 속성보다는 비공개 속성을 사용하자](https://hcnoh.github.io/2018-10-08-effective-python-way27)
 - [[Python] Tip - 공개 속성보다는 비공개 속성을 사용 :: 개인적인공간](https://brownbears.tistory.com/157)
 - [[Python] 접근 제어자 :: 개인적인공간](https://brownbears.tistory.com/112) (public, protected, private) <br/><br/>
-- 
+- [configparser 활용하기 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net
