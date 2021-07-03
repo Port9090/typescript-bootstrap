@@ -98,4 +98,5 @@ Python Study
 - [[Python] Tip - 공개 속성보다는 비공개 속성을 사용 :: 개인적인공간](https://brownbears.tistory.com/157)
 - [[Python] 접근 제어자 :: 개인적인공간](https://brownbears.tistory.com/112) (public, protected, private) <br/><br/>
 - [configparser 활용하기 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/13963) (configparser with .init file)
-- [[Python]ConfigParser사용하여 설정
+- [[Python]ConfigParser사용하여 설정파일 읽어들이기](https://flowerykeyboard.tistory.com/8)
+- [파이썬에서 설정값 관리하기
