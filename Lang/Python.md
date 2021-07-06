@@ -101,4 +101,5 @@ Python Study
 - [[Python]ConfigParser사용하여 설정파일 읽어들이기](https://flowerykeyboard.tistory.com/8)
 - [파이썬에서 설정값 관리하기 · mingrammer's note](https://mingrammer.com/ways-to-manage-the-configuration-in-python/)
 - [An Intro to Threading in Python – Real Python](https://realpython.com/intro-to-python-threading/)  
-- [Python Multithreaded Programming](https://www.tutorialspoint.co
+- [Python Multithreaded Programming](https://www.tutorialspoint.com/python/python_multithreading) 
+- [[Python] 파이썬 멀티 쓰레드
