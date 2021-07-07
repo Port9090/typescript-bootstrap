@@ -103,4 +103,4 @@ Python Study
 - [An Intro to Threading in Python – Real Python](https://realpython.com/intro-to-python-threading/)  
 - [Python Multithreaded Programming](https://www.tutorialspoint.com/python/python_multithreading) 
 - [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)
-- [예제로 배우는 파이썬 프로그래밍 - 쓰레드 (Th
+- [예제로 배우는 파이썬 프로그래밍 - 쓰레드 (Thread)](http://pythonstudy.xyz/python/article/24-%EC%93%B0%EB%A0%88%EB
