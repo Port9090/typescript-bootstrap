@@ -106,4 +106,5 @@ Python Study
 - [예제로 배우는 파이썬 프로그래밍 - 쓰레드 (Thread)](http://pythonstudy.xyz/python/article/24-%EC%93%B0%EB%A0%88%EB%93%9C-Thread)
 - [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(1) - 기초 :: 좋은사람의 개발 노트](https://niceman.tistory.com/138)
 - [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(2) - 동기화 :: 좋은사람의 개발 노트](https://niceman.tistory.com/139?category=940952)
-- [The Singleton Pattern implemented with Python « Python recipes « ActiveState Code](http://code.activestate.com/recipes/52558-the-singleton-pattern-implemented-wi
+- [The Singleton Pattern implemented with Python « Python recipes « ActiveState Code](http://code.activestate.com/recipes/52558-the-singleton-pattern-implemented-with-python/) <br/><br/>
+- [[Python] Singleton Pattern을 이용한 Logger 
