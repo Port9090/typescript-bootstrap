@@ -109,4 +109,5 @@ Python Study
 - [The Singleton Pattern implemented with Python « Python recipes « ActiveState Code](http://code.activestate.com/recipes/52558-the-singleton-pattern-implemented-with-python/) <br/><br/>
 - [[Python] Singleton Pattern을 이용한 Logger 만들기 :: 불로](https://ourcstory.tistory.com/105)
 - [여러가지 싱글톤(singleton) 구현방법 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/3693)
-- [mrfksiv – Medium](https://medium.com/@mrfksiv) (python design patterns : Singleton, Factory, Adapte
+- [mrfksiv – Medium](https://medium.com/@mrfksiv) (python design patterns : Singleton, Factory, Adapter)
+- [python eval 과 literal_eval 의 차이](https://bluese05.tistory.com/65)  
