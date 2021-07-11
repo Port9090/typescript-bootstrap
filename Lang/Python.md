@@ -111,3 +111,4 @@ Python Study
 - [여러가지 싱글톤(singleton) 구현방법 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/3693)
 - [mrfksiv – Medium](https://medium.com/@mrfksiv) (python design patterns : Singleton, Factory, Adapter)
 - [python eval 과 literal_eval 의 차이](https://bluese05.tistory.com/65)  
+- [How to update json file with python - Stack Overflow](https://stackoverfl
