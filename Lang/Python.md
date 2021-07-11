@@ -108,4 +108,5 @@ Python Study
 - [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(2) - 동기화 :: 좋은사람의 개발 노트](https://niceman.tistory.com/139?category=940952)
 - [The Singleton Pattern implemented with Python « Python recipes « ActiveState Code](http://code.activestate.com/recipes/52558-the-singleton-pattern-implemented-with-python/) <br/><br/>
 - [[Python] Singleton Pattern을 이용한 Logger 만들기 :: 불로](https://ourcstory.tistory.com/105)
-- [여러가지 싱글톤(singleton) 구현방법 - Python S
+- [여러가지 싱글톤(singleton) 구현방법 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/3693)
+- [mrfksiv – Medium](https:
