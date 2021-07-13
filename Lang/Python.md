@@ -113,4 +113,5 @@ Python Study
 - [python eval 과 literal_eval 의 차이](https://bluese05.tistory.com/65)  
 - [How to update json file with python - Stack Overflow](https://stackoverflow.com/questions/13949637/how-to-update-json-file-with-python)
 - [if 'a' or 'b' in L, where L is a list (Python) - Stack Overflow](https://stackoverflow.com/questions/21344842/if-a-or-b-in-l-where-l-is-a-list-python)
-- [파이썬 소켓 프로그래밍 - 1. 간단한 채팅 프로그램 구
+- [파이썬 소켓 프로그래밍 - 1. 간단한 채팅 프로그램 구현(1)](https://seolin.tistory.com/97?category=762768)
+- [Python Advanced: Th
