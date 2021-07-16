@@ -116,4 +116,5 @@ Python Study
 - [파이썬 소켓 프로그래밍 - 1. 간단한 채팅 프로그램 구현(1)](https://seolin.tistory.com/97?category=762768)
 - [Python Advanced: Threads and Threading](https://www.python-course.eu/threads.php)
 - [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
-- [Python Design Patterns Singleton](https://www.tutorialspoint.com/python_design_patterns/python_design_pattern
+- [Python Design Patterns Singleton](https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_singleton)  <br/><br/>
+- [[Network] Python을 이용한 네트워크 프로그래밍 :: 돼
