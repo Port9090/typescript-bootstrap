@@ -118,4 +118,4 @@ Python Study
 - [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
 - [Python Design Patterns Singleton](https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_singleton)  <br/><br/>
 - [[Network] Python을 이용한 네트워크 프로그래밍 :: 돼민이](https://jink1982.tistory.com/83)
-- [[Python] 파이썬 멀티 쓰레드(th
+- [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develo
