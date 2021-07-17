@@ -120,4 +120,5 @@ Python Study
 - [[Network] Python을 이용한 네트워크 프로그래밍 :: 돼민이](https://jink1982.tistory.com/83)
 - [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)  
 - [[Python] Tip - 스레드에서 데이터 경쟁을 막으려면 Lock을 사용 :: 개인적인공간](https://brownbears.tistory.com/216)
-- [파이썬 동시성 프로그래밍 - (1) 쓰레드](https://hamai
+- [파이썬 동시성 프로그래밍 - (1) 쓰레드](https://hamait.tistory.com/752)
+- [Python Multithreading Tutorial: Condition objects with P
