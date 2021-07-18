@@ -121,4 +121,5 @@ Python Study
 - [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)  
 - [[Python] Tip - 스레드에서 데이터 경쟁을 막으려면 Lock을 사용 :: 개인적인공간](https://brownbears.tistory.com/216)
 - [파이썬 동시성 프로그래밍 - (1) 쓰레드](https://hamait.tistory.com/752)
-- [Python Multithreading Tutorial: Condition objects with Producer and consumer - 2019](https://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Condition_Ob
+- [Python Multithreading Tutorial: Condition objects with Producer and consumer - 2019](https://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Condition_Objects_Producer_Consumer.php)
+- [파이썬의 멀티쓰레딩(python multi threading) :: 빠
