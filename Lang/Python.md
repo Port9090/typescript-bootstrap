@@ -125,4 +125,5 @@ Python Study
 - [파이썬의 멀티쓰레딩(python multi threading) :: 빠세이~ 빠세~     ](https://jeunjeun.tistory.com/7)
 - [멀티프로세싱과 멀티쓰레딩 :: 빠세이~ 빠세~     ](https://jeunjeun.tistory.com/6)
 - [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)
-- [python을 이용한 다중 채팅 구현하기 :: 이프
+- [python을 이용한 다중 채팅 구현하기 :: 이프이푸이푸](https://lidron.tistory.com/44)
+- [파이썬 소켓 연결 사용법 · Wireframe](htt
