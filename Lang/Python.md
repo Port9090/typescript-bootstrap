@@ -124,4 +124,5 @@ Python Study
 - [Python Multithreading Tutorial: Condition objects with Producer and consumer - 2019](https://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Condition_Objects_Producer_Consumer.php)
 - [파이썬의 멀티쓰레딩(python multi threading) :: 빠세이~ 빠세~     ](https://jeunjeun.tistory.com/7)
 - [멀티프로세싱과 멀티쓰레딩 :: 빠세이~ 빠세~     ](https://jeunjeun.tistory.com/6)
-- [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/pyt
+- [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)
+- [python을 이용한 다중 채팅 구현하기 :: 이프
