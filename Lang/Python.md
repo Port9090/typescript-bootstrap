@@ -127,4 +127,5 @@ Python Study
 - [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)
 - [python을 이용한 다중 채팅 구현하기 :: 이프이푸이푸](https://lidron.tistory.com/44)
 - [파이썬 소켓 연결 사용법 · Wireframe](https://soooprmx.com/archives/8737)  <br/><br/>
-- [#파이썬. 파이썬 소켓(socket) 프로그래밍 : 네이버 블로그](https://blog.naver.com/nonamed0
+- [#파이썬. 파이썬 소켓(socket) 프로그래밍 : 네이버 블로그](https://blog.naver.com/nonamed0000/221259426463)  
+- [inheritance - Making a variable non-inherit
