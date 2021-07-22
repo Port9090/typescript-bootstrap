@@ -130,4 +130,4 @@ Python Study
 - [#파이썬. 파이썬 소켓(socket) 프로그래밍 : 네이버 블로그](https://blog.naver.com/nonamed0000/221259426463)  
 - [inheritance - Making a variable non-inheritable in python - Stack Overflow](https://stackoverflow.com/questions/1076718/making-a-variable-non-inheritable-in-python)
 - [Parallel Processing in Python - A Practical Guide with Examples | ML+](https://www.machinelearningplus.com/python/parallel-processing-python/)
-- [python 
+- [python - global 변수와 local 변수가 동시에 쓰였을 때 | 코드잇](https://www.codeit.kr/quest
