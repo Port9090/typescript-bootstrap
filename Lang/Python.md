@@ -131,4 +131,4 @@ Python Study
 - [inheritance - Making a variable non-inheritable in python - Stack Overflow](https://stackoverflow.com/questions/1076718/making-a-variable-non-inheritable-in-python)
 - [Parallel Processing in Python - A Practical Guide with Examples | ML+](https://www.machinelearningplus.com/python/parallel-processing-python/)
 - [python - global 변수와 local 변수가 동시에 쓰였을 때 | 코드잇](https://www.codeit.kr/questions/1200)
-- [10x Faster Parallel Python Without Python Multiproces
+- [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-
