@@ -133,4 +133,4 @@ Python Study
 - [python - global 변수와 local 변수가 동시에 쓰였을 때 | 코드잇](https://www.codeit.kr/questions/1200)
 - [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
 - [[번역] 비동기 파이썬 · mingrammer's note](https://mingrammer.com/translation-asynchronous-python/)
-- [architecture - Difference between a "coroutine" 
+- [architecture - Difference between a "coroutine" and a "thread"? - Stack Overflow](https://stackoverflow.com/quest
