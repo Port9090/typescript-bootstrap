@@ -134,4 +134,4 @@ Python Study
 - [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
 - [[번역] 비동기 파이썬 · mingrammer's note](https://mingrammer.com/translation-asynchronous-python/)
 - [architecture - Difference between a "coroutine" and a "thread"? - Stack Overflow](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
-- [H3 2011 파이썬으
+- [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](https://www.slideshare.net/kthcorp/h32
