@@ -135,4 +135,4 @@ Python Study
 - [[번역] 비동기 파이썬 · mingrammer's note](https://mingrammer.com/translation-asynchronous-python/)
 - [architecture - Difference between a "coroutine" and a "thread"? - Stack Overflow](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
 - [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02) (slideshare)
-- [파
+- [파이썬 병렬프로그래밍](https://www.slideshare.net/dahlmoon/pandasdata-fram
