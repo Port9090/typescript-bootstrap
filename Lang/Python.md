@@ -137,4 +137,5 @@ Python Study
 - [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02) (slideshare)
 - [파이썬 병렬프로그래밍](https://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501) (slideshare)
 - [파이썬과 동시성에 대한 정리](https://hamait.tistory.com/833)  <br/><br/>
-- [[python] threading (쓰레드, thread) | 코딩장이]
+- [[python] threading (쓰레드, thread) | 코딩장이](https://itholic.github.io/python-threading/)
+- [PyCon APAC 2016
