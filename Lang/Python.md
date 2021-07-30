@@ -139,4 +139,5 @@ Python Study
 - [파이썬과 동시성에 대한 정리](https://hamait.tistory.com/833)  <br/><br/>
 - [[python] threading (쓰레드, thread) | 코딩장이](https://itholic.github.io/python-threading/)
 - [PyCon APAC 2016 Program | High-performance Networking with Python](https://archive.pycon.kr/2016apac/program/23)
-- [Luavis' Dev Story - Instagram이 Python garbage collection 없앤 이유 ](https://b.luavis.kr/python/dismissi
+- [Luavis' Dev Story - Instagram이 Python garbage collection 없앤 이유 ](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
+- [[Python] Tip 
