@@ -140,4 +140,5 @@ Python Study
 - [[python] threading (쓰레드, thread) | 코딩장이](https://itholic.github.io/python-threading/)
 - [PyCon APAC 2016 Program | High-performance Networking with Python](https://archive.pycon.kr/2016apac/program/23)
 - [Luavis' Dev Story - Instagram이 Python garbage collection 없앤 이유 ](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
-- [[Python] Tip 
+- [[Python] Tip - 많은 함수를 동시에 실행하려면 코루틴을 고려 :: 개인적인공간](https://brownbears.tistory.com/237)
+- 
