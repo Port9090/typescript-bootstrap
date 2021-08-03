@@ -143,4 +143,4 @@ Python Study
 - [[Python] Tip - 많은 함수를 동시에 실행하려면 코루틴을 고려 :: 개인적인공간](https://brownbears.tistory.com/237)
 - [Why python is Slow:Looking Under the Hood - CookAtRice - Medium](https://medium.com/@cookatrice/why-python-is-slow-looking-under-the-hood-7126baf936d7)
 - [Python에 대하여, Python은 어떻게 동작하는가? Python의 장단점 – Jihun's Development Blog](https://cjh5414.github.io/about-python-and-how-python-works/)
-- [[번역] 파이썬 내부 동작 원리: 임의 정밀도의 정수 구현 · mingrammer
+- [[번역] 파이썬 내부 동작 원리: 임의 정밀도의 정수 구현 · mingrammer's note](https://mingrammer.com/translation-cpython-internals-arbitrary-
