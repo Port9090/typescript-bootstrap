@@ -146,4 +146,5 @@ Python Study
 - [[번역] 파이썬 내부 동작 원리: 임의 정밀도의 정수 구현 · mingrammer's note](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation/)
 - [07_정적 메소드(Static Method, Class Method) - 핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/21054)
 - [python eval() 함수 - 사용을 조심해야 하는 이유](https://bluese05.tistory.com/64)
-- [[python] try문에서 else를 쓰는 이유는? | 코딩장이](https://itholic.github.io/python-try
+- [[python] try문에서 else를 쓰는 이유는? | 코딩장이](https://itholic.github.io/python-try-else/)  <br/><br/>
+- [코끼리를 냉장고에 넣는 방법 :: [Python] 명령행으로 프로그램 인자값 받기 - sys.argv]
