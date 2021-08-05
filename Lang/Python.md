@@ -149,4 +149,5 @@ Python Study
 - [[python] try문에서 else를 쓰는 이유는? | 코딩장이](https://itholic.github.io/python-try-else/)  <br/><br/>
 - [코끼리를 냉장고에 넣는 방법 :: [Python] 명령행으로 프로그램 인자값 받기 - sys.argv](https://dololak.tistory.com/437)
 - [05-6 외장 함수 - 점프 투 파이썬](https://wikidocs.net/33) (sys.argv : 명령 행에서 인수 전달하기/ pickle : 객체의 형태를 그대로 유지하면서 파일에 저장하고 불러올 수 있음)
-- [5.2. 여러가지 모듈 - 왕초보를 위한
+- [5.2. 여러가지 모듈 - 왕초보를 위한 Python 2.7](https://wikidocs.net/78) (sys.ps1 = '^^; ')
+- [파일입출력 - 파이썬
