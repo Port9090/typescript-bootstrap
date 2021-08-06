@@ -152,4 +152,4 @@ Python Study
 - [5.2. 여러가지 모듈 - 왕초보를 위한 Python 2.7](https://wikidocs.net/78) (sys.ps1 = '^^; ')
 - [파일입출력 - 파이썬에서 파일을 읽고, 파일에 쓰는 방법 · Wireframe](https://soooprmx.com/archives/9143)
 - [with 구문과 컨텍스트 매니저 · Wireframe](https://soooprmx.com/archives/4079)
-- 
+- [[python] socket (server, client) | 코딩장이](https://itholic.github.io
