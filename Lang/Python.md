@@ -151,4 +151,5 @@ Python Study
 - [05-6 외장 함수 - 점프 투 파이썬](https://wikidocs.net/33) (sys.argv : 명령 행에서 인수 전달하기/ pickle : 객체의 형태를 그대로 유지하면서 파일에 저장하고 불러올 수 있음)
 - [5.2. 여러가지 모듈 - 왕초보를 위한 Python 2.7](https://wikidocs.net/78) (sys.ps1 = '^^; ')
 - [파일입출력 - 파이썬에서 파일을 읽고, 파일에 쓰는 방법 · Wireframe](https://soooprmx.com/archives/9143)
-- [wit
+- [with 구문과 컨텍스트 매니저 · Wireframe](https://soooprmx.com/archives/4079)
+- 
