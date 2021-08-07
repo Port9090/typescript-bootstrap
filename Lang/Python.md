@@ -153,4 +153,5 @@ Python Study
 - [파일입출력 - 파이썬에서 파일을 읽고, 파일에 쓰는 방법 · Wireframe](https://soooprmx.com/archives/9143)
 - [with 구문과 컨텍스트 매니저 · Wireframe](https://soooprmx.com/archives/4079)
 - [[python] socket (server, client) | 코딩장이](https://itholic.github.io/python-socket/)
-- [[python] select (I/O 멀티플렉싱) | 코딩장이](https://itho
+- [[python] select (I/O 멀티플렉싱) | 코딩장이](https://itholic.github.io/python-select/)
+- [Context Manager in Python - GeeksforG
