@@ -155,4 +155,4 @@ Python Study
 - [[python] socket (server, client) | 코딩장이](https://itholic.github.io/python-socket/)
 - [[python] select (I/O 멀티플렉싱) | 코딩장이](https://itholic.github.io/python-select/)
 - [Context Manager in Python - GeeksforGeeks](https://www.geeksforgeeks.org/context-manager-in-python/)
--
+- [26. Context Managers — Python Tips 0.1 documentation](http://book.pythonti
