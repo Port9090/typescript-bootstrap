@@ -157,4 +157,5 @@ Python Study
 - [Context Manager in Python - GeeksforGeeks](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [26. Context Managers — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/context_managers.html)
 - [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)  <br/><br/>
-- [Python | Different ways to kill a Thread - GeeksforGeeks](https://www.geeksfor
+- [Python | Different ways to kill a Thread - GeeksforGeeks](https://www.geeksforgeeks.org/python-different-ways-to-kill-a-thread/)
+- [Python 소켓 모듈 사용 :: 
