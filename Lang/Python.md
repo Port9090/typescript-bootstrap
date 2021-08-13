@@ -159,4 +159,4 @@ Python Study
 - [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)  <br/><br/>
 - [Python | Different ways to kill a Thread - GeeksforGeeks](https://www.geeksforgeeks.org/python-different-ways-to-kill-a-thread/)
 - [Python 소켓 모듈 사용 :: 그저그런 컴공생](https://bnzn2426.tistory.com/53)
-- [Socket Programmin
+- [Socket Programming in Python (Guide) – Real Python](https://realpython.com/python-sockets/) (Ser
