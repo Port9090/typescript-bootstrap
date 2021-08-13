@@ -160,4 +160,5 @@ Python Study
 - [Python | Different ways to kill a Thread - GeeksforGeeks](https://www.geeksforgeeks.org/python-different-ways-to-kill-a-thread/)
 - [Python 소켓 모듈 사용 :: 그저그런 컴공생](https://bnzn2426.tistory.com/53)
 - [Socket Programming in Python (Guide) – Real Python](https://realpython.com/python-sockets/) (Server - Client TCP socket flow (in Picture))
-- [Socket Programming in Python - GeeksforGeeks](https://www.geeksforgeeks.org/socket-progra
+- [Socket Programming in Python - GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-python/)
+- [[Python] Socket과 TCPServer를 이용한 TCP/IP 프로그래밍
