@@ -163,4 +163,5 @@ Python Study
 - [Socket Programming in Python - GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-python/)
 - [[Python] Socket과 TCPServer를 이용한 TCP/IP 프로그래밍 (작성중) :: 개인적인공간](https://brownbears.tistory.com/207)
 - [TCP/IP 소켓 프로그래밍 주의할 점](https://sunyzero.tistory.com/167)
-- [Gevent 튜토리얼
+- [Gevent 튜토리얼](http://leekchan.com/gevent-tutorial-ko/)
+- [[python] 
