@@ -165,4 +165,5 @@ Python Study
 - [TCP/IP 소켓 프로그래밍 주의할 점](https://sunyzero.tistory.com/167)
 - [Gevent 튜토리얼](http://leekchan.com/gevent-tutorial-ko/)
 - [[python] threading, multiprocessing, GIL, concurrent.futures.ThreadPoolExecutor :: 엄범](https://umbum.tistory.com/179)
-- [파이썬의 스레드 사용법 · 
+- [파이썬의 스레드 사용법 · Wireframe](https://soooprmx.com/archives/8834)
+- [[Python] #1
