@@ -167,4 +167,5 @@ Python Study
 - [[python] threading, multiprocessing, GIL, concurrent.futures.ThreadPoolExecutor :: 엄범](https://umbum.tistory.com/179)
 - [파이썬의 스레드 사용법 · Wireframe](https://soooprmx.com/archives/8834)
 - [[Python] #16  if \_\_name__ == "\_\_main__" 의 의미 :: 생각 없는 자의 싸움](https://battlewithmyself.tistory.com/49?category=687656)  <br/><br/>
-- [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization
+- [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
+- [python eval 과 literal_eval 의 차이](https://bluese05.tistor
