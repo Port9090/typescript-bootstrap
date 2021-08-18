@@ -169,4 +169,4 @@ Python Study
 - [[Python] #16  if \_\_name__ == "\_\_main__" 의 의미 :: 생각 없는 자의 싸움](https://battlewithmyself.tistory.com/49?category=687656)  <br/><br/>
 - [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
 - [python eval 과 literal_eval 의 차이](https://bluese05.tistory.com/65) (python eval() 함수 - 사용을 조심해야 하는 이유)
-- [Python select 함수를 이용한 간단한 에코
+- [Python select 함수를 이용한 간단한 에코 서버/클라이언트 예제 - 데이터 사이언스](https://scienceofdata.tistory.com
