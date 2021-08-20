@@ -170,4 +170,4 @@ Python Study
 - [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
 - [python eval 과 literal_eval 의 차이](https://bluese05.tistory.com/65) (python eval() 함수 - 사용을 조심해야 하는 이유)
 - [Python select 함수를 이용한 간단한 에코 서버/클라이언트 예제 - 데이터 사이언스](https://scienceofdata.tistory.com/entry/Python-select-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%97%90%EC%BD%94-%EC%84%9C%EB%B2%84%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%98%88%EC%A0%9C)
-- [python의 soocket 통신시 send()와 sendall()의 차이에 대해서 :: 코드 조각-Android, Java, C
+- [python의 soocket 통신시 send()와 sendall()의 차이에 대해서 :: 코드 조각-Android, Java, C#, C, C++, JavaScript, PHP, HTML, CSS, Delphi](https://developer-joe.tistory.com
