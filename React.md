@@ -12,4 +12,5 @@ Reactjs
 
 
 ### React
-- [React - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg
+- [React - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi) (생활코딩)
+    - [React class vs function style - YouTube](https://w
