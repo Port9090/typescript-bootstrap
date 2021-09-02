@@ -22,4 +22,5 @@ Reactjs
 - [자바스크립트 강좌 - YouTube](https://www.youtube.com/playlist?list=PLcqDmjxt30Rtbxbh4eJREOVekql_kWVmu)
 - [___누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌 | VELOPERT.LOG___](https://velopert.com/3613)
     - [누구든지 하는 리액트 4편: props 와 state | VELOPERT.LOG](https://velopert.com/3629)
-    - [React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기 
+    - [React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기 | VELOPERT.LOG](https://velopert.com/3480)
+    - [___React ❤️ Imm
