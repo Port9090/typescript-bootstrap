@@ -24,4 +24,4 @@ Reactjs
     - [누구든지 하는 리액트 4편: props 와 state | VELOPERT.LOG](https://velopert.com/3629)
     - [React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기 | VELOPERT.LOG](https://velopert.com/3480)
     - [___React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기 | VELOPERT.LOG___](https://velopert.com/3486)
-    - [다양한 방식의 리액트 컴포넌트 스타일링 방식 CSS,
+    - [다양한 방식의 리액트 컴포넌트 스타일링 방식 CSS, Sass, CSS Module, styled-components](https://velo
