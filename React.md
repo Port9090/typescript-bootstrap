@@ -25,4 +25,4 @@ Reactjs
     - [React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기 | VELOPERT.LOG](https://velopert.com/3480)
     - [___React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기 | VELOPERT.LOG___](https://velopert.com/3486)
     - [다양한 방식의 리액트 컴포넌트 스타일링 방식 CSS, Sass, CSS Module, styled-components](https://velog.io/@velopert/react-component-styling)  <br/><br/>
-- [React 컴포넌트 CSS 스타일링 
+- [React 컴포넌트 CSS 스타일링 기본 | Engineering Blog by Dale Seo](https://www.daleseo.com/reac
