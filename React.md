@@ -26,4 +26,5 @@ Reactjs
     - [___React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기 | VELOPERT.LOG___](https://velopert.com/3486)
     - [다양한 방식의 리액트 컴포넌트 스타일링 방식 CSS, Sass, CSS Module, styled-components](https://velog.io/@velopert/react-component-styling)  <br/><br/>
 - [React 컴포넌트 CSS 스타일링 기본 | Engineering Blog by Dale Seo](https://www.daleseo.com/react-styling/)
-    - [[React] Styled Components 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/react-styled-components
+    - [[React] Styled Components 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/react-styled-components/)
+    - [Material UI 소개 및 Typography 컴포넌트 사용법 | Engineering Blog by Da
