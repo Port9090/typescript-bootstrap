@@ -27,4 +27,5 @@ Reactjs
     - [다양한 방식의 리액트 컴포넌트 스타일링 방식 CSS, Sass, CSS Module, styled-components](https://velog.io/@velopert/react-component-styling)  <br/><br/>
 - [React 컴포넌트 CSS 스타일링 기본 | Engineering Blog by Dale Seo](https://www.daleseo.com/react-styling/)
     - [[React] Styled Components 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/react-styled-components/)
-    - [Material UI 소개 및 Typography 컴포넌트 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/material-ui-typogra
+    - [Material UI 소개 및 Typography 컴포넌트 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/material-ui-typography/)
+- [Styled Components - 스타일을 품은 컴포넌트 - Hudi - 유사 프로그래머](https://hudi.kr
