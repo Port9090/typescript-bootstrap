@@ -29,4 +29,4 @@ Reactjs
     - [[React] Styled Components 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/react-styled-components/)
     - [Material UI 소개 및 Typography 컴포넌트 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/material-ui-typography/)
 - [Styled Components - 스타일을 품은 컴포넌트 - Hudi - 유사 프로그래머](https://hudi.kr/styled-components-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%ED%92%88%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8/)
-- [I wish I knew these before diving 
+- [I wish I knew these before diving into React - Opsgenie Engineering](https://engineering.opsgenie.com/i-w
