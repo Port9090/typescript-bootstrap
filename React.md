@@ -37,4 +37,5 @@ Reactjs
 
 
 ### webpack
-- [Webpack - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoT
+- [Webpack - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA) (생활코딩)
+- [웹팩 핸드북](https://joshua1988.github.io/webp
