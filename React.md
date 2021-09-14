@@ -39,4 +39,4 @@ Reactjs
 ### webpack
 - [Webpack - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA) (생활코딩)
 - [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
-- [웹팩 입문: 1. HTML, CSS 사용하기 - Seungho Lee - Medium](https://medium.com/@shlee1353/%EC%9B%B9%ED%8C%A9-%EC%9E%85%EB%AC%B8
+- [웹팩 입문: 1. HTML, CSS 사용하기 - Seungho Lee - Medium](https://medium.com/@shlee1353/%EC%9B%B9%ED%8C%A9-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C%ED%8E%B8-html-css-%EC%82%AC%EC%9A%A9%EA%
