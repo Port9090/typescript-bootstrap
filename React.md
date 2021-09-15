@@ -49,4 +49,5 @@ Reactjs
 
 
 ### references
-- [Node.js 교과서: 3.4.4 \_\_filename, __\_\_dirname__](h
+- [Node.js 교과서: 3.4.4 \_\_filename, __\_\_dirname__](https://thebook.io/006982/ch03/04/04/)
+- [What is the difference 
