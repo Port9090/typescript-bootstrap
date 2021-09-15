@@ -48,4 +48,5 @@ Reactjs
  <br/><br/>
 
 
-###
+### references
+- [Node.js 교과서: 3.4.4 \_\_filename, __\_\_dirname__](h
