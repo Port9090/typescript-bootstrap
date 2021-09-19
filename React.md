@@ -53,4 +53,9 @@ Reactjs
 - [What is the difference between \_\_dirname and ./ in node.js? - Stack Overflow](https://stackoverflow.com/questions/8131344/what-is-the-difference-between-dirname-and-in-node-js)
 - [Path | Node.js v14.2.0 Documentation](https://nodejs.org/api/path.html)
     - [[NodeJS] path.join 과 path.resolve 차이 📋 / path.join이란? / path.resolve란?](https://programming119.tistory.com/106)
-    - [Node path.join() vs path.resolve() | Hanumoka, IT Blog](https://www.hanumoka.net/2018/11/08/node-20181108-node-path-join-vs-re
+    - [Node path.join() vs path.resolve() | Hanumoka, IT Blog](https://www.hanumoka.net/2018/11/08/node-20181108-node-path-join-vs-resolve/)
+
+
+ <br/><br/>
+
+
