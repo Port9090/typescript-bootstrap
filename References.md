@@ -219,3 +219,67 @@ References
 - [OLC CENTER](https://olc.kr/main/index.jsp) (Open Source Software Learning Community)
     - [___Computer Architecture___](https://olc.kr/course/course_online_view.jsp?id=240&cid=519) (민상렬)
 - [Academia.edu](https://www.academia.edu/) (social networking website for academics : share and follow research)
+- [(주)소프트웨어품질기술원](http://www.softqt.com/softqt/board.php?board=research2) (알고리즘, 소프트웨어)
+- [Hakjoo Oh's Web Page](http://prl.korea.ac.kr/~pronto/home/courses.html)
+    - [COSE212](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/) (Programming Languages, 2019 Fall)
+    - [pl-book-draft.pdf](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/pl-book-draft.pdf) (___SNU 4190.310 Programming Languages Lecture Notes___)
+- [공공 인공지능 오픈 API·DATA 서비스 포털](http://aiopen.etri.re.kr/index.php)
+- [CS50](https://cs50.harvard.edu/college/2020/spring/)
+    - [[해외명강] 컴퓨터 과학 교양 강좌: CS50 Course introduction : edwith](https://www.edwith.org/cs50/)  <br/><br/>
+- [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
+- [CSS-Tricks](https://css-tricks.com/)
+    - [Front-End Challenges | CSS-Tricks](https://css-tricks.com/front-end-challenges/)
+- [Daily UI Design Challenge, Inspiration, and Resources](https://www.dailyui.co/)
+- [Webhacking.kr](https://webhacking.kr/)
+- [RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs](https://regexone.com/)
+    - [Regexper](https://regexper.com/)
+    - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
+    - [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
+- [Learn to code at home | freeCodeCamp.org](https://www.freecodecamp.org/)  <br/><br/>
+- [raywenderlich.com | High quality programming tutorials: iOS, Android, Swift, Kotlin, Flutter, Server Side Swift, Unity, and more!](https://www.raywenderlich.com/)
+- [Flexbox Froggy - CSS flexbox 속성 배우기 게임](http://flexboxfroggy.com/#ko)
+
+
+ <br/><br/>
+
+
+### Job & Interview
+- [페이스북 면접, 두번의 실패 #1](https://steemit.com/kr/@asbear/1)
+- [소프트웨어 개발자의 인터뷰 준비과정 Microsoft에서 이직을 결심하다-4](https://brunch.co.kr/@yoonvi/8)
+- [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-part-1/)
+- [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers 실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
+- [___나의 2017년 외국기업 코딩 인터뷰 정리___](https://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
+- [인턴 지원서 – 조성문의 블로그](https://sungmooncho.com/2019/03/02/internship/amp/)
+- [코딩 인터뷰 꼭 해야 하나? | Popit](https://www.popit.kr/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%bc%ad-%ed%95%b4%ec%95%bc-%ed%95%98%eb%82%98/)
+- [[꼰대개발자가 살아온이야기#1] 면접에 관하여 | Popit](https://www.popit.kr/%ea%bc%b0%eb%8c%80%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%82%b4%ec%95%84%ec%98%a8%ec%9d%b4%ec%95%bc%ea%b8%b01-%eb%a9%b4%ec%a0%91%ec%97%90-%ea%b4%80%ed%95%98%ec%97%ac/)
+- [[기술 면접 질문] 기술 면접 예상 질문 대비하기 - 운영체제(OS)편 - Heee's Development Blog](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-os.html)
+    - [[기술 면접 질문] 기술 면접 예상 질문 대비하기 - 디자인패턴(Design Pattern)편 - Heee's Development Blog](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-designpattern.html)
+    - [[기술 면접 질문] 기술 면접 예상 질문 대비하기 - 데이터베이스(DB)편 - Heee's Development Blog](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-db.html)  <br/><br/>
+<br/><br/><br/>
+- [채용 정보 검색 | Tesla](https://www.tesla.com/ko_KR/careers/search#/?department=1&region=5&country=0) (Software Engineer, Computer Vision and AI)
+    - [Tesla AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/tesla-ai-interview-questions-acing-the-ai-interview-88b2e94ccbbf)
+- [styleshare](https://styleshare.team/)
+    - [[전지적 팀원 시점] 개발팀 6인이 말하는 스쉐다운 일과 사람](https://styleshare.team/archives/972)
+    - [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)
+- [안녕하세요, 지그재그 팀 입니다!](https://www.notion.so/a561a88ad03e4022860924fd557a0da3)
+- [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
+- [DeepNatural Crew](https://www.notion.so/DeepNatural-Crew-c90ab612ac3a42a8999d59b2e54f99db)
+    - [멋진 크루를 찾고 있어요!](https://www.notion.so/1371afc37e8a44039a0e8037993cb75b)
+- [CryptoQuant Job Description](https://www.notion.so/CryptoQuant-Job-Description-1068b1aa06454244b3ae3022bf8091f6)  <br><br>
+- [Notion – Careers](https://www.notion.so/careers)
+- [HOME | 와디즈 채용](https://www.job.wadiz.kr/)
+- [인재를 찾습니다](https://www.notion.so/772467ba686c4952a512f9e05b1ae320) (클래스 101)
+- [하이브리드앱 프론트 개발자 2명 구인 공고](https://www.notion.so/2-784ff9618b984e88a71a9befa30dc2fe) (요즘 시대 이웃 커뮤니티 '우트'에서 웹 프론트엔드 개발자 2분을 모십니다)
+- [채용 공고 | SCATTER LAB](https://scatterlab.co.kr/recruiting/)
+- [플루토 채용공고](https://www.notion.so/d9b8ee14b76845688ce0d718a32c1e13)
+- [2020년 수시 채용공고 안내](https://www.robotis.com/model/board.php?bo_table=recruit&wr_id=1) (로보티즈)
+- [Join us : Watcha, Inc.](https://team.watcha.com/joinus/)
+- [Join Seoul Robotics! ](https://www.notion.so/Join-Seoul-Robotics-2483666315804dedbac2a4f161654b15)
+- [우리와 함께 꿈을 키워나갈 분을 찾습니다!](https://www.notion.so/18966ccf2c514cab8b84bbf7c30c4cb7) (꿈많은 청년들)  <br><br>
+- [필통 소개](https://www.notion.so/52991bd4476f4abbb250335e4aa94466)
+- [그룹영상통화 스무디 채용](https://www.notion.so/df18abb5dfb94ea4a5a6b369bb43c7ce)
+- [메쉬코리아(VROONG)](https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc) (메쉬코리아 개발자 공개 채용)
+- [Careers at Olimplanet](https://www.notion.so/Careers-at-Olimplanet-49fb20feb6a04a5fa37157be890b29db) (올림플래닛)
+- [Qrio Studio(큐리오스튜디오) 채용](https://www.notion.so/4989e14a7e9143d0ac15bb4a4770f892#08bd7fa7b4a94a56be2d3b5fe2e2dd0b)
+- [Silvia Health 채용](https://www.notion.so/Silvia-Health-ddcf51903e24410b990fec56bf744077)
+
