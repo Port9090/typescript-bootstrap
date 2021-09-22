@@ -283,3 +283,72 @@ References
 - [Qrio Studio(큐리오스튜디오) 채용](https://www.notion.so/4989e14a7e9143d0ac15bb4a4770f892#08bd7fa7b4a94a56be2d3b5fe2e2dd0b)
 - [Silvia Health 채용](https://www.notion.so/Silvia-Health-ddcf51903e24410b990fec56bf744077)
 
+
+ <br><br>
+ 
+
+### Newsletter
+- [Morning Brew // Stories](https://www.morningbrew.com/daily/stories)
+- [뉴닉 NEWNEEK](https://newneek.co/)
+- [부딩 BOODING](https://www.booding.co/) (구독형 부동산 뉴스레터)
+- [스티비 | 모두를 위한 이메일마케팅](https://stibee.com/)
+    - [스티비 블로그](https://blog.stibee.com/)
+    - [오렌지레터 구독하기](https://slowalk.co.kr/orangeletter/)
+- [UPPITY](https://uppity.co.kr/) (사회초년생을 위한 첫 번째 경제미디어, 어피티)
+- [Home | alice](https://www.alicemedia.co/)
+    - [지난호 보기, 앨리스 : 네이버 블로그](https://blog.naver.com/alice_letter)
+- [순살브리핑 – 모건스탠리 홍콩 출신 2인의 글로벌 금융경제 뉴스 살코기](https://soonsal.com/)
+    - [순살브리핑Soonsal - YouTube](https://www.youtube.com/channel/UCAlHlhp6Ug62sP8C6akctmQ/videos)
+- [스페이스오디티 - 음악으로 세상을 이롭게](https://www.spaceoddity.me/)  <br><br>
+- [Mark Manson - Author. Thinker. Life Enthusiast.](https://markmanson.net/)
+
+
+ <br><br>
+
+
+### Book
+- [___Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs___](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
+- [___Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition___](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
+- [더북(TheBook)](https://thebook.io/) ((주)도서출판 길벗 IT 도서 열람 서비스)
+- [Professional: JavaScript® for Web Developers - Professional JavaScript for Web Developers, 3rd Edition.pdf](http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf)
+- [Graph Algorithms - Graph_Algorithms_Neo4j.pdf](https://neo4j.com/neoassets/graphbooks/Graph_Algorithms_Neo4j.pdf)
+- [___Structure and Interpretation of Computer Programs___ - 2nd Edition (MIT Electrical Engineering and Computer Science): Harold Abelson, Gerald Jay Sussman, Julie Sussman: 9780262510875: Amazon.com: Books](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_bbs_sr_1/103-1750837-1462266?ie=UTF8&s=books&qid=1193114110&sr=1-1)
+    - [Structure and Interpretation of Computer Programs, 2nd ed. - sicp.pdf](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+- [Software Engineering - Principles and Practice By Hans van Vliet - Wiley 2007.pdf](http://160592857366.free.fr/joe/ebooks/ShareData/Software%20Engineering%20-%20Principles%20and%20Practice%20By%20Hans%20van%20Vliet%20-%20Wiley%202007.pdf)
+- [Fundamentals of Software Engineering: United States Edition: Amazon.in: Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli: Books](https://www.amazon.in/Fundamentals-Software-Engineering-United-States/dp/0133056996)
+- [___How to Design Programs___](https://htdp.org/)  <br/><br/>
+
+
+ <br/><br/>
+
+
+### ETCs
+- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
+- [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) 
+- [Darwin Online](http://darwin-online.org.uk/)
+- [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
+- [Deepnote - Data science notebook for teams](https://www.deepnote.com/)
+- [Cloudflare - The Web Performance & Security Company | Cloudflare ](https://www.cloudflare.com/)
+- [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/dns/)
+- [Mellowbeat Seeker - YouTube](https://www.youtube.com/channel/UCO1jhQjMhiI0YrHUGHyev7A) (playlist from Raphael)
+- [YouTube Music](https://music.youtube.com/playlist?list=PLN_kYklcsDlO8fcV7bz_9n7fYbg54E6rq) (개발할 때 듣는 신나는 노래, Playlist by Seohyun Yoon)  <br/><br/>
+- [Speaker Deck - Share Presentations without the Mess](https://speakerdeck.com/)
+- [Open Source Design](https://opensourcedesign.net/)
+- [Dainty](https://dainty.site/) (color theme generator)
+- [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)
+- [CLOUDMATE-Azure Expert Group](https://www.cloudmt.co.kr/#home)
+- [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
+- [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
+    - [Blender Guru](https://www.blenderguru.com/)
+- [Trending posts — Steemit](https://steemit.com/) (Make great communities with financial inclusion : incorporating cryptocurrency as incentives)
+- [Keyboard shortcuts, enumerated ‒ defkey](https://defkey.com/)  <br/><br/>
+- [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
+- [about.me | your personal homepage](https://about.me/)
+- [The future of forms is here | Typeform](https://www.typeform.com/)
+- [Rider: The Cross-Platform .NET IDE from JetBrains](https://www.jetbrains.com/rider/)
+- [Welcome to BatStudio! — BatStudio](http://www.ibatstudio.com/)
+- [App Ape Lab – 앱에이프 랩](https://ko.lab.appa.pe/)
+- [  Video content making service for business  | 타일 ](https://tyle.io/)
+- [Sketch - The digital design toolkit](https://www.sketch.com/)
+- [모두!](https://www.modoo.at/home) (NAVER modoo!)
