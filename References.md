@@ -423,3 +423,14 @@ References
 - [Software Freedom Conservancy](https://sfconservancy.org/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)  <br/><br/>
 - [VisuAlgo - visualising data structures and algorithms through animation](https://visualgo.net/en)
+- [KAIST Mirror](http://ftp.kaist.ac.kr/)
+- [mirror.kakao.com](http://mirror.kakao.com/)
+- [mirror.navercorp.com](http://mirror.navercorp.com/)
+- [To Get FLV](http://www.2getflv.co.kr/)
+- [Cursive: The IDE for beautiful Clojure(Script) code](https://cursive-ide.com/index.html)
+- [Light Table](http://lighttable.com/) (The next generation code editor)
+
+
+ <br/><br/>
+ 
+ 
