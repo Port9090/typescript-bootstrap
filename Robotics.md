@@ -122,3 +122,26 @@ Robotics
 
 
  <br/><br/>
+
+
+### News
+- [구글은 왜 로봇 회사를 소프트뱅크에 팔까…글로벌 기업들의 로봇 M&A 전략 - 중앙일보](https://news.joins.com/article/21660475)
+- [[로봇 갑론을박①]이경전 교수,  "휴먼로봇시대는 멀었다" : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=008&aid=0003323614&sid1=001)
+- [Why Facebook Is Training Robots To Think [Exclusive Interview]](https://www.forbes.com/sites/cognitiveworld/2019/09/03/exclusive-interview-why-facebook-is-training-robots-to-think/#23aef5f312c2)
+- [Learning Dexterity](https://openai.com/blog/learning-dexterity/) (human-like robot hand to manipulate physical objects with unprecedented dexterity)
+- [로봇은 태어나면 ‘로봇대학’ 간다 : 미래 : 미래&과학 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/science/future/916665.html)
+    - [[1910.11215] RoboNet: Large-Scale Multi-Robot Learning](https://arxiv.org/abs/1910.11215)
+
+
+ <br/><br/>
+
+
+### Job
+- [로봇딜리버리 서버 개발자 모집 | (주)우아한형제들 (Woowa Bros.) | LinkedIn](https://www.linkedin.com/jobs/view/1462345411/)
+
+
+ <br/><br/>
+
+
+
+
