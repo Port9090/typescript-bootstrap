@@ -48,3 +48,77 @@ Robotics
 - [___QUT Robot Academy___](https://robotacademy.net.au/) (The open online robotics education resource)
 - [___Robotics - YouTube___](https://www.youtube.com/playlist?list=PL_onPhFCkVQhuPiUxUW2lFHB39QsavEEA) (Bob Trenwith)
 - [___Modern Robotics, All Videos - YouTube___](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx) (Northwestern Robotics)  <br/><br/>
+- [Gazebo: Gazebo API Reference](http://osrf-distributions.s3.amazonaws.com/gazebo/api/1.6.3/index.html)
+- [Home | MIT Biomimetics Robotics Lab](https://biomimetics.mit.edu/) (Sangbae Kim)
+- [ROS Courses (한국어) - YouTube](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
+
+
+ <br/><br/>
+ 
+
+### Company & Community
+- [한국로봇학회](http://kros.org/)
+- [로보티즈](http://www.robotis.com/)
+- [Simbe | Changing business-as-usual for retailers around the globe.](https://www.simberobotics.com/) (Better retail for all)
+- [Transforming Manual Machines Into Autonomous Solutions | Brain Corp](https://www.braincorp.com/)
+- [SoftBank Robotics - Group | Global Site](https://www.softbankrobotics.com/)
+- [Willow Garage](http://www.willowgarage.com/)
+- [Boston Dynamics | Boston Dynamics](https://www.bostondynamics.com/)
+    - [BostonDynamics - YouTube](https://www.youtube.com/user/BostonDynamics/featured)
+- [Robomakery](https://www.robomakery.com/) (Accelerate development of affordable service robots for people with mobility impairments)
+    - [Robomakery](https://github.com/robomakery) (Github)
+- [Apex.AI | Autonomous Driving Software](https://www.apex.ai/)
+- [Connected Robotics Inc.(English Site)](https://connected-robotics.com/)
+- [로보스타](http://www.robostar.co.kr/kr/index.do)  <br/><br/>
+- [Donkey® Car - Home](https://www.donkeycar.com/)
+- [에일리언로봇 | Alien Robot](https://www.alienrobot.io/)
+- [AuTURBO](https://github.com/AuTURBO)
+- [Join Udacity-Robotics on Slack!](https://slackin.udacity.com/robotics)
+- [Frontpage | Mobile Industrial Robots](https://www.mobile-industrial-robots.com/en/)
+- [YUJIN ROBOT](https://yujinrobot.com/)
+- [Center for Robotics and Biosystems - Northwestern University](https://robotics.northwestern.edu/)  <br/><br/>
+- [ROS For Beginners LEARNING PATH | The Construct](https://www.theconstructsim.com/)
+- [Qbotics Labs | Be the Future](https://www.qboticslabs.com/)
+- [Open Robotics](https://www.openrobotics.org/)
+
+
+ <br/><br/>
+
+
+### Study
+- [OpenAI Robotics Symposium 2019 - YouTube](https://www.youtube.com/watch?v=WRsxoVB8Yng)
+- [Generalizing from Simulation](https://openai.com/blog/generalizing-from-simulation/)
+- [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
+- [스터디메이크 :: 라즈베리파이의 RPi.GPIO 모듈 개요](https://studymake.tistory.com/498)
+- [[Python] 라즈베리 파이의 GPIO를 이용해 스위치/LED 제어하기 (2)](https://junolefou.tistory.com/5)
+- [Raspberry pi 에서 python으로 GPIO 사용하기 - 도구의인간 메이커스 위키](http://lhdangerous.godohosting.com/wiki/index.php/Raspberry_pi_%EC%97%90%EC%84%9C_python%EC%9C%BC%EB%A1%9C_GPIO_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [python - Why cleanup the GPIO pins? - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/34363/why-cleanup-the-gpio-pins)
+- [JPL's Open Source Build-It-Yourself Rover](https://opensourcerover.jpl.nasa.gov/#!/signup)
+    - [nasa-jpl/open-source-rover: A build-it-yourself, 6-wheel rover based on the rovers on Mars!](https://github.com/nasa-jpl/open-source-rover)
+- [What is self collide? and what is difference between visual and collision? - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/304171/what-is-self-collide-and-what-is-difference-between-visual-and-collision/)  <br/><br/>
+- [칼만 필터 기초 - 알고리즘](https://lovely-embedded.tistory.com/15)
+    - [PinkWink :: 칼만 필터를 이용하여 위치에서 속도 구하는 예제 - 김성필 저, 칼만필터의 이해 -](https://pinkwink.kr/781)
+    - [Drone's DIYer :: 칼만 필터(Kalman filter)](https://sharehobby.tistory.com/entry/%EC%B9%BC%EB%A7%8C-%ED%95%84%ED%84%B0Kalman-filter1)
+    - [[SLAM] Kalman filter and EKF(Extended Kalman Filter) · Jinyong](http://jinyongjeong.github.io/2017/02/14/lec03_kalman_filter_and_EKF/)
+    - [slam04-ekf.pptx - slam04-ekf.pdf](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/pdf/slam04-ekf.pdf) (Robot Mapping - Extended Kalman Filter)
+    - [Kalman Filtering Tutorial - kleeman_kalman_basics.pdf](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf) (Understanding and ApplyingKalman Filtering)
+    - [Kalman filter 소개 - Dong-Won, Shin - Medium](https://medium.com/@celinachild/kalman-filter-%EC%86%8C%EA%B0%9C-395c2016b4d6)
+    - [kalman.pdf - kalman.pdf](https://academic.csuohio.edu/simond/courses/eec644/kalman.pdf)
+- [[SLAM] IROS2019 SLAM 관련 논문 정리 · Jinyong](http://jinyongjeong.github.io/2019/11/07/IROS2019_SLAM_list/)
+- [Robotics Webinar - Week 6 - YouTube](https://www.youtube.com/watch?v=0H-OVbAhwqA) (utilize the OpenCV library in order to take a version the Chase Me project)  <br/><br/>
+- [thrun.robust-mcl.pdf](http://robots.stanford.edu/papers/thrun.robust-mcl.pdf) (Robust Monte Carlo Localization for Mobile Robots)
+- [thrun.graphslam.pdf](http://robot.cc/papers/thrun.graphslam.pdf) (The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures, Sebastian Thrun)
+- [PinkWink :: ROS 3D 시각화 툴 RViz 쉽게 쉽게 처음 시작해보기](https://pinkwink.kr/903)
+- [A Tutorial on Graph-Based SLAM](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
+- [ATmega128 - 8-bit AVR Microcontrollers](https://www.microchip.com/wwwproducts/en/ATMEGA128)
+- [[SLAM] Bayes filter(베이즈 필터) · Jinyong](http://jinyongjeong.github.io/2017/02/13/lec01_SLAM_bayes_filter/)
+- [pathplanforMAV_icra13.pdf](https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf) (Path Planning for Non-Circular Micro Aerial Vehicles in Constrained Environment)
+- [Publishing to a topic via subscriber callback function - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/59725/publishing-to-a-topic-via-subscriber-callback-function/)
+- [Task and Configuration space | Robot Academy](https://robotacademy.net.au/lesson/task-and-configuration-space/)
+    - [Configuration Space - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/configuration-space)
+    - [robotics.pdf - SNUx_Chapter_2.pdf](http://robotics.snu.ac.kr/edX/2014-1/lecturenotes/SNUx_Chapter_2.pdf)
+    - [Microsoft PowerPoint - Lec10-ConfigurationSpace.pptx - Lec10-ConfigurationSpace.pdf](http://courses.csail.mit.edu/6.141/spring2010/pub/lectures/Lec10-ConfigurationSpace.pdf)
+    - [Microsoft PowerPoint - Chap3-Config-Space_howie.ppt - Chap3-Config-Space_howie.pdf](https://www.cs.cmu.edu/~motionplanning/lecture/Chap3-Config-Space_howie.pdf)  <br/><br/>
+
+
+ <br/><br/>
