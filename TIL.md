@@ -181,3 +181,54 @@ Today I Learned
 - [윈도우10 웹서버 IIS만들기](https://doyeworld.tistory.com/1)
     - [Publish an ASP.NET Core app to IIS | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-iis?view=aspnetcore-3.1&tabs=visual-studio)
     - [Host ASP.NET Core on Windows with IIS | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?view=aspnetcore-3.1#install-the-net-core-hosting-bundle)
+    - [Where do logs go when running ASP.NET Core on IIS 7.5? - Stack Overflow](https://stackoverflow.com/questions/40536073/where-do-logs-go-when-running-asp-net-core-on-iis-7-5)
+    - [excel - Retrieving the COM class factory for component failed - Stack Overflow](https://stackoverflow.com/questions/881132/retrieving-the-com-class-factory-for-component-failed)
+    - [web.config 파일 고찰](https://hotdogya.tistory.com/23)
+    - [Using the Web.Config File | Creating ASP.NET Applications | InformIT](https://www.informit.com/articles/article.aspx?p=27315&seqNum=4)
+- [javascript - How to ___disable button in React.js___ - Stack Overflow](https://stackoverflow.com/questions/41488715/how-to-disable-button-in-react-js/41488965)  <br/><br/>
+- [___정규표현식(Regular Expression)을 소개합니다.___](http://www.nextree.co.kr/p4327/)
+- [Business logic - Wikipedia](https://en.wikipedia.org/wiki/Business_logic) (___Business logic, Business rules___)
+- [___Learn ASP.NET Core Convention-Based URL Routing___](https://www.yogihosting.com/aspnet-core-url-routing/)
+    - [Controllers in ASP.NET Core](https://www.yogihosting.com/aspnet-core-controllers)
+    - [Actions in ASP.NET Core](https://www.yogihosting.com/aspnet-core-actions/)
+    - [Views in ASP.NET Core](https://www.yogihosting.com/aspnet-core-views/)
+- [Difference Between apt and apt-get Explained - It's FOSS](https://itsfoss.com/apt-vs-apt-get-difference/)
+- [스텝모터의 위상(Phase)이란 2상모터, 3상모터, 5상모터 – 엠씨테크](http://mc-t.co.kr/?mod=document&uid=358&page_id=75)
+    - [Choosing the right motor-driver | SP Robotic Works](https://sproboticworks.com/blog/choosing-the-right-motor-driver)
+    - [arduino - What exactly does a motor driver do? Why do we need an additional power supply for motors? - Robotics Stack Exchange](https://robotics.stackexchange.com/questions/11704/what-exactly-does-a-motor-driver-do-why-do-we-need-an-additional-power-supply-f) <br/><br/>
+- [C 라이브러리 함수 - signal() 시그널 처리 방법을 설정](http://forum.falinux.com/zbxe/index.php?document_srl=413254&mid=C_LIB)
+  - [Ctrl + C 키 이벤트 가로채기 · snowdeer's Code Holic](https://snowdeer.github.io/c++/2017/07/18/cpp11-ctrl-c-event-hooking/)
+  - [C언어_시스템프로그래밍 : 시그널 : 네이버 블로그](https://blog.naver.com/bitnang/70172674474)
+  - [REAKWON :: [리눅스] 시그널 (SIGNAL)1 시그널 다루기(시그널 핸들러)](https://reakwon.tistory.com/46)
+- [linux - SSH not working on Raspbian - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/83776/ssh-not-working-on-raspbian)
+  - [___How to fix Raspberry Pi SSH connection reset___](http://read.mindginative.com/post/raspberrypi-ssh-connection-reset/)
+- [___Happy Programmer~  :: C언어: 쓰레드 pthread_create() 예제 - 쓰레드 생성 기본___](https://bitsoul.tistory.com/157)
+  - [리눅스 멀티 쓰레드(pthread_create.. : 네이버블로그](https://blog.naver.com/bmw_rad/70178013412)
+  - [REAKWON :: [리눅스] 스레드(Thread) 개념과 예제(pthread_create, pthread_join, pthread_detach)](https://reakwon.tistory.com/56)
+
+
+ <br/><br/>
+
+
+ ### Papers
+ - [Mario Kart is Hard](http://erikdemaine.org/papers/MarioKart_JCDCGG2015full/paper.pdf)
+ - [Super Mario Bros. Is Harder/Easier than We Thought](http://erikdemaine.org/papers/Mario_FUN2016/paper.pdf)
+ - [[1909.03562] Almost all orbits of the Collatz map attain almost bounded values](https://arxiv.org/abs/1909.03562)
+
+
+ <br/><br/>
+
+
+### Startup
+- [중국의 인터넷 삼두마차 BAT | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2014/06/06/bat/)
+- [PINDUODUO - a Close Look at the Fastest Growing E-commerce App in China, 2018.08 (WalkTheChat)](https://www.slideshare.net/truonghang297/pinduoduo-a-close-look-at-the-fastest-growing-ecommerce-app-in-china-201808-walkthechat)
+- [보이저엑스에서의 인턴생활 - Jiseop Han - Medium](https://medium.com/@jiseop_han/%EB%B3%B4%EC%9D%B4%EC%A0%80%EC%97%91%EC%8A%A4%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%B8%ED%84%B4%EC%83%9D%ED%99%9C-f5ccb8eeabc8)
+- [사회 초년생이 바라본 레이니스트 - Banksalad Tech - Medium](https://medium.com/rainist-engineering/reviewing-rainist-by-newcomer-e2ecbf9ad812)
+- [쇼핑몰도 없이 아마존 대항마로 부상한 비결 - T Times](http://www.ttimes.co.kr/view.html?no=2019091618157718260)
+- [Bill Gates interview: How the world will change by 2030 - YouTube](https://www.youtube.com/watch?v=8RETFyDKcw0)
+- [Why CEOs should spend up to half their time recruiting | TechCrunch](https://techcrunch.com/2019/12/17/why-ceos-should-spend-up-to-half-their-time-recruiting/)
+
+
+ <br/><br/>
+ 
+ 
