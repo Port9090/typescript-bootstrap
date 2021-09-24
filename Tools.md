@@ -6,4 +6,5 @@ Useful Tools
 
 
 ### Programming
-- [___Openbase: JavaScr
+- [___Openbase: JavaScript package insights and comparison___](https://openbase.io/)
+- [Applicat
