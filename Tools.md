@@ -7,4 +7,4 @@ Useful Tools
 
 ### Programming
 - [___Openbase: JavaScript package insights and comparison___](https://openbase.io/)
-- [Applicat
+- [Application Monitoring and Error Tracking Software | Sentry](ht
