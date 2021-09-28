@@ -12,4 +12,4 @@ Useful Tools
 - [Zeppelin](https://zeppelin.apache.org/) (Apache Zeppelin)
 - [___The world’s fastest framework for building websites | Hugo___](https://gohugo.io/)
 - [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
-- [___Electron | Build cross platf
+- [___Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.___](https://electro
