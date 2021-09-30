@@ -16,4 +16,5 @@ Useful Tools
 - [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 - [Phacility - Home](https://www.phacility.com/) (software development platform, Phabricator)
     - [Home](https://secure.phabricator.com/) (Phabricator guide & forum)
-- [OpenS
+- [OpenSSH](https://www.openssh.com/)  <br/><br/>
+- [Base Web - Base Web React UI Framework]
