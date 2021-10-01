@@ -18,4 +18,5 @@ Useful Tools
     - [Home](https://secure.phabricator.com/) (Phabricator guide & forum)
 - [OpenSSH](https://www.openssh.com/)  <br/><br/>
 - [Base Web - Base Web React UI Framework](https://baseweb.design/)
-- [___Cloud Application Platform
+- [___Cloud Application Platform | Heroku___](https://www.heroku.com/)
+- [Travis CI - Te
