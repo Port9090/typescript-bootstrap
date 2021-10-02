@@ -20,4 +20,5 @@ Useful Tools
 - [Base Web - Base Web React UI Framework](https://baseweb.design/)
 - [___Cloud Application Platform | Heroku___](https://www.heroku.com/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
-- [The 
+- [The OpenTracing project](https://opentracing.io/)
+- [Bitnami: Packaged Applic
