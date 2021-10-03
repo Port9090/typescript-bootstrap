@@ -21,4 +21,5 @@ Useful Tools
 - [___Cloud Application Platform | Heroku___](https://www.heroku.com/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [The OpenTracing project](https://opentracing.io/)
-- [Bitnami: Packaged Applications for Any Platform - Cloud, Container, Virtual Machine](https:
+- [Bitnami: Packaged Applications for Any Platform - Cloud, Container, Virtual Machine](https://bitnami.com/)
+    - [Bitnami AWS Cloud Launchpad](https://aws.b
