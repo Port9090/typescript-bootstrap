@@ -22,4 +22,5 @@ Useful Tools
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [The OpenTracing project](https://opentracing.io/)
 - [Bitnami: Packaged Applications for Any Platform - Cloud, Container, Virtual Machine](https://bitnami.com/)
-    - [Bitnami AWS Cloud Launchpad](https://aws.b
+    - [Bitnami AWS Cloud Launchpad](https://aws.bitnami.com/)
+- [CodePen: Build, Test, and Discover Front-end Co
