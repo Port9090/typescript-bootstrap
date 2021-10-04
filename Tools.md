@@ -23,4 +23,5 @@ Useful Tools
 - [The OpenTracing project](https://opentracing.io/)
 - [Bitnami: Packaged Applications for Any Platform - Cloud, Container, Virtual Machine](https://bitnami.com/)
     - [Bitnami AWS Cloud Launchpad](https://aws.bitnami.com/)
-- [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/) (CodePen - Front End Developer Playground & 
+- [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/) (CodePen - Front End Developer Playground & Code Editor in the Browser)
+- [Jira | Issue & Project Tracking Software | Atl
