@@ -26,4 +26,5 @@ Useful Tools
 - [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/) (CodePen - Front End Developer Playground & Code Editor in the Browser)
 - [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
-    - [RStudio Cloud]
+    - [RStudio Cloud](https://rstudio.cloud/)  <br/><br/>
+- [Kivy: Cross-platform Python Framework for NUI Dev
