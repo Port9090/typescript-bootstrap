@@ -27,4 +27,5 @@ Useful Tools
 - [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
     - [RStudio Cloud](https://rstudio.cloud/)  <br/><br/>
-- [Kivy: Cross-platform Python Framework for NUI Dev
+- [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
+- [Micronaut Framewo
