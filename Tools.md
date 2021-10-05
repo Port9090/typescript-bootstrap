@@ -25,4 +25,4 @@ Useful Tools
     - [Bitnami AWS Cloud Launchpad](https://aws.bitnami.com/)
 - [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/) (CodePen - Front End Developer Playground & Code Editor in the Browser)
 - [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
-- [Open source and ente
+- [Open source and enterprise-ready professional software for data science - RStudi
