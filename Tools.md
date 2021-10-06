@@ -28,4 +28,4 @@ Useful Tools
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
     - [RStudio Cloud](https://rstudio.cloud/)  <br/><br/>
 - [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
-- [Micronaut Framewo
+- [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework 
