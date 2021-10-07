@@ -28,4 +28,5 @@ Useful Tools
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
     - [RStudio Cloud](https://rstudio.cloud/)  <br/><br/>
 - [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
-- [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serve
+- [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications)
+- [fastlane - App automation done right](http
