@@ -30,4 +30,6 @@ Useful Tools
 - [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
 - [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications)
 - [fastlane - App automation done right](https://fastlane.tools/)
-    - [fastlane docs](https://docs.fastlane.too
+    - [fastlane docs](https://docs.fastlane.tools/)
+- [___Jenkins___](https://jenkins.io/) (open source automation server)
+- [
