@@ -33,4 +33,5 @@ Useful Tools
     - [fastlane docs](https://docs.fastlane.tools/)
 - [___Jenkins___](https://jenkins.io/) (open source automation server)
 - [___Enterprise Container Platform | Docker___](https://www.docker.com/)
-- [___Production-Grade Container Orchestration - Kubernetes___](htt
+- [___Production-Grade Container Orchestration - Kubernetes___](https://kubernetes.io/)
+    - [community/contributors/deve
