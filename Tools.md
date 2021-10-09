@@ -34,4 +34,4 @@ Useful Tools
 - [___Jenkins___](https://jenkins.io/) (open source automation server)
 - [___Enterprise Container Platform | Docker___](https://www.docker.com/)
 - [___Production-Grade Container Orchestration - Kubernetes___](https://kubernetes.io/)
-    - [community/contributors/deve
+    - [community/contributors/devel at master · kubernetes/community](https://github
