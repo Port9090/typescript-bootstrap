@@ -37,4 +37,5 @@ Useful Tools
     - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
     - [Kubeflow](https://www.kubeflow.org/)
 - [___CMake___](https://cmake.org/)  <br/><br/>
-- [Develop. Preview. Ship. - ZEIT](https://zeit.co/) (ZEI
+- [Develop. Preview. Ship. - ZEIT](https://zeit.co/) (ZEIT - World-Class Static Hosting - ZEIT)
+    - [___Next.js - The React Framework___]
