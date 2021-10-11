@@ -38,4 +38,5 @@ Useful Tools
     - [Kubeflow](https://www.kubeflow.org/)
 - [___CMake___](https://cmake.org/)  <br/><br/>
 - [Develop. Preview. Ship. - ZEIT](https://zeit.co/) (ZEIT - World-Class Static Hosting - ZEIT)
-    - [___Next.js - The React Framework___](https://nextjs.org/) (framework for static and server‑rendered applica
+    - [___Next.js - The React Framework___](https://nextjs.org/) (framework for static and server‑rendered applications built with React)
+- [Prisma - Database tools for modern 
