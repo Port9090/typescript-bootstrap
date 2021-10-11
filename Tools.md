@@ -39,4 +39,5 @@ Useful Tools
 - [___CMake___](https://cmake.org/)  <br/><br/>
 - [Develop. Preview. Ship. - ZEIT](https://zeit.co/) (ZEIT - World-Class Static Hosting - ZEIT)
     - [___Next.js - The React Framework___](https://nextjs.org/) (framework for static and server‑rendered applications built with React)
-- [Prisma - Database tools for modern 
+- [Prisma - Database tools for modern application development](https://www.prisma.io/)
+- [Databricks - Unified Data Analyti
