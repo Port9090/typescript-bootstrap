@@ -40,4 +40,5 @@ Useful Tools
 - [Develop. Preview. Ship. - ZEIT](https://zeit.co/) (ZEIT - World-Class Static Hosting - ZEIT)
     - [___Next.js - The React Framework___](https://nextjs.org/) (framework for static and server‑rendered applications built with React)
 - [Prisma - Database tools for modern application development](https://www.prisma.io/)
-- [Databricks - Unified Data Analyti
+- [Databricks - Unified Data Analytics](https://databricks.com/)
+- [___Data Version Control · DVC___](h
