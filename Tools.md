@@ -41,4 +41,5 @@ Useful Tools
     - [___Next.js - The React Framework___](https://nextjs.org/) (framework for static and server‑rendered applications built with React)
 - [Prisma - Database tools for modern application development](https://www.prisma.io/)
 - [Databricks - Unified Data Analytics](https://databricks.com/)
-- [___Data Version Control · DVC___](h
+- [___Data Version Control · DVC___](https://dvc.org/)
+    - [Data Version control & machine learn
