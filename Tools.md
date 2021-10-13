@@ -42,4 +42,5 @@ Useful Tools
 - [Prisma - Database tools for modern application development](https://www.prisma.io/)
 - [Databricks - Unified Data Analytics](https://databricks.com/)
 - [___Data Version Control · DVC___](https://dvc.org/)
-    - [Data Version control & machine learning process control using DVC & GitHub](https://towardsdatascience.com/data-version-control-machine-learning-process-contro
+    - [Data Version control & machine learning process control using DVC & GitHub](https://towardsdatascience.com/data-version-control-machine-learning-process-control-using-dvc-github-c629511e95b5)
+- [Zstandard - Real-time data compression
