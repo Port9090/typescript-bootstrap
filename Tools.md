@@ -43,4 +43,5 @@ Useful Tools
 - [Databricks - Unified Data Analytics](https://databricks.com/)
 - [___Data Version Control · DVC___](https://dvc.org/)
     - [Data Version control & machine learning process control using DVC & GitHub](https://towardsdatascience.com/data-version-control-machine-learning-process-control-using-dvc-github-c629511e95b5)
-- [Zstandard - Real-time data compression
+- [Zstandard - Real-time data compression algorithm](https://facebook.github.io/zstd/)
+- [Apache M
