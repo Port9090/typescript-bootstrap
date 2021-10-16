@@ -46,4 +46,5 @@ Useful Tools
 - [Zstandard - Real-time data compression algorithm](https://facebook.github.io/zstd/)
 - [Apache Mesos](http://mesos.apache.org/)
     - [Mesos :: 개인적인공간](https://brownbears.tistory.com/261)
-    - [Mesos](https://www.joinc.co.kr/
+    - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)
+- [___lubuntu – lightweight, fast, easier___
