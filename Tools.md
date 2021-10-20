@@ -50,4 +50,4 @@ Useful Tools
 - [___lubuntu – lightweight, fast, easier___](https://lubuntu.net/)  <br/><br/>
 - [Perforce Software | Development Tools For Innovation at Scale](https://www.perforce.com/)
 - [Mercurial SCM](https://www.mercurial-scm.org/) (Source Code Management)
-- [___React – A JavaSc
+- [___React – A JavaScript library for building user interfaces___](https://reac
