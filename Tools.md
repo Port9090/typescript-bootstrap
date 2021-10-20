@@ -51,4 +51,5 @@ Useful Tools
 - [Perforce Software | Development Tools For Innovation at Scale](https://www.perforce.com/)
 - [Mercurial SCM](https://www.mercurial-scm.org/) (Source Code Management)
 - [___React – A JavaScript library for building user interfaces___](https://reactjs.org/)
-    - [Create React App · Set up a modern web app by running one c
+    - [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
+    - [___React 
