@@ -54,4 +54,5 @@ Useful Tools
     - [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
     - [___React integration for ASP.NET MVC | ReactJS.NET___](https://reactjs.net/)
 - [___Qt | Cross-platform software development for embedded & desktop___](https://www.qt.io/) (GUI 프로그램 개발 크로스 플랫폼 프레임워크, C++)
-    - [korone.net
+    - [korone.net programming site](https://www.korone.net/)
+    - [Qt 개발자 커뮤니티](http://qt-
