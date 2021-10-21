@@ -53,4 +53,4 @@ Useful Tools
 - [___React – A JavaScript library for building user interfaces___](https://reactjs.org/)
     - [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
     - [___React integration for ASP.NET MVC | ReactJS.NET___](https://reactjs.net/)
-- [___
+- [___Qt | Cross-platform software development for embedded & desktop__
