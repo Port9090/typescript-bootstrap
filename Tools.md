@@ -56,4 +56,6 @@ Useful Tools
 - [___Qt | Cross-platform software development for embedded & desktop___](https://www.qt.io/) (GUI 프로그램 개발 크로스 플랫폼 프레임워크, C++)
     - [korone.net programming site](https://www.korone.net/)
     - [Qt 개발자 커뮤니티](http://qt-dev.com/board.php?board=kkkmain&command=skin_insert&exe=insert_iboard1_home)
-- [GatsbyJS](https://www.gatsbyjs.org/) (a free and open source framework based on React that helps developers build blaz
+- [GatsbyJS](https://www.gatsbyjs.org/) (a free and open source framework based on React that helps developers build blazing fast websites and apps)
+    - [Home | Gatsby Cloud](https://www.gatsbyjs.com/)
+-
