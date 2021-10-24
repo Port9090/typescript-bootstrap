@@ -60,4 +60,5 @@ Useful Tools
     - [Home | Gatsby Cloud](https://www.gatsbyjs.com/)
 - [Hexo](https://hexo.io/) (A fast, simple & powerful blog framework)  <br/><br/>
 - [Mocha - the fun, simple, flexible JavaScript test framework](https://mochajs.org/)
-- [Eleventy is a simpler s
+- [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
+- [Netlify: All-in-one pla
