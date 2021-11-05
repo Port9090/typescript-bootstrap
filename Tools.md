@@ -63,4 +63,5 @@ Useful Tools
 - [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
 - [Netlify: All-in-one platform for automating modern web projects](https://www.netlify.com/)
 - [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
-- [XpressEngine - PHP Op
+- [XpressEngine - PHP Open Source CMS](https://www.xpressengine.com/)
+    - [XEHub](https://www.xehub
