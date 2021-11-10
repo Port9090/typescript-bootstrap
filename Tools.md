@@ -66,4 +66,5 @@ Useful Tools
 - [XpressEngine - PHP Open Source CMS](https://www.xpressengine.com/)
     - [XEHub](https://www.xehub.io/)
     - [XpressEngine](https://github.com/xpressengine) (Github)
-- [wolfSSL Embedded SSL/TLS Library | Now Supporting TLS 1.3](https://www.wolfssl
+- [wolfSSL Embedded SSL/TLS Library | Now Supporting TLS 1.3](https://www.wolfssl.com/)
+- [FreeRTOS - Market leading RTOS (Real Time Operating S
