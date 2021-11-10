@@ -64,4 +64,6 @@ Useful Tools
 - [Netlify: All-in-one platform for automating modern web projects](https://www.netlify.com/)
 - [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
 - [XpressEngine - PHP Open Source CMS](https://www.xpressengine.com/)
-    - [XEHub](https://www.xehub
+    - [XEHub](https://www.xehub.io/)
+    - [XpressEngine](https://github.com/xpressengine) (Github)
+- [wo
