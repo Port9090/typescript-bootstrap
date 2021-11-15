@@ -72,4 +72,5 @@ Useful Tools
 - [NuGet Gallery | Home](https://www.nuget.org/)
 - [OmniSharp - .NET and IntelliSense on any platform with your editor of choice](https://www.omnisharp.net/)
 - [Repl.it - The world's leading online coding platform](https://repl.it/)
-- [Source Insight Programming
+- [Source Insight Programming Editor and Code Browser](https://www.sourceinsight.com/)
+     - [소스인사이트 
