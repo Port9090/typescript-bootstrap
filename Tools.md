@@ -70,4 +70,5 @@ Useful Tools
 - [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/)
 - [___D3.js - Data-Driven Documents___](https://d3js.org/)  <br/><br/>
 - [NuGet Gallery | Home](https://www.nuget.org/)
-- [OmniSharp - .NET and IntelliSense on any platform wi
+- [OmniSharp - .NET and IntelliSense on any platform with your editor of choice](https://www.omnisharp.net/)
+- [Repl.it - The world's l
