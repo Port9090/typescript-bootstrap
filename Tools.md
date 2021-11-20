@@ -73,4 +73,4 @@ Useful Tools
 - [OmniSharp - .NET and IntelliSense on any platform with your editor of choice](https://www.omnisharp.net/)
 - [Repl.it - The world's leading online coding platform](https://repl.it/)
 - [Source Insight Programming Editor and Code Browser](https://www.sourceinsight.com/)
-     - [소스인사이트 
+     - [소스인사이트 설명 :: Bitdol-전자쟁이, 때론 코딩하고 때론 납땜하고..](https://bitdol.tistory.com
