@@ -77,4 +77,5 @@ Useful Tools
 - [The LLVM Compiler Infrastructure Project](https://llvm.org/)
 - [___Redis___](https://redis.io/)
 - [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
-- [___jQuery___](https://jquery.com/) (write les
+- [___jQuery___](https://jquery.com/) (write less, do more.)
+- [ZenHub - Agile Project Management f
