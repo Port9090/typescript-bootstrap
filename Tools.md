@@ -78,4 +78,5 @@ Useful Tools
 - [___Redis___](https://redis.io/)
 - [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
 - [___jQuery___](https://jquery.com/) (write less, do more.)
-- [ZenHub - Agile Project Management f
+- [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
+- [___Jade - Template E
