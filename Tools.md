@@ -79,4 +79,5 @@ Useful Tools
 - [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
 - [___jQuery___](https://jquery.com/) (write less, do more.)
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
-- [___Jade - Template E
+- [___Jade - Template Engine___](http://jade-lang.com/)
+- [Getting Started – Pug](https://pu
