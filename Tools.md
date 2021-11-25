@@ -81,4 +81,4 @@ Useful Tools
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
 - [___Jade - Template Engine___](http://jade-lang.com/)
 - [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
-- [___Zeppelin___](https://zep
+- [___Zeppelin___](https://zeppelin.apache.org/) (Web-based notebook that enables data-driven, interactive data
