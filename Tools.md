@@ -80,4 +80,5 @@ Useful Tools
 - [___jQuery___](https://jquery.com/) (write less, do more.)
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
 - [___Jade - Template Engine___](http://jade-lang.com/)
-- [Getting Started – Pug](https://pu
+- [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
+- [___Zeppelin___](https://zep
