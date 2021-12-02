@@ -82,4 +82,4 @@ Useful Tools
 - [___Jade - Template Engine___](http://jade-lang.com/)
 - [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
 - [___Zeppelin___](https://zeppelin.apache.org/) (Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.)
-   
+    - [아파치 제플린, 한국에서 세계로 가기까지 - ZDNet korea](http://www.zdnet.co.kr/view/?no=2016
