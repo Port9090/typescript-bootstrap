@@ -88,4 +88,5 @@ Useful Tools
 - [Apache MINA — Apache MINA](https://mina.apache.org/) (network application framework)
 - [Netty: Home](https://netty.io/) (asynchronous event-driven network application framework)
 - [Tajo - A Big Data Warehouse System on Hadoop - ](http://tajo.apache.org/)  <br/><br/>
-- [Apache REEF - Apache REEF™ - a stdlib for Big Dat
+- [Apache REEF - Apache REEF™ - a stdlib for Big Data](http://reef.apache.org/)
+- [Apache Hama - Big 
