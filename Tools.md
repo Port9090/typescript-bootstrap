@@ -91,4 +91,4 @@ Useful Tools
 - [Apache REEF - Apache REEF™ - a stdlib for Big Data](http://reef.apache.org/)
 - [Apache Hama - Big Data and High-Performance Computing](https://hama.apache.org/)
 - [Yocto Project – It's not an embedded Linux distribution – it creates a custom one for you](https://www.yoctoproject.org/)
--
+- [Snyk | Develop Fast. Stay Secure](https://snyk.io/) (find and fix 
