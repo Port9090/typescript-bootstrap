@@ -89,4 +89,5 @@ Useful Tools
 - [Netty: Home](https://netty.io/) (asynchronous event-driven network application framework)
 - [Tajo - A Big Data Warehouse System on Hadoop - ](http://tajo.apache.org/)  <br/><br/>
 - [Apache REEF - Apache REEF™ - a stdlib for Big Data](http://reef.apache.org/)
-- [Apache Hama - Big 
+- [Apache Hama - Big Data and High-Performance Computing](https://hama.apache.org/)
+- [Yocto Project
