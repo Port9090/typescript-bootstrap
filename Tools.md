@@ -95,4 +95,5 @@ Useful Tools
 - [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
 - [AMP - a web component framework to easily create user-first web experiences - amp.dev](https://amp.dev/)
 - [Apache Kafka](https://kafka.apache.org/) (distributed streaming platform)
-    - [Index - Apache Kafka - Apache Software F
+    - [Index - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/Index)
+ 
