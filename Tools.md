@@ -96,4 +96,4 @@ Useful Tools
 - [AMP - a web component framework to easily create user-first web experiences - amp.dev](https://amp.dev/)
 - [Apache Kafka](https://kafka.apache.org/) (distributed streaming platform)
     - [Index - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/Index)
- 
+    - [Epic Developer :: [Apache Kafka] 1. 소개및 아키텍처 정리](https://epicdevs.com/17)
