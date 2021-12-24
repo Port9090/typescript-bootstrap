@@ -97,4 +97,4 @@ Useful Tools
 - [Apache Kafka](https://kafka.apache.org/) (distributed streaming platform)
     - [Index - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/Index)
     - [Epic Developer :: [Apache Kafka] 1. 소개및 아키텍처 정리](https://epicdevs.com/17)
-    - [[Kafka, 카프카] 아파치 카프카(Apache Kafka) 아키텍처 및 동작방식, 파티션 읽기 쓰기(Partiti
+    - [[Kafka, 카프카] 아파치 카프카(Apache Kafka) 아키텍처 및 동작방식, 파티션 읽기 쓰기(Partition Read and Write)](https://engkimbs.tistory.com/691)  <br/><b
