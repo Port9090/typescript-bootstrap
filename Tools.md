@@ -103,4 +103,5 @@ Useful Tools
 - [WebKit](https://webkit.org/) (A fast, open source web browser engine.)
 - [___Node.js___](https://nodejs.org/en/) (JavaScript runtime built on Chrome's V8 JavaScript engine.)
     - [OpenJS Foundation](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) (Node.js project newsletter mailing list)
-- [___The Open Graph protocol___](https://ogp.me/) (faceb
+- [___The Open Graph protocol___](https://ogp.me/) (facebook)
+- [Scoop](https://scoop.sh/) (A command-li
