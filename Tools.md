@@ -106,4 +106,5 @@ Useful Tools
 - [___The Open Graph protocol___](https://ogp.me/) (facebook)
 - [Scoop](https://scoop.sh/) (A command-line installer for Windows)
 - [Chocolatey Software | Chocolatey - The package manager for Windows](https://chocolatey.org/)
-- [___
+- [___npm | build amazing things___](https://www.npmjs.com/)
+- [
