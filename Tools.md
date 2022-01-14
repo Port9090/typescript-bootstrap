@@ -105,4 +105,5 @@ Useful Tools
     - [OpenJS Foundation](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) (Node.js project newsletter mailing list)
 - [___The Open Graph protocol___](https://ogp.me/) (facebook)
 - [Scoop](https://scoop.sh/) (A command-line installer for Windows)
-- [Chocolatey Software | Chocolatey - The pa
+- [Chocolatey Software | Chocolatey - The package manager for Windows](https://chocolatey.org/)
+- [___
