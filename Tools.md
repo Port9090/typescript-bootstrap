@@ -109,4 +109,5 @@ Useful Tools
 - [___npm | build amazing things___](https://www.npmjs.com/)
 - [ag-Grid: Datagrid packed with features that your users need with the performance you expect.](https://www.ag-grid.com/)  <br/><br/>
 - [___webpack___](https://webpack.js.org/)
-- [___The Web Robots Pages___](https://www.robotstxt.org
+- [___The Web Robots Pages___](https://www.robotstxt.org)
+    - [robots.txt 설정하기 - 네이버 서치어드바이저](https://searchadvisor.naver.com/
