@@ -116,4 +116,5 @@ Useful Tools
 - [Dart programming language | Dart](https://dart.dev/)
     - [Dart packages](https://pub.dev/)
 - [Hack · Programming Productivity Without Breaking Things](https://hacklang.org/)
-    - [HHVM | HHVM](https://hhvm.com/) (open-source virtual machin
+    - [HHVM | HHVM](https://hhvm.com/) (open-source virtual machine designed for executing programs written in Hack.)
+- [__
