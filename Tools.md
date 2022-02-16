@@ -118,4 +118,5 @@ Useful Tools
 - [Hack · Programming Productivity Without Breaking Things](https://hacklang.org/)
     - [HHVM | HHVM](https://hhvm.com/) (open-source virtual machine designed for executing programs written in Hack.)
 - [___V8 JavaScript engine___](https://v8.dev/)  <br/><br/>
-- [Twisted](https://twistedmatrix.com/trac/) (event-driven networking engin
+- [Twisted](https://twistedmatrix.com/trac/) (event-driven networking engine written in Python)
+- [fuchsia - Git at Google](https://fuchsia.g
