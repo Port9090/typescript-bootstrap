@@ -119,4 +119,5 @@ Useful Tools
     - [HHVM | HHVM](https://hhvm.com/) (open-source virtual machine designed for executing programs written in Hack.)
 - [___V8 JavaScript engine___](https://v8.dev/)  <br/><br/>
 - [Twisted](https://twistedmatrix.com/trac/) (event-driven networking engine written in Python)
-- [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating syst
+- [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
+- [gitiles - Git at Google](https://gerrit.googlesource.c
