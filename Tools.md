@@ -120,4 +120,5 @@ Useful Tools
 - [___V8 JavaScript engine___](https://v8.dev/)  <br/><br/>
 - [Twisted](https://twistedmatrix.com/trac/) (event-driven networking engine written in Python)
 - [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
-- [gitiles - Git at Google](https://gerrit.googlesource.c
+- [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
+- [go Git re
