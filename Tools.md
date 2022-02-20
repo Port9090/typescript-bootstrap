@@ -121,4 +121,5 @@ Useful Tools
 - [Twisted](https://twistedmatrix.com/trac/) (event-driven networking engine written in Python)
 - [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
 - [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
-- [go Git re
+- [go Git repositories - Git at Google](https://go.googlesource.com/)
+- 
