@@ -122,4 +122,5 @@ Useful Tools
 - [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
 - [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
 - [go Git repositories - Git at Google](https://go.googlesource.com/)
-- [android Git repositories - Git at Google](https://android.googles
+- [android Git repositories - Git at Google](https://android.googlesource.com/)
+- [chromium Git repositories - Git at Google](https://ch
