@@ -123,4 +123,5 @@ Useful Tools
 - [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
 - [go Git repositories - Git at Google](https://go.googlesource.com/)
 - [android Git repositories - Git at Google](https://android.googlesource.com/)
-- [chromium Git repositories - Git at Google](https://ch
+- [chromium Git repositories - Git at Google](https://chromium.googlesource.com/)
+- [___Vanilla JS___](http://vanilla-js.com/
