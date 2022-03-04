@@ -127,4 +127,5 @@ Useful Tools
 - [___Vanilla JS___](http://vanilla-js.com/)
 - [___Passport.js___](http://www.passportjs.org/) (authentication middleware for Node.js)
 - [___Express - Node.js web application framework___](https://expressjs.com/)
-- [Graph Database | Multi-Model Database | Orien
+- [Graph Database | Multi-Model Database | OrientDB](https://orientdb.com/)  <br/><br/>
+- [MQTT](http://mqtt.org/) (Me
