@@ -128,4 +128,5 @@ Useful Tools
 - [___Passport.js___](http://www.passportjs.org/) (authentication middleware for Node.js)
 - [___Express - Node.js web application framework___](https://expressjs.com/)
 - [Graph Database | Multi-Model Database | OrientDB](https://orientdb.com/)  <br/><br/>
-- [MQTT](http://mqtt.org/) (Message Queuing Telemetry Transport, machine-to-machine (M2M
+- [MQTT](http://mqtt.org/) (Message Queuing Telemetry Transport, machine-to-machine (M2M)/"Internet of Things" connectivity protocol)
+    - [Mosca
