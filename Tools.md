@@ -129,4 +129,6 @@ Useful Tools
 - [___Express - Node.js web application framework___](https://expressjs.com/)
 - [Graph Database | Multi-Model Database | OrientDB](https://orientdb.com/)  <br/><br/>
 - [MQTT](http://mqtt.org/) (Message Queuing Telemetry Transport, machine-to-machine (M2M)/"Internet of Things" connectivity protocol)
-    - [Mosca by mcollina](http://www.mosca.io/) (MQTT broker as a modul
+    - [Mosca by mcollina](http://www.mosca.io/) (MQTT broker as a module)
+- [Underscore.js](https://underscorejs.org/)
+- [Loda
