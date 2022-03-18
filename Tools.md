@@ -131,4 +131,5 @@ Useful Tools
 - [MQTT](http://mqtt.org/) (Message Queuing Telemetry Transport, machine-to-machine (M2M)/"Internet of Things" connectivity protocol)
     - [Mosca by mcollina](http://www.mosca.io/) (MQTT broker as a module)
 - [Underscore.js](https://underscorejs.org/)
-- [Loda
+- [Lodash](https://lodash.com/)
+- [CoffeeScript](https://coffeescript.org/)
