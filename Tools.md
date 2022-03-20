@@ -133,3 +133,5 @@ Useful Tools
 - [Underscore.js](https://underscorejs.org/)
 - [Lodash](https://lodash.com/)
 - [CoffeeScript](https://coffeescript.org/)
+- [EJS -- Embedded JavaScript templates](https://ejs.co/)
+- [PyPI · Th
