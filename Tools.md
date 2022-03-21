@@ -134,4 +134,5 @@ Useful Tools
 - [Lodash](https://lodash.com/)
 - [CoffeeScript](https://coffeescript.org/)
 - [EJS -- Embedded JavaScript templates](https://ejs.co/)
-- [PyPI · Th
+- [PyPI · The Python Package Index](https://pypi.org/)
+- [Continuous 
