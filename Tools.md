@@ -137,4 +137,5 @@ Useful Tools
 - [PyPI · The Python Package Index](https://pypi.org/)
 - [Continuous Integration and Delivery - CircleCI](https://circleci.com/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
-- [Ember.js](https://emberjs.com/) (A JavaScript framework for c
+- [Ember.js](https://emberjs.com/) (A JavaScript framework for creating ambitious web applications)  <br/><br/>
+- [Le
