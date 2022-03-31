@@ -138,4 +138,6 @@ Useful Tools
 - [Continuous Integration and Delivery - CircleCI](https://circleci.com/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [Ember.js](https://emberjs.com/) (A JavaScript framework for creating ambitious web applications)  <br/><br/>
-- [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com
+- [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
+- [Fuchsia](https://fuchsia.dev/)
+- [Snowpack](http
