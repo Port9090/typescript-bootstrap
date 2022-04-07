@@ -143,4 +143,7 @@ Useful Tools
 - [Snowpack](https://www.snowpack.dev/) (Instant web development powered by modern JavaScript)
 - [SQLAlchemy - The Database Toolkit for Python](https://www.sqlalchemy.org/)
 - [React 360 · Create amazing 360 experiences](https://facebook.github.io/react-360/)
-- [Docusaurus · Easy to 
+- [Docusaurus · Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
+
+
+ <br
