@@ -152,4 +152,4 @@ Useful Tools
 ### Prototyping
 - [ProtoPie - Interactive prototyping tool for all digital products](https://www.protopie.io/)
 - [Proto.io - Prototypes that feel real](https://proto.io/)
-- [___Balsa
+- [___Balsamiq. Rapid, effective and fun wireframing software. | Balsami
