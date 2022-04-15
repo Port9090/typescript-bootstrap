@@ -155,4 +155,5 @@ Useful Tools
 - [___Balsamiq. Rapid, effective and fun wireframing software. | Balsamiq___](https://balsamiq.com/)
 - [draw.io](https://www.draw.io/)
 - [Origami Studio — Design Prototyping](https://origami.design/)
-- [FluidUI.com - Create Web and Mobile Prototypes in Minutes](http
+- [FluidUI.com - Create Web and Mobile Prototypes in Minutes](https://www.fluidui.com/)
+- [Marvel - The design platform for digital produ
