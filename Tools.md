@@ -168,4 +168,5 @@ Useful Tools
 
 
 ### Collaboration
-- [Confluence - Team Collaboration So
+- [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
+-
