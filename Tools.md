@@ -169,4 +169,4 @@ Useful Tools
 
 ### Collaboration
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
--
+- [Tandem | A virtual office for remote teams](https://tandem.
