@@ -170,4 +170,5 @@ Useful Tools
 ### Collaboration
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [Tandem | A virtual office for remote teams](https://tandem.chat/)
-- [ Krisp | Noise Cancelling App](https:
+- [ Krisp | Noise Cancelling App](https://krisp.ai/)
+- [Otter Voice Meeting Notes - Otter.ai](h
