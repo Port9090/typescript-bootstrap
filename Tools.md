@@ -173,4 +173,5 @@ Useful Tools
 - [ Krisp | Noise Cancelling App](https://krisp.ai/)
 - [Otter Voice Meeting Notes - Otter.ai](https://otter.ai/login) (record and review in real time)
 - [Toggl - Free Time Tracking Software](https://toggl.com/)
-- [Clockwise](https
+- [Clockwise](https://www.getclockwise.com/) (intelligent calendar assistant)
+- [Pi
