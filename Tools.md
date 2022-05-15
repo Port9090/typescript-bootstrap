@@ -174,4 +174,4 @@ Useful Tools
 - [Otter Voice Meeting Notes - Otter.ai](https://otter.ai/login) (record and review in real time)
 - [Toggl - Free Time Tracking Software](https://toggl.com/)
 - [Clockwise](https://www.getclockwise.com/) (intelligent calendar assistant)
-- [Pi
+- [Pixelic - Product Management Software](https://www.pixelic.io/)
