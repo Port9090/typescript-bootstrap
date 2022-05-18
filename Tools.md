@@ -175,3 +175,5 @@ Useful Tools
 - [Toggl - Free Time Tracking Software](https://toggl.com/)
 - [Clockwise](https://www.getclockwise.com/) (intelligent calendar assistant)
 - [Pixelic - Product Management Software](https://www.pixelic.io/)
+- [Quip](https://quip.com/) (collaborative productivity software)
+- [Open Source
