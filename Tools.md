@@ -176,4 +176,5 @@ Useful Tools
 - [Clockwise](https://www.getclockwise.com/) (intelligent calendar assistant)
 - [Pixelic - Product Management Software](https://www.pixelic.io/)
 - [Quip](https://quip.com/) (collaborative productivity software)
-- [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management
+- [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
+- [Box - Content Management,
