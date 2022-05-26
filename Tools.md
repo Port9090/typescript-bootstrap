@@ -177,4 +177,4 @@ Useful Tools
 - [Pixelic - Product Management Software](https://www.pixelic.io/)
 - [Quip](https://quip.com/) (collaborative productivity software)
 - [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
-- [Box - Content Management,
+- [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)  <br/><br/>
