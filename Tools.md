@@ -178,4 +178,5 @@ Useful Tools
 - [Quip](https://quip.com/) (collaborative productivity software)
 - [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
 - [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)  <br/><br/>
-- [___Notion – The all-in-one workspace for your 
+- [___Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.___](https://www.notion.so/)
+ 
