@@ -179,4 +179,5 @@ Useful Tools
 - [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
 - [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)  <br/><br/>
 - [___Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.___](https://www.notion.so/)
-    - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a4
+    - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
+- [Let knowledge flow | Additor](https:
