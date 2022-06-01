@@ -183,4 +183,4 @@ Useful Tools
 - [Let knowledge flow | Additor](https://additor.io/)
 - [Lookback: Simple and powerful user research](https://lookback.io/)
 - [Swit](https://swit.io/) (One Work Suite to replace them all)
-- [Localiz
+- [Localization Management Platform for agile teams | Crowdin](http
