@@ -181,4 +181,6 @@ Useful Tools
 - [___Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.___](https://www.notion.so/)
     - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 - [Let knowledge flow | Additor](https://additor.io/)
-- [Lookback: Simple and powerful user research](ht
+- [Lookback: Simple and powerful user research](https://lookback.io/)
+- [Swit](https://swit.io/) (One Work Suite to replace them all)
+- [Localiz
