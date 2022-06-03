@@ -183,4 +183,5 @@ Useful Tools
 - [Let knowledge flow | Additor](https://additor.io/)
 - [Lookback: Simple and powerful user research](https://lookback.io/)
 - [Swit](https://swit.io/) (One Work Suite to replace them all)
-- [Localization Management Platform for agile teams | Crowdin](http
+- [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
+- [___BeeCanvas | The All-In-One Visual Workspace___]
