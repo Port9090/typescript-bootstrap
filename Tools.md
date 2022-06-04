@@ -185,4 +185,5 @@ Useful Tools
 - [Swit](https://swit.io/) (One Work Suite to replace them all)
 - [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
 - [___BeeCanvas | The All-In-One Visual Workspace___](https://beecanvas.com/)
-- [GRAP](https://www.grap.io/ko
+- [GRAP](https://www.grap.io/ko/intro)
+- [The Work Operating System That Makes Teamwork Click | mo
