@@ -186,4 +186,11 @@ Useful Tools
 - [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
 - [___BeeCanvas | The All-In-One Visual Workspace___](https://beecanvas.com/)
 - [GRAP](https://www.grap.io/ko/intro)
-- [The Work Operating System That Makes Teamwork Click | mo
+- [The Work Operating System That Makes Teamwork Click | monday.com](https://monday.com/)
+
+
+ <br/><br/>
+
+
+### ETC
+- [All-in
