@@ -193,4 +193,9 @@ Useful Tools
 
 
 ### ETC
-- [All-in
+- [All-in-One Marketing Platform - Mailchimp](https://mailchimp.com/)
+
+
+ <br/><br/>
+
+
