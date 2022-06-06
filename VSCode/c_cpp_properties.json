@@ -1,2 +1,5 @@
 {
-    "c
+    "configurations": [
+        {
+            "name": "Win32",
+          
