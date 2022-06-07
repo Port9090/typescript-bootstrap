@@ -3,4 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFold
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+ 
