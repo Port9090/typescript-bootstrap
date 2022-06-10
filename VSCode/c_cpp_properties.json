@@ -12,4 +12,6 @@
             ],
             "windowsSdkVersion": "8.1",
             "compilerPath": "D:/Programs/MinGW/bin/g++.exe",
-      
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intell
