@@ -6,4 +6,6 @@
     "configurations": [
         
         {
-            "name"
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+      
