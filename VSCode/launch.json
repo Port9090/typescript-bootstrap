@@ -9,4 +9,5 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            //"${workspaceFolder}/${fileBa
+            //"${workspaceFolder}/${fileBasenameNoExtens`ion}.exe"
+            "program": "${fil
