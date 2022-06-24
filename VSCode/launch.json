@@ -11,4 +11,6 @@
             "request": "launch",
             //"${workspaceFolder}/${fileBasenameNoExtens`ion}.exe"
             "program": "${fileDirname}/${fileBasenameNoExtension}.exe", 
-            "args": []
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspac
