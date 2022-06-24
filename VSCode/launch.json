@@ -10,4 +10,5 @@
             "type": "cppdbg",
             "request": "launch",
             //"${workspaceFolder}/${fileBasenameNoExtens`ion}.exe"
-            "program": "${fil
+            "program": "${fileDirname}/${fileBasenameNoExtension}.exe", 
+            "args": []
