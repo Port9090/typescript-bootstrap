@@ -17,4 +17,5 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "gdb",
-            "miDebugg
+            "miDebuggerPath": "D:/Programs/MinGW/bin/gdb.exe",
+            "set
