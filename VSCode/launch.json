@@ -20,4 +20,5 @@
             "miDebuggerPath": "D:/Programs/MinGW/bin/gdb.exe",
             "setupCommands": [
                 {
-                    "des
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-ena
