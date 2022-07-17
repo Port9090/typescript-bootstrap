@@ -7,4 +7,4 @@ Startup References
 
 ### Accelerator & Venture Capital
 - [Startup Alliance Korea](https://startupall.kr/)
-    - [Sta
+    - [Startup Alliance Korea - YouTube](https://www.youtube.com/channel/UCY7GnoX
