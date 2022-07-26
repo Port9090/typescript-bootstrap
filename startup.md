@@ -14,4 +14,5 @@ Startup References
 - [Campus  - Google for Startups Campus](https://www.campus.co/)  
 - [Startupbootcamp - Global Startup Accelerators & Corporate Innovation](https://www.startupbootcamp.org/)
 - [Register – 82startups](https://82startups.com/register)  <br/><br/>
-- [Primer | Primer Club
+- [Primer | Primer Club](https://www.primer.kr/)
+- [Primer Sazze Partners 프라이머 사제
