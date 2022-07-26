@@ -15,4 +15,5 @@ Startup References
 - [Startupbootcamp - Global Startup Accelerators & Corporate Innovation](https://www.startupbootcamp.org/)
 - [Register – 82startups](https://82startups.com/register)  <br/><br/>
 - [Primer | Primer Club](https://www.primer.kr/)
-- [Primer Sazze Partners 프라이머 사제
+- [Primer Sazze Partners 프라이머 사제 파트너스](https://primersazze.com/)
+- [정주영창업경진대회](https://startup.asa
