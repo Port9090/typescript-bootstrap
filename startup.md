@@ -18,4 +18,5 @@ Startup References
 - [Primer Sazze Partners 프라이머 사제 파트너스](https://primersazze.com/)
 - [정주영창업경진대회](https://startup.asan-nanum.org/)
 - [500 Startups Korea – 실리콘밸리를 대표하는 글로벌 벤처케피탈인 500 Startups](http://500startups.co.kr/)
-- [Y Combinator](https://www.ycombin
+- [Y Combinator](https://www.ycombinator.com/)
+- [FTAccelerator – Fashion Technology Accelerator](http://ftacc
