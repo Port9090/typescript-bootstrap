@@ -20,4 +20,5 @@ Startup References
 - [500 Startups Korea – 실리콘밸리를 대표하는 글로벌 벤처케피탈인 500 Startups](http://500startups.co.kr/)
 - [Y Combinator](https://www.ycombinator.com/)
 - [FTAccelerator – Fashion Technology Accelerator](http://ftaccelerator.com/)
-- [SparkLabs](http://www.sparklabs.co.kr/sp/i
+- [SparkLabs](http://www.sparklabs.co.kr/sp/index.php)
+- [SparkLabs Demo Day](http://www.sparklabsdemoday.com/en/inde
