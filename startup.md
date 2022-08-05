@@ -21,4 +21,5 @@ Startup References
 - [Y Combinator](https://www.ycombinator.com/)
 - [FTAccelerator – Fashion Technology Accelerator](http://ftaccelerator.com/)
 - [SparkLabs](http://www.sparklabs.co.kr/sp/index.php)
-- [SparkLabs Demo Day](http://www.sparklabsdemoday.com/en/inde
+- [SparkLabs Demo Day](http://www.sparklabsdemoday.com/en/index.php)
+- [sopoong](http://sopoong.net/) (social venture accelerator
