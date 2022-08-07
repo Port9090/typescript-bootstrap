@@ -27,4 +27,6 @@ Startup References
 - [본엔젤스 - BonAngels](http://bonangels.net/)
 - [FuturePlay](https://futureplay.co/INTRO) (TECH STARTUPS)
 - [빅뱅엔젤스(주)](http://www.bigbangangels.com/)
-- [Kakao Ventures | Copilots of startups](http://www.kakao
+- [Kakao Ventures | Copilots of startups](http://www.kakao.vc/)
+- [Bluepoint Partners](http://bluepoint.vc/)
+    - [bluepoint | 동창 프로그램 
