@@ -29,4 +29,5 @@ Startup References
 - [빅뱅엔젤스(주)](http://www.bigbangangels.com/)
 - [Kakao Ventures | Copilots of startups](http://www.kakao.vc/)
 - [Bluepoint Partners](http://bluepoint.vc/)
-    - [bluepoint | 동창 프로그램 
+    - [bluepoint | 동창 프로그램 바로가기](https://www.bppbluewave.com/)
+- [SoftBank Ventures A
