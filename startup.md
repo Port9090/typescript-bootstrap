@@ -37,4 +37,5 @@ Startup References
     - [스프링살롱 - YouTube](https://www.youtube.com/channel/UCgAfjD0SqrpAROcu2z6aAng/videos)
 - [Strong Ventures | A seed fund, based in California, that finances, supports and mentors Korean/Asian/Global entrepreneurs](http://www.strongvc.com/) <br/><br/>
 - [알펜루트자산운용](http://alpenroute.com/)
-- [Ye
+- [Yellowdog – 옐로우독](http://www.yellowdog.kr/en/)
+- [Home : SEQUOIA](https://w
