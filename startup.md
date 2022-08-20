@@ -39,4 +39,5 @@ Startup References
 - [알펜루트자산운용](http://alpenroute.com/)
 - [Yellowdog – 옐로우독](http://www.yellowdog.kr/en/)
 - [Home : SEQUOIA](https://www.sequoiafund.com/home)
-- [NH 디지털 Challenge+](http://www.nhd-cha
+- [NH 디지털 Challenge+](http://www.nhd-challengeplus.com/)
+- [Trucks Venture Capital funds the entrepreneurs buil
