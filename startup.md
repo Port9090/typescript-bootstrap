@@ -42,4 +42,5 @@ Startup References
 - [NH 디지털 Challenge+](http://www.nhd-challengeplus.com/)
 - [Trucks Venture Capital funds the entrepreneurs building the future of transportation](http://www.trucks.vc/)
 - [Khosla Ventures](https://www.khoslaventures.com/)
-- [네오플라이 - 진심을 다해 스타트업을 돕는 액
+- [네오플라이 - 진심을 다해 스타트업을 돕는 액셀러레이터](http://www.neoply.com/)
+- [Namsan Lab Korea](https:/
