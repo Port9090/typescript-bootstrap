@@ -44,4 +44,5 @@ Startup References
 - [Khosla Ventures](https://www.khoslaventures.com/)
 - [네오플라이 - 진심을 다해 스타트업을 돕는 액셀러레이터](http://www.neoply.com/)
 - [Namsan Lab Korea](https://namsanlabkorea.splashthat.com/) (from facebook)
-- [D.CAMP – 은행권청년창업재단](https://dcamp.kr/) (디데이(D.DAY), 매월 마지막 목요일 
+- [D.CAMP – 은행권청년창업재단](https://dcamp.kr/) (디데이(D.DAY), 매월 마지막 목요일 저녁)
+- [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <b
