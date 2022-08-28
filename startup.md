@@ -46,4 +46,5 @@ Startup References
 - [Namsan Lab Korea](https://namsanlabkorea.splashthat.com/) (from facebook)
 - [D.CAMP – 은행권청년창업재단](https://dcamp.kr/) (디데이(D.DAY), 매월 마지막 목요일 저녁)
 - [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <br/><br/>
-- [ROBO Global - Investing in the Robotics & AI R
+- [ROBO Global - Investing in the Robotics & AI Revolution](https://www.roboglobal.com/)
+- [Nongshim TechUP+ season2 I 농심 테크업
