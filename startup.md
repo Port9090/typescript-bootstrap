@@ -48,4 +48,6 @@ Startup References
 - [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <br/><br/>
 - [ROBO Global - Investing in the Robotics & AI Revolution](https://www.roboglobal.com/)
 - [Nongshim TechUP+ season2 I 농심 테크업플러스 시즌2](https://www.ns-techupplus2.com/)
-- [The Ventures](http://theventures.co/
+- [The Ventures](http://theventures.co/)
+- [IMM Investment](http://imm.co.kr/)
+- [Company B](https://www
