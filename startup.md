@@ -50,4 +50,5 @@ Startup References
 - [Nongshim TechUP+ season2 I 농심 테크업플러스 시즌2](https://www.ns-techupplus2.com/)
 - [The Ventures](http://theventures.co/)
 - [IMM Investment](http://imm.co.kr/)
-- [Company B](https://www
+- [Company B](https://www.companyb.kr/) (Company Builder)
+- [Main : Main : D2 Startup Facto
