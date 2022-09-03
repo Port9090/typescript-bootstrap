@@ -52,4 +52,5 @@ Startup References
 - [IMM Investment](http://imm.co.kr/)
 - [Company B](https://www.companyb.kr/) (Company Builder)
 - [Main : Main : D2 Startup Factory](http://www.d2startup.com/)
-    - [NAVER D2 Startup Factory - YouTube](ht
+    - [NAVER D2 Startup Factory - YouTube](https://www.youtube.com/channel/UCSvVrlUXrYC-ptETfwhS71w/videos)
+- [
