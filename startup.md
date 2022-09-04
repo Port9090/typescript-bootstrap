@@ -53,4 +53,4 @@ Startup References
 - [Company B](https://www.companyb.kr/) (Company Builder)
 - [Main : Main : D2 Startup Factory](http://www.d2startup.com/)
     - [NAVER D2 Startup Factory - YouTube](https://www.youtube.com/channel/UCSvVrlUXrYC-ptETfwhS71w/videos)
-- [
+- [Wowpartners – Accelerating your company](http://wowpartner
