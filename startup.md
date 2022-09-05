@@ -54,4 +54,5 @@ Startup References
 - [Main : Main : D2 Startup Factory](http://www.d2startup.com/)
     - [NAVER D2 Startup Factory - YouTube](https://www.youtube.com/channel/UCSvVrlUXrYC-ptETfwhS71w/videos)
 - [Wowpartners – Accelerating your company](http://wowpartners.net/)
-- [Build. Grow. Scale - Samsung NEXT](https://samsun
+- [Build. Grow. Scale - Samsung NEXT](https://samsungnext.com/)
+- [Founder Institute: World's premier idea-stage acc
