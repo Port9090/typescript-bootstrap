@@ -56,4 +56,5 @@ Startup References
 - [Wowpartners – Accelerating your company](http://wowpartners.net/)
 - [Build. Grow. Scale - Samsung NEXT](https://samsungnext.com/)
 - [Founder Institute: World's premier idea-stage accelerator & startup launch program.](https://fi.co/)  <br/><br/>
-- [Home 
+- [Home - KRYPTON](http://krypton36.co/)
+- [Greylock Partners A Leading
