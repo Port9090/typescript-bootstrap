@@ -58,4 +58,6 @@ Startup References
 - [Founder Institute: World's premier idea-stage accelerator & startup launch program.](https://fi.co/)  <br/><br/>
 - [Home - KRYPTON](http://krypton36.co/)
 - [Greylock Partners A Leading Silicon Valley Venture Capital Firm](https://www.greylock.com/)
-- [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter 
+- [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter Thiel, PayPal founder)
+- [FAST INVESTMENT](http://fastinvestment.co.kr/)
+-
