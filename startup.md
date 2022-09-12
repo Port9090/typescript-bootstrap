@@ -57,4 +57,5 @@ Startup References
 - [Build. Grow. Scale - Samsung NEXT](https://samsungnext.com/)
 - [Founder Institute: World's premier idea-stage accelerator & startup launch program.](https://fi.co/)  <br/><br/>
 - [Home - KRYPTON](http://krypton36.co/)
-- [Greylock Partners A Leading Silicon Valley Venture Capital Firm](https://www.greylo
+- [Greylock Partners A Leading Silicon Valley Venture Capital Firm](https://www.greylock.com/)
+- [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter 
