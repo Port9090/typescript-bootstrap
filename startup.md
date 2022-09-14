@@ -60,4 +60,5 @@ Startup References
 - [Greylock Partners A Leading Silicon Valley Venture Capital Firm](https://www.greylock.com/)
 - [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter Thiel, PayPal founder)
 - [FAST INVESTMENT](http://fastinvestment.co.kr/)
--
+- [CBA Ventures](http://www.cbaventures.net/)
+- [HOME :: 끌림벤처스
