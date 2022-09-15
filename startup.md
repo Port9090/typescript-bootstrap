@@ -61,4 +61,5 @@ Startup References
 - [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter Thiel, PayPal founder)
 - [FAST INVESTMENT](http://fastinvestment.co.kr/)
 - [CBA Ventures](http://www.cbaventures.net/)
-- [HOME :: 끌림벤처스
+- [HOME :: 끌림벤처스](http://www.klimvc.com/)
+- [Social Capital - Advancing h
