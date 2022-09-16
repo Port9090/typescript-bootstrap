@@ -62,4 +62,4 @@ Startup References
 - [FAST INVESTMENT](http://fastinvestment.co.kr/)
 - [CBA Ventures](http://www.cbaventures.net/)
 - [HOME :: 끌림벤처스](http://www.klimvc.com/)
-- [Social Capital - Advancing h
+- [Social Capital - Advancing humanity by solving the world's hardest problems](https://www.socialcapita
