@@ -78,4 +78,5 @@ Startup References
 
 
 ### Media
-- [___TechCrunch – Startup
+- [___TechCrunch – Startup and Technology News___](https://techcrunch.com/)
+- [플래텀(Platum
