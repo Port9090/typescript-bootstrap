@@ -71,4 +71,11 @@ Startup References
 ### Info
 - [더브이씨 (THE VC) - 한국 스타트업 투자 데이터베이스](https://thevc.kr/)
 - [데모데이 - 스타트업 포털 서비스](http://www.demoday.co.kr/)
-- [Startup Genome | Decoding Startup Success](https://startupgenome.com/?h
+- [Startup Genome | Decoding Startup Success](https://startupgenome.com/?home=true)
+
+
+ <br/><br/>
+
+
+### Media
+- [___TechCrunch – Startup
