@@ -79,4 +79,5 @@ Startup References
 
 ### Media
 - [___TechCrunch – Startup and Technology News___](https://techcrunch.com/)
-- [플래텀(Platum
+- [플래텀(Platum) - 'Startup's Story Platform’](https://platum.kr/)
+- [스타트업 전문 미디어 서비스 플랫
