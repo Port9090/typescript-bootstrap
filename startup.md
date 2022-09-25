@@ -84,4 +84,4 @@ Startup References
 - [쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/)
 - [스타트업4(Startup4) 창업전문지](http://www.startup4.co.kr/)
 - [Vertical Platform | 버티컬 플랫폼](https://verticalplatform.kr/)
-- [Crunchbase:
+- [Crunchbase: Discover innovative companies and the people behind them](https:/
