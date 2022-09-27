@@ -85,4 +85,5 @@ Startup References
 - [스타트업4(Startup4) 창업전문지](http://www.startup4.co.kr/)
 - [Vertical Platform | 버티컬 플랫폼](https://verticalplatform.kr/)
 - [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
-- [EO - YouTube](https://www.youtube.com/cha
+- [EO - YouTube](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q/featured)
+- [브랜드 디자인 | 가지공장 | 대한민국](https:/
