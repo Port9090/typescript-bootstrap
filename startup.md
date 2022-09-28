@@ -87,4 +87,5 @@ Startup References
 - [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
 - [EO - YouTube](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q/featured)
 - [브랜드 디자인 | 가지공장 | 대한민국](https://www.eggplantfactory.co.kr/)
-- [스타트업앤칠(Startup&Chill) - 한국 스타트업의 모든 
+- [스타트업앤칠(Startup&Chill) - 한국 스타트업의 모든 것](https://startupnchill.com/)  <br/><br/>
+- [모바일 시대를
