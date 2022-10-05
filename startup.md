@@ -88,4 +88,5 @@ Startup References
 - [EO - YouTube](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q/featured)
 - [브랜드 디자인 | 가지공장 | 대한민국](https://www.eggplantfactory.co.kr/)
 - [스타트업앤칠(Startup&Chill) - 한국 스타트업의 모든 것](https://startupnchill.com/)  <br/><br/>
-- [모바일 시대를 사는 사람들의 이야기를 전합니다 - 모비인사이드 MOBIINSIDE](https://www.mobi
+- [모바일 시대를 사는 사람들의 이야기를 전합니다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/)
+- [와우테일(WOWTALE) – 스타트업과 투자자를 이어주는 이야기](https://wowtale.n
