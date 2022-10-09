@@ -91,3 +91,4 @@ Startup References
 - [모바일 시대를 사는 사람들의 이야기를 전합니다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/)
 - [와우테일(WOWTALE) – 스타트업과 투자자를 이어주는 이야기](https://wowtale.net/)
 - [___techNeedle 테크니들 – 글로벌 테크 소식을 인사이트와 함께 전달합니다___](http://techneedle.com/) (techNeedle 테크니들 : global tech news & insight)
+- [JOH & Company](http://johcompany.com/) (Magazine B,
