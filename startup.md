@@ -92,4 +92,6 @@ Startup References
 - [와우테일(WOWTALE) – 스타트업과 투자자를 이어주는 이야기](https://wowtale.net/)
 - [___techNeedle 테크니들 – 글로벌 테크 소식을 인사이트와 함께 전달합니다___](http://techneedle.com/) (techNeedle 테크니들 : global tech news & insight)
 - [JOH & Company](http://johcompany.com/) (Magazine B, Brand Documentary Magazine)
-- [INDIEPOST 인디포스트](https://www.indie
+- [INDIEPOST 인디포스트](https://www.indiepost.co.kr/)
+- [TECH M](http://techm.kr/)
+- [맥갤러리](https://post.naver.co
