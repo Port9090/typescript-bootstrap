@@ -94,4 +94,5 @@ Startup References
 - [JOH & Company](http://johcompany.com/) (Magazine B, Brand Documentary Magazine)
 - [INDIEPOST 인디포스트](https://www.indiepost.co.kr/)
 - [TECH M](http://techm.kr/)
-- [맥갤러리](https://post.naver.co
+- [맥갤러리](https://post.naver.com/my.nhn?memberNo=6384148)
+- [VentureBeat | Transformative tech coverage that 
