@@ -98,4 +98,4 @@ Startup References
 - [VentureBeat | Transformative tech coverage that matters](https://venturebeat.com/)
 - [더퍼스트미디어](https://www.thefirstmedia.net/)
 - [폴인 인사이트](https://news.joins.com/IssueSeries/1022)
-    - [___[폴인인사이트] 170만
+    - [___[폴인인사이트] 170만 회원 일군 타다 박재욱 대표, "스타트업, 처음엔 두 가지만 생각해야" - 중앙일보___](https://news
