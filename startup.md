@@ -100,4 +100,5 @@ Startup References
 - [폴인 인사이트](https://news.joins.com/IssueSeries/1022)
     - [___[폴인인사이트] 170만 회원 일군 타다 박재욱 대표, "스타트업, 처음엔 두 가지만 생각해야" - 중앙일보___](https://news.joins.com/article/23711778)  <br/><br/>
 - [Byline Network - IT 전문기자의 연대 바이라인네트워크](https://byline.network/)
-    - [스튜디오 바이라인 - YouTube]
+    - [스튜디오 바이라인 - YouTube](https://www.youtube.com/channel/UCOwdFYG_vmsT7BDi9dp8nKQ/videos)
+- [트렌드
