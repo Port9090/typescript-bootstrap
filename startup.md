@@ -105,4 +105,8 @@ Startup References
 - [Seoulz - Startup and Technology News from Korea](https://seoulz.com/)
 
 
- <br/><
+ <br/><br/>
+
+
+### Job & Community
+- [로켓펀치 - 비즈니스 네트워크](https:/
