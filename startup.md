@@ -109,4 +109,5 @@ Startup References
 
 
 ### Job & Community
-- [로켓펀치 - 비즈니스 네트워크](https:/
+- [로켓펀치 - 비즈니스 네트워크](https://www.rocketpunch.com/)
+- [원티드 - 지인 추천하고 보상금 받기](https://www.wanted.co
