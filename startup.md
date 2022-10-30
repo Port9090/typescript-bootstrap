@@ -113,4 +113,5 @@ Startup References
 - [원티드 - 지인 추천하고 보상금 받기](https://www.wanted.co.kr/)
 - [채용보기 | 더팀스(THE TEAMS)](https://www.theteams.kr/recruit)
 - [AngelList - Where the world meets startups](https://angel.co/)
-- [Home | STEX](https://startupexchange.mit.edu/)
+- [Home | STEX](https://startupexchange.mit.edu/) (MIT Startup Exchange)
+- [ROOT IMPACT](http://rootimpact.org/v2
