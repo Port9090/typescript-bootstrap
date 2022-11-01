@@ -114,4 +114,5 @@ Startup References
 - [채용보기 | 더팀스(THE TEAMS)](https://www.theteams.kr/recruit)
 - [AngelList - Where the world meets startups](https://angel.co/)
 - [Home | STEX](https://startupexchange.mit.edu/) (MIT Startup Exchange)
-- [ROOT IMPACT](http://rootimpact.org/v2
+- [ROOT IMPACT](http://rootimpact.org/v2/intro.php) (heyground)
+- [서울대학교 창업지원단](https://startup.snu.
