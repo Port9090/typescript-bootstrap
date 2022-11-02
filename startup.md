@@ -115,4 +115,5 @@ Startup References
 - [AngelList - Where the world meets startups](https://angel.co/)
 - [Home | STEX](https://startupexchange.mit.edu/) (MIT Startup Exchange)
 - [ROOT IMPACT](http://rootimpact.org/v2/intro.php) (heyground)
-- [서울대학교 창업지원단](https://startup.snu.
+- [서울대학교 창업지원단](https://startup.snu.ac.kr/)
+- [Crunchbase: Discover innovative companies and the
