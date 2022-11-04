@@ -117,4 +117,5 @@ Startup References
 - [ROOT IMPACT](http://rootimpact.org/v2/intro.php) (heyground)
 - [서울대학교 창업지원단](https://startup.snu.ac.kr/)
 - [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
-- [VIRUS](http://viru
+- [VIRUS](http://virus.network/) (스타트업 가치&문화 확산 네트워크)
+- [전문투자자 찾고 싶을 땐 | 넥스트 유니콘](https://www
