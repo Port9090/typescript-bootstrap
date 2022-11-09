@@ -124,4 +124,5 @@ Startup References
  <br/><br/>
 
 
-### C
+### Conference & Meetup
+- [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.korea
