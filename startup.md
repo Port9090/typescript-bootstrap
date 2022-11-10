@@ -126,4 +126,5 @@ Startup References
 
 ### Conference & Meetup
 - [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
-- [2019 Tech Meets Startup](http://tech-startu
+- [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
+- [스타트업 거리축제 IF FESTIVAL](http://www.iffestival.kr/html/
