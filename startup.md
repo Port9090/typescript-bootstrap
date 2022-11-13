@@ -127,4 +127,5 @@ Startup References
 ### Conference & Meetup
 - [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
 - [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
-- [스타트업 거리축제 IF FESTIVAL](http://www.iffestival.kr/html/
+- [스타트업 거리축제 IF FESTIVAL](http://www.iffestival.kr/html/)
+- [신한 FUTURE’S LAB 데모데이 & 채용박람회 2019 | 로켓펀치 - 비즈니스 네트워크](http
