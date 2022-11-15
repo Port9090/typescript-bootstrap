@@ -130,4 +130,5 @@ Startup References
 - [스타트업 거리축제 IF FESTIVAL](http://www.iffestival.kr/html/)
 - [신한 FUTURE’S LAB 데모데이 & 채용박람회 2019 | 로켓펀치 - 비즈니스 네트워크](https://www.rocketpunch.com/futureslabdemoday2019)
 - [ComeUp 2019](https://www.kcomeup.com/)
-- [Find Your Unicorn! - 스타트업 채용 박람회](https
+- [Find Your Unicorn! - 스타트업 채용 박람회](https://www.theteams.kr/startup2019) (theteams startup2019)
+- [[한국벤처투자] KOREA 벤처투
