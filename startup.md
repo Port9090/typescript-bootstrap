@@ -133,4 +133,11 @@ Startup References
 - [Find Your Unicorn! - 스타트업 채용 박람회](https://www.theteams.kr/startup2019) (theteams startup2019)
 - [[한국벤처투자] KOREA 벤처투자 SUMMIT 2019;더 특별한 IR](http://www.kban.or.kr/?returnPage=9&bbsNo=2005)
 - [2019 농식품 창업콘테스트](https://a-challenge.kr/)
-- [제53회 프랜차이즈 창업박람회 SETE
+- [제53회 프랜차이즈 창업박람회 SETEC 2019](https://www.franchisesetec.co.kr/)
+
+
+ <br/><br/>
+
+
+### Blog
+- [
