@@ -140,4 +140,5 @@ Startup References
 
 
 ### Blog
+- [Startups - Medium](https://medium.com/topic/startups)
 - [
