@@ -141,4 +141,4 @@ Startup References
 
 ### Blog
 - [Startups - Medium](https://medium.com/topic/startups)
-- [
+- [Opensurvey Blog](https://www.opensurvey.co.kr/blog/) (trend report, st
