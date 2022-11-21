@@ -142,4 +142,5 @@ Startup References
 ### Blog
 - [Startups - Medium](https://medium.com/topic/startups)
 - [Opensurvey Blog](https://www.opensurvey.co.kr/blog/) (trend report, statistics)
-- [브런치 키워드: IT 트렌드](https://brunch.co.kr/keyword/IT_
+- [브런치 키워드: IT 트렌드](https://brunch.co.kr/keyword/IT_%ED%8A%B8%EB%A0%8C%EB%93%9C?q=g)
+- [브런치 키워드: 스타트업 경험담](https:
