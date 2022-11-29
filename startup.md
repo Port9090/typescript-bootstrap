@@ -147,4 +147,5 @@ Startup References
 - [VCNC Blog](https://blog.vcnc.co.kr/) (쏘카, 타다, 비트윈) <br><br>
 - [에스티마의 인터넷이야기 EstimaStory.com | Thoughts on Internet](https://estimastory.com/) (임정욱 Startup Alliance 센터장)
 - [조성문의 블로그 – Sungmoon's Thoughts](https://sungmooncho.com/) (조성문 chartmetric.io CEO)
-    - [리드 호프만 – 조성문의 블로그](https://sungmooncho.com/tag/%EB%A6%AC%EB%93%9C-%ED%98%B8%ED%94%84%EB%A7%8C/) (_
+    - [리드 호프만 – 조성문의 블로그](https://sungmooncho.com/tag/%EB%A6%AC%EB%93%9C-%ED%98%B8%ED%94%84%EB%A7%8C/) (___실리콘밸리의 파워 그룹, 페이팔 마피아(Paypal Mafia)___)
+    - [PayPal Mafia - Wik
