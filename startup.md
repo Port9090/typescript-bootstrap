@@ -150,4 +150,5 @@ Startup References
     - [리드 호프만 – 조성문의 블로그](https://sungmooncho.com/tag/%EB%A6%AC%EB%93%9C-%ED%98%B8%ED%94%84%EB%A7%8C/) (___실리콘밸리의 파워 그룹, 페이팔 마피아(Paypal Mafia)___)
     - [PayPal Mafia - Wikipedia](https://en.wikipedia.org/wiki/PayPal_Mafia)
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
-    - [___스타트업 밸류에이션은 어떻게 하는가? – Live & Venture___](http
+    - [___스타트업 밸류에이션은 어떻게 하는가? – Live & Venture___](https://liveandventure.com/2013/04/27/valuation1/)
+- [Better tha
