@@ -151,4 +151,5 @@ Startup References
     - [PayPal Mafia - Wikipedia](https://en.wikipedia.org/wiki/PayPal_Mafia)
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
     - [___스타트업 밸류에이션은 어떻게 하는가? – Live & Venture___](https://liveandventure.com/2013/04/27/valuation1/)
-- [Better tha
+- [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
+    - [
