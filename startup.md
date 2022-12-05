@@ -153,4 +153,4 @@ Startup References
     - [___스타트업 밸류에이션은 어떻게 하는가? – Live & Venture___](https://liveandventure.com/2013/04/27/valuation1/)
 - [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
     - [Positive Tenacity – Democratizing the Future](https://positivetenacity.com/)
-        - [It's okay to be not liked on demo day. – Positive Ten
+        - [It's okay to be not liked on demo day. – Positive Tenacity](https://positivetenacity.com/2020/02/18/its-okay-to-be-not-liked-on-demo
