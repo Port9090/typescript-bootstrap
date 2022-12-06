@@ -155,4 +155,4 @@ Startup References
     - [Positive Tenacity – Democratizing the Future](https://positivetenacity.com/)
         - [It's okay to be not liked on demo day. – Positive Tenacity](https://positivetenacity.com/2020/02/18/its-okay-to-be-not-liked-on-demo-day/)
 - [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)  <br/><br/>
-- [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup
+- [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup and more...](http://softrocky.com/) (이충환, 창업원 Pangyo Center, a founder & form
