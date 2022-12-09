@@ -159,3 +159,5 @@ Startup References
 - [THE STARTUP BIBLE](http://www.thestartupbible.com/) (Strong Ventures 배기홍)
 - [원모먼트 인사이드 매거진](https://brunch.co.kr/magazine/1moment-people)
 - [황성재 PhD의 브런치](https://brunch.co.kr/@uxinventor)
+- [Jiyeon Song의 브런치](https://brunch.co.kr/@jiyeonsongofnt) (AB180)
+- [Paul Graham](htt
