@@ -161,4 +161,4 @@ Startup References
 - [황성재 PhD의 브런치](https://brunch.co.kr/@uxinventor)
 - [Jiyeon Song의 브런치](https://brunch.co.kr/@jiyeonsongofnt) (AB180)
 - [Paul Graham](http://www.paulgraham.com/index.html) (Y combinator)
-- [Reid Hof
+- [Reid Hoffman - Entrepreneur. Investor. Strategist.](https://www
