@@ -163,4 +163,5 @@ Startup References
 - [Paul Graham](http://www.paulgraham.com/index.html) (Y combinator)
 - [Reid Hoffman - Entrepreneur. Investor. Strategist.](https://www.reidhoffman.org/) (linkedin)
 - [The Pitch - Blog of Startups.](https://www.chrischae.kr/) (채수빈, Pixelic)
-    - [지금 듣고 있는 팟캐스트들](https://ww
+    - [지금 듣고 있는 팟캐스트들](https://www.chrischae.kr/podcasts-im-listening-to/) (___투자, 스타트업, 테크 팟캐스트 추천___)
+- [김지
