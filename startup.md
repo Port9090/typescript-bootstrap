@@ -168,4 +168,14 @@ Startup References
 - [유디v의 브런치](https://brunch.co.kr/@goodgdg#articles)
 
 
- <br/><br
+ <br/><br/>
+
+
+### Podcast
+
+
+ <br/><br/>
+
+
+### Gov
+- [스타트업캠퍼스](https://w
