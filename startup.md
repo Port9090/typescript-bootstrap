@@ -181,4 +181,5 @@ Startup References
 - [스타트업캠퍼스](https://www.gstartupcampus.or.kr/) (판교)
 - [서울창업허브](http://seoulstartuphub.com/)
 - [창업진흥원](https://www.kised.or.kr/)
-- [K-스타트업 (창업넷)](https:
+- [K-스타트업 (창업넷)](https://www.k-startup.go.kr/main.do)
+- [TIPS 프로그램 - Tec
