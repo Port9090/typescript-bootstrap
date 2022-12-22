@@ -183,4 +183,5 @@ Startup References
 - [창업진흥원](https://www.kised.or.kr/)
 - [K-스타트업 (창업넷)](https://www.k-startup.go.kr/main.do)
 - [TIPS 프로그램 - Tech Incubator Program for startup Korea](http://www.jointips.or.kr/)
-- [중소벤
+- [중소벤처기업부](https://www.mss.go.kr/site/smba/main.do)
+    - [::: 엔젤
