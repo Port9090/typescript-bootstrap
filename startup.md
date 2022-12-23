@@ -184,4 +184,5 @@ Startup References
 - [K-스타트업 (창업넷)](https://www.k-startup.go.kr/main.do)
 - [TIPS 프로그램 - Tech Incubator Program for startup Korea](http://www.jointips.or.kr/)
 - [중소벤처기업부](https://www.mss.go.kr/site/smba/main.do)
-    - [::: 엔젤투자매칭펀드시스템 :::](https://www.kban.or.kr/jsp/ext/main.jsp) (엔젤투자지원센
+    - [::: 엔젤투자매칭펀드시스템 :::](https://www.kban.or.kr/jsp/ext/main.jsp) (엔젤투자지원센터, Angel Investment Support Center)
+    - [한국벤처투자(주) - 한국모태펀
