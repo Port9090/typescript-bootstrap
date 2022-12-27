@@ -185,4 +185,4 @@ Startup References
 - [TIPS 프로그램 - Tech Incubator Program for startup Korea](http://www.jointips.or.kr/)
 - [중소벤처기업부](https://www.mss.go.kr/site/smba/main.do)
     - [::: 엔젤투자매칭펀드시스템 :::](https://www.kban.or.kr/jsp/ext/main.jsp) (엔젤투자지원센터, Angel Investment Support Center)
-    - [한국벤처투자(주) - 한국모태펀
+    - [한국벤처투자(주) - 한국모태펀드, 일자리창출펀드, 산업기술사업화모펀드, 해외진출 글로벌 펀드, 한국전력 모펀드, 엔젤 모펀드,
