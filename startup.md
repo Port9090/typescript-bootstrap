@@ -187,4 +187,11 @@ Startup References
     - [::: 엔젤투자매칭펀드시스템 :::](https://www.kban.or.kr/jsp/ext/main.jsp) (엔젤투자지원센터, Angel Investment Support Center)
     - [한국벤처투자(주) - 한국모태펀드, 일자리창출펀드, 산업기술사업화모펀드, 해외진출 글로벌 펀드, 한국전력 모펀드, 엔젤 모펀드, KEB하나-KVIC 유니콘 모펀드](https://k-vic.co.kr/)
 - [소상공인 상권정보시스템에 오신 것을 환영합니다!](http://sg.sbiz.or.kr/main.sg#/main)
-- [청춘창업창창 - 당신의 창업 마니또](https://www.changcha
+- [청춘창업창창 - 당신의 창업 마니또](https://www.changchang.kr/)  <br/><br/>
+
+
+ <br/><br/>
+
+
+### ETC
+- [The very best 
