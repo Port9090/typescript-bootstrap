@@ -194,4 +194,4 @@ Startup References
 
 
 ### ETC
-- [The very best company culture decks on the web - The Startup - Medium](https://m
+- [The very best company culture decks on the web - The Startup - Medium](https://medium.com/swlh/the-very-best-company-culture-decks-on-the-w
