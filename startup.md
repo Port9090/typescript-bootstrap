@@ -195,4 +195,4 @@ Startup References
 
 ### ETC
 - [The very best company culture decks on the web - The Startup - Medium](https://medium.com/swlh/the-very-best-company-culture-decks-on-the-web-5a3de60c0bb9)
-- [PowerPoint 프레젠테이션 - Start-up-Trend-Report-2019_final_v3.pdf](https://startupall.kr/wp-content/uploads/201
+- [PowerPoint 프레젠테이션 - Start-up-Trend-Report-2019_final_v3.pdf](https://startupall.kr/wp-content/uploads/2019/10/Start-up-Trend-Report-2019_final_v3.pdf) (startup alli
