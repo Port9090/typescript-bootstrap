@@ -197,4 +197,5 @@ Startup References
 - [The very best company culture decks on the web - The Startup - Medium](https://medium.com/swlh/the-very-best-company-culture-decks-on-the-web-5a3de60c0bb9)
 - [PowerPoint 프레젠테이션 - Start-up-Trend-Report-2019_final_v3.pdf](https://startupall.kr/wp-content/uploads/2019/10/Start-up-Trend-Report-2019_final_v3.pdf) (startup alliance 스타트업 트렌드 리포트 2019)
 - [What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
-- [오픈애즈:마케팅 정보 큐레이션](http://www.openads.co.
+- [오픈애즈:마케팅 정보 큐레이션](http://www.openads.co.kr/home/index.nhn)
+- [Strategyzer | Corporate Innovation Strategy, Tools
