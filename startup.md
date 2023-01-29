@@ -201,4 +201,5 @@ Startup References
 - [Strategyzer | Corporate Innovation Strategy, Tools & Training](https://www.strategyzer.com/) (Business Model Canvas)
 - [The Holloway Syllabus on ___Company Culture___ — Holloway](https://www.holloway.com/s/syllabus-company-culture) (230+ resources you need to learn the ins and outs of company culture.)
 - [과연 스타트업의 가치는 어떻게 측정할까?](https://brunch.co.kr/@mobiinside/1938) (모비인사이드)
-- [[삼정KPMG 스타트업 경영 360 #16] 기업가치평가(1) – 스타트업의 기업가치평가는 왜 답이 없나요? - 'Startup's Story Platform’](ht
+- [[삼정KPMG 스타트업 경영 360 #16] 기업가치평가(1) – 스타트업의 기업가치평가는 왜 답이 없나요? - 'Startup's Story Platform’](https://platum.kr/archives/70840)
+- [구글 스프린트를 아시나요?](https://brunc
