@@ -210,3 +210,4 @@ Startup References
 
 
 ### News
+- [[CEO] 구글도 인정한 \`뱅크샐러드\` 맞춤형 자산관리 새장 열것 - 매일경제](https://www.mk.co.
