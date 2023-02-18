@@ -212,4 +212,4 @@ Startup References
 ### News
 - [[CEO] 구글도 인정한 \`뱅크샐러드\` 맞춤형 자산관리 새장 열것 - 매일경제](https://www.mk.co.kr/news/economy/view/2019/10/851496/)
 - [15초 동영상으로 세계 홀린 中‘틱톡’....시장 판도 바꾸나? - 데일리포스트](http://www.thedailypost.kr/news/articleView.html?idxno=70752)
-- [“페
+- [“페이스북, 드롭박스에 투자했던 제가 유니콘을 먹여 살리는 스타트업 창업했습니다” : 네이버 포스트](https:/
