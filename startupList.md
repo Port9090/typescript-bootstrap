@@ -192,3 +192,58 @@ Startup lists
 - [Doomoolmori - RoboAdvisor](https://doomoolmori.com/) : Financial
 - [NEUROPHET | 뉴로핏 | Korea | 대한민국](https://www.neurophet.com/) : neuroscience
 - [벨루가 비즈니스 - 상품 발주 서비스](https://business.veluga.kr/) : 술
+- [Home | Kudan](https://www.kudan.io/) : Artificial Perception, SLAM
+- [CALMS for Coding](http://calmsw.com/) : 코딩교육, 코딩로봇연구소, Coding Academy & Learning Management System
+- [어반베이스](https://urbanbase.com/) : 3D 공간데이터 플랫폼, AR VR
+- [CODE42](https://www.code42.ai/) : Autonomous Driving, TaaS
+- [Archisketch](https://www.archisketch.com/) : 아키스케치/아키드로우, VR/AR을 활용한 인테리어 하드웨어 및 소프트웨어 솔루션
+- [엔젤스윙](https://www.angelswing.io/) : Drone
+- [INTAKE](https://www.intakefoods.kr/en/) : Healthy food
+- [HYPERITHM Group](https://hyperithm.com/) : Algorithm Trading
+- [오아시스마켓::믿을 수 있는 먹거리](https://www.oasis.co.kr/main) : 유기농 식품 거래 마켓
+- [투모런스](https://tomorrance.com/)
+    - [핏코 | 1:1 온라인 코디](https://fitco.style/) : 온라인 코디 서비스
+- [JUST LIVE - JUST LIVE](http://justlive.co.kr/) : micro housing
+- [투어라이브 - 현지투어를 오디오로 듣다](tourlive.co.kr) : 여행, 컨텐츠
+- [Seoul Robotics | Making Robots Intelligent](https://www.seoulrobotics.org/)
+- [ArtRIE](http://artrie.com/) : 미술
+- [오늘의집 – 버킷플레이스 – 누구나 예쁜 집에 살 수 있어](http://bucketplace.co.kr/) : 인테리어
+- [Humelo 휴멜로](https://www.humelo.com/) : EMOTIONAL INTELLIGENCE, AI music, sound, TTS
+- [Standigm - Standigm](http://www.standigm.com/) : biomedical AI, drug
+- [포켓샐러드&라이스 - 샐러드 배달 대표 브랜드](https://pocketsalad.co.kr/) : 샐러드
+- [MakinaRocks | Machine Intelligence for Manufacturing](http://www.makinarocks.ai/) : AI
+- [무비블록](http://moviebloc.io/ko/) : blockchain, movie
+- [Laguro](https://www.laguro.com/) : dental
+- [아워박스](http://ourbox.co.kr/) : 물류
+- [HelloBell](http://www.hellofactory.co.kr/en/) : 레스토랑 스마트 오더 벨
+- [태블릿주문시스템 호잇](http://hoeat.co.kr/index.php) : 태블릿 주문 시스템
+- [온디멘드 외식 중개 플랫폼, 달리셔스](https://dalicious.co/) : 외식 중계 플랫폼
+- [Nuro](https://nuro.ai/) : self-driving delivery
+- [Aurora Innovation | Aurora](https://aurora.tech/) : self-driving
+- [Restaurants, Dentists, Bars, Beauty Salons, Doctors - Yelp](https://www.yelp.com/) : User Reviews and Recommendations
+- [룰루랩](http://www.lulu-lab.com/) : Beauty
+- [이벤트커넥터](http://eventconnector.net/new/) : Event
+- [Foxy AI | Visual Property Intelligence for Real Estate](https://www.foxyai.com/index.html) : AI, real estate
+- [Streami](https://streami.co/index.html) : blockchain
+- [Lunit Inc. | Lunit Inc.](https://lunit.io/en/) : AI, medical
+- [Phantom AI](https://phantom.ai/) : autonomous vehicle
+- [ThorDrive | 토르드라이브](https://www.thordrive.ai/) : autonomous driving technology platform
+- [Picnic™ Home](https://www.hellopicnic.com/) : food automation
+- [나우웨이팅](https://home.nowwaiting.co/) : 웨이팅 고객 관리
+- [Musicspray](http://musicspray.net/#/) : 음원 유통 플랫폼
+- [Ontology | The proven global enterprise blockchain](https://ont.io/) : blockchain
+    - [OntologyNetwork – Medium](https://medium.com/ontologynetwork)
+- [X_X](https://xbarx.tistory.com/) (엑스바엑스)
+    - [오더플러스 :: 국내 최대 업소용 식자재 주문 앱](http://orderplus.co.kr/) : 업소용 식자재 주문
+- [플링고(Plingo) : 언어의 즐거움을 찾다](https://plingo.io/) : 외국어 학습
+- [슈퍼루키](https://www.superookie.com/) : 채용
+- [Dishcraft | Home](https://dishcraft.com/) : 설거지
+- [Home | Hashed](https://www.hashed.com/) : blockchain
+- [AITRICS](https://www.aitrics.com/)
+- [Deep Bio | DeepBio - providing deep learning solutions to pathology](https://www.deepbio.co.kr/)
+- [비대면 테스트 플랫폼, 포메이커스](https://formakers.net/)
+- [레몬베이스: 건강한 성장의 시작](https://lemonbase.com/)
+
+
+ <br/><br/>
+
