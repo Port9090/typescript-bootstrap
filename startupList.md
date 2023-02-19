@@ -67,3 +67,80 @@ Startup lists
 - [프레시코드 - 프리미엄 샐러드 배달 서비스](https://www.freshcode.me/) : 샐러드, 배달 
 - [스윗밸런스, 맛있고 든든한 샐러드](https://sweetbalance.kr/) : 샐러드, 배달 
 - [일과 일상을 네모에서 찾다, 네모](https://www.nemoapp.kr/) : 공유오피스
+- [패스트파이브 :: 국내 대표 공유오피스](https://www.fastfive.co.kr/) : 공유오피스
+- [아트쉐어 artshare](http://artshare.kr/index.html) : 예술, 디자인  
+- [홈핏 :: 찾아가는 전문 코치](https://homefit.co.kr/) : 운동  
+- [서울의 의사 리스트 (2019) | 병의원 리뷰, 후기는 모두닥!](https://www.modoodoc.com/) : 의료 
+- [보이스루 - JAMAKE](https://voithru.com/) : Voithru, AI 자막제작
+- [Avokado Lab](https://www.avokadolab.com/) : 음식 로봇 
+- [LUXROBO](https://modi.luxrobo.com/) : 코딩교육
+- [도도 :: 매장 마케팅 솔루션](http://www.dodopoint.com/) : 매장 관리 솔루션 - 포인트 멤버십, 고객관리
+- [슬로워크](https://slowalk.co.kr/) : 빠띠(시민 참여 민주주의 플랫폼), 스티비(이메일 마케팅 솔루션)
+- [HealingPaper](http://www.healingpaper.com/) : 모바일 헬스케어, 강남언니 
+- [메디프레소](http://www.mediespresso.com/) : 푸드테크, 한방차
+- [Looxid Labs – Explore User Mind](https://looxidlabs.com/) : VR, 생체신호센서
+- [Superb AI - AI-Powered Training Data](https://www.superb-ai.com/) : AI
+- [바닐라브릿지- 주선자가 해주는 신뢰가는 소개팅 - Google Play 앱](https://play.google.com/store/apps/details?id=com.vanillabridge.app&hl=ko) : 소개팅
+- [코드잇 | 최고의 프로그래밍 교육을 모두에게!](https://www.codeit.kr/) : 코딩 교육
+- [ZOYI Corporation — Retail Computing](https://zoyi.co/ko) : e-commerce
+- [피플펀드 - 보통 사람을 위한 보통이 아닌 금융](https://www.peoplefund.co.kr/) : 금융
+- [코드스테이츠 | Code States | 혁신적인 코딩 교육 부트캠프](https://codestates.com/#/) : 코딩 교육
+- [ROBOTIS](http://en.robotis.com/) : 로봇
+- [홈 | Roborus](https://roborus.ai/ko/) : 주문 로봇, AI
+- [리멤버 - 국민 명함앱](https://rememberapp.co.kr/home) : 명함
+- [마플 - 내가 만든 나만의 상품](https://www.marpple.com/kr/) : 개인 맞춤형 상품 (콘텐츠 플랫폼 커머스)
+- [어피티 - UPPITY -](https://uppity.co.kr/) : 뉴스레터
+- [뉴닉 NEWNEEK](https://newneek.co/) : 뉴스레터
+- [당근마켓 - 우리 동네 중고거래](https://www.daangn.com/) : 중고 거래 
+- [스카이스캐너-항공권, 호텔, 렌트카 최저가 비교 예약](https://www.skyscanner.co.kr/) : 여행
+- [트립스토어 - 패키지여행 비교](https://m.tripstore.kr/) : 여행 
+- [TAGSOLUTION – 태그솔루션](http://tagsolution.kr/) : 디스플레이, LED 
+- [Brewguru – 사람과 사회를 중요시하며 가장 맛있는 콤부차를 만드는 회사](https://brewguru.shop/) : 콤부차 
+- [ppLink - Home](https://www.pplink.net/#/) : remote communication 
+- [conalog 커널로그 – 스마트함이 일상에 깃들다](https://www.conalog.com/) : smart device 
+- [CryptoQuant](https://cryptoquant.com/home/) : 금융 IT 
+- [플레이오토 - 쇼핑몰 통합관리 솔루션](https://www.playauto.co.kr/) : 쇼핑몰 
+- [빅펄 - 앞서가는 비즈니스를 위한 인플루언서 마케팅의 새로운 방법](https://ad.bigpearl.io/) : youtube 마케팅 
+- [핑퐁 빌더](https://pingpong.us/) : 챗봇 
+- [제로연회비](https://zeroannualfee.com/) : 금융, 카드 
+- [숨고: 숨은고수 - 150만명이 선택한 No.1 전문가 매칭](https://soomgo.com/) : 구인 
+- [롤체지지 - 롤토체스 전적 검색, 아이템, 랭킹, 시너지 조합표](https://lolchess.gg/) : 게임
+- [Semantic Machines](http://www.semanticmachines.com/) : Machine Learning 
+- [Festa! 이벤트를 만나는 가장 쉬운 방법](https://festa.io/) : 행사
+- [OTR](http://www.otr.co.kr/) : 공연 예술 종합  
+- [Scatter Lab](https://www.scatterlab.co.kr/) : AI, ML 
+- [Hair Suit MATCH 헤어수트 매치](http://www.hairsuitmatch.com/main/index.php) : 맞춤형 가발 
+- [케이팝 레이더 K-Pop Radar](https://www.kpop-radar.com/) : k-pop
+- [Spoqa](https://www.spoqa.com/) : 매장 마케팅 솔루션 
+- [소셜 살롱, 문토](https://munto.kr/) : 취미, 모임 
+- [드리머리](https://www.dreamary.net/) : 머리 헤어샵
+- [괜찮아마을](https://dontworryvillage.com/) : 공동체, 청년 
+- [BLUESINK](http://www.bluesink.io/) : 로봇 
+- [미소 | 믿을 수 있는 가사도우미, 이사청소, 가전청소](https://miso.kr/homeclean) : 가사도우미
+- [시제품부터 양산까지, 당신이 찾던 제조 전문가 | 온라인 제조 서비스, 크리에이터블.](https://creatable.com/) : 3d 프린팅, HW
+- [서울잡스 – 일을 고민하는 청년들을 연결합니다](https://seouljobs.net/) : 구인구직
+- [마이핏](https://www.emyfit.com/) : 운동
+- [아드리엘 - 당신의 인공지능 마케팅 에이전트](https://adriel.ai/kr) : AI, 광고
+- [VIRNECT | 산업용 AR 전문기업](https://www.virnect.com/) : AR
+- [탑아이소프트(주) – AI Integrated Platform R&D](http://ai-soft.co.kr/) : AI platform
+- [NEWT](https://newt.news/) : 뉴스
+- [행복을 전하는 꽃배달 서비스 - 원모먼트 플라워](https://www.1moment.co.kr/) : 꽃, 선물
+- [담화관](http://www.damhwagwan.com/) : 영화, 모임
+- [와이즐리 :: 정직한 가격의 독일산 프리미엄 면도날](https://www.wiselyshave.com/) : 면도기, 정기배송
+- [클래스101 | 준비물까지 챙겨주는 온라인 클래스](https://class101.net/) : 취미, 수업
+- [마켓컬리 :: 내일의 장보기, 마켓컬리](https://www.kurly.com/shop/main/index.php) : 쇼핑몰
+- [헬로네이처 - 잠들 때 주문, 눈뜨면 도착](https://www.hellonature.net/shop/main/index.php) : 쇼핑몰
+- [코멘토 - 현직자가 도와주는 취업사이트](https://comento.kr/) : 온라인 (취업) 멘토링
+- [캐치패션 - 세상의 명품을 한 눈에 - Catch](https://www.catchfashion.com/) : 명품, 쇼핑
+- [CLOSET SHARE](https://www.closetshare.com/theclozet/main/index) : 패션 공유
+- [FORESTING](https://foresting.io/) : 블록체인
+- [아하 | 지식커머스플랫폼](https://www.a-ha.io/) : 지식공유, 블록체인
+- [잼페이스](https://www.zamface.co.kr/main.php) : 메이크업, 화장
+- [꾸까 | 꽃이 필요한 순간, 전국 꽃배달서비스](https://kukka.kr/) : 꽃, 구독
+- [에이블하우스](http://www.ablehouse.kr/) : 셰어하우스
+- [라스트오더](https://lastorder.co.kr/) : 마감세일, 음식
+- [코너마켓](https://www.cornermarket.co.kr/shop/main/index.php) : 아동복, 쇼핑몰, 리세일
+- [포잉](https://www.poing.co.kr/#) : 레스토랑 맛집 검색 및 예약
+- [Pixo](https://www.pixo.co/) : 앱 개발
+- [휴마니타스](http://www.hmnts.co.kr/) : 의료, IT
+- [Food Culture Lab.™](http://www.fclab.co.kr/) : 음식
