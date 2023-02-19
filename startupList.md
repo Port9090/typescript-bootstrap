@@ -144,3 +144,51 @@ Startup lists
 - [Pixo](https://www.pixo.co/) : 앱 개발
 - [휴마니타스](http://www.hmnts.co.kr/) : 의료, IT
 - [Food Culture Lab.™](http://www.fclab.co.kr/) : 음식
+- [퇴사학교](https://t-school.kr/) : 자기계발, 교육
+- [나누다키친](https://www.nanudakitchen.com/) : 공유 주방
+- [블루핵](http://bluehack.net/) : IT
+- [인썸니아 - INSOMENIA 스타트업 전문 개발사](https://insomenia.com/) : IT, 개발 외주
+- [비긴메이트 - 스타트업 팀빌딩 플랫폼](https://beginmate.com/) : 스타트업, 구인구직
+- [Home - STDIO.H](https://www.stdioh.com/) : 구인구직
+- [(주)알리버 2017 * 빅데이터 기반 소프트웨어 제작을 통해, 미래형 라이프 스타일의 새로운 가치를 창출합니다.](http://www.alli-ver.com/) : Big Data, IT
+- [고스트키친 |](https://ghostkitchen.net/) : 공유주방
+- [코스믹그린](http://www.cosmicgreen.co.kr/) : 바이오 비료
+- [Stronghold Technology](https://www.stronghold-technology.com/) : 로봇, 커피
+- [라피움](http://rafium.co.kr/) : 명상, 마음, 치유
+- [식자재 주문은 #식봄(식자재의봄)](https://www.foodspring.co.kr/) : 음식 재료 주문
+- [YBRAIN](http://www.ybrain.com/ko/) : 디지털 헬스케어, 뇌과학 (Think Healthy)
+- [예스나우](https://www.yesnow.co.kr/) : 개인 건강 맞춤 건강기능식품
+- [메인 | YesNow Inc.](https://www.yesnowinc.io/) : PICKY PICKER, 개인 맞춤형 의류 치수 정보
+- [왓챠 - 영화, 도서, TV 추천 앱](https://watcha.com/ko-KR/) : 영화, 도서, TV 추천
+- [DECON | Cryptoeconomics Lab ](https://deconlab.io/en/) : 블록체인
+- [DeepNatural AI - Training Corpus for Natural Language Models](https://deepnatural.ai/) : AI
+- [DeepNatural AI](https://app.deepnatural.ai/) : AI
+- [Brighter AI | Deep Natural Anonymization](https://brighter.ai/) : AI
+- [학원 찾을 땐, 강남엄마](https://gangmom.kr/) : 학원 정보 공유
+- [탈잉 - 세상의 모든 재능](https://taling.me/) : 재능 공유, 튜터, 튜티, 수업
+- [당구비, 새로운 당구문화 플랫폼](https://www.billiardb.com/) : 당구
+- [스마트스코어](http://www.smartscore.kr/) : 골프
+- [In English — Supercat](http://corp.supercat.co.kr/english) : 게임
+- [Ground X](https://www.groundx.xyz/) : Blockchain
+    - [Klaytn](https://www.klaytn.com/) : Blockchain
+- [지구인마켓](https://zikooin-market.com/) : 친환경 건강 간편식, 못생긴 농산물, 유통 
+- [Aroundus](https://www.aroundus.com/ko/Landing/Users) : 소셜 프로필 네트워크
+- [BookCrew - 당신과 작가를 잇다, 북크루](https://www.bookcrew.net/) : 책, 작가
+- [재요 – 사이즈비교 솔루션 ZEYO – 재요(ZEYO) 서비스에 대한 소개 페이지](https://www.zeyo.co.kr/) : 신체데이터 기반 의류 사이즈 비교
+- [아트맵](http://www.art-map.co.kr/) : 미술시장 플랫폼
+    - [아트맵](https://artmap.modoo.at/) : 취향 분석 데이터 기반 미술 큐레이션 서비스
+- [Pluto | Optimize Your Research](https://pluto.network/) : 학술 커뮤니케이션 플랫폼
+- [셀렉트스타 SelectStarㅣ AI Data Service](https://www.selectstar.ai/) : AI
+- [퍼퓸라이퍼](http://perfumelifer.co.kr/) : 향수
+- [도시를 누비다, 올룰로 | olulo](https://olulo.io/) : 전동킥보드 공유서비스 KICKGOING
+- [새로운 취미박스, 하비인더박스](http://hobbyinthebox.co.kr/) : 취미 공유 서비스
+- [학생독립만세](https://www.hakdokman.com/) : 학습
+- [오늘회 :: 오늘손질 오늘배송 ::](https://www.onul-hoi.com/) : 회
+- [VUNO Inc. | View the Invisible, Know the Unknown](https://www.vuno.co/) : MedTech (Above Intelligence for Better Healthcare)
+- [PiLab](https://pilab.co/) : Blockchain
+- [디보션푸드 – 사람과 지구를 위한 건강한 먹거리](http://devotionfoods.com/) : 대체육
+- [공공의주방](https://www.public-kitchen.com/) : 쿠킹클래스/공간 공유 플랫폼
+- [로플랫(loplat) - 오프라인 데이터 전문 기업](https://loplat.com/) : 사용자 실내위치정보 플랫폼
+- [Doomoolmori - RoboAdvisor](https://doomoolmori.com/) : Financial
+- [NEUROPHET | 뉴로핏 | Korea | 대한민국](https://www.neurophet.com/) : neuroscience
+- [벨루가 비즈니스 - 상품 발주 서비스](https://business.veluga.kr/) : 술
